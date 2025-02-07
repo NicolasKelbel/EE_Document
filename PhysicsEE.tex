@@ -4,8 +4,11 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{geometry}
+\usepackage[style=mla, backend=biber]{biblatex}
+
 \geometry{a4paper}
 
+\addbibresource{ref.bib}
 
 \begin{document}
 
@@ -22,22 +25,22 @@
             {\LARGE\textbf{Title:}\ Vortex Shedding Frequency}
             \vspace{1cm}
 
-            {\Large\textbf{RQ:}\ How does the geometry of a shape impact its vortex shedding frequency}
+            {\Large\textbf{RQ:}\ How does the geometry of a bluff body impact its vortex shedding frequency}
             \vspace{4cm}
 
             {\large Word count:\ \ldots}
             \vfill
 
-            \vspace{0.1cm}
     \end{center}
 \end{titlepage}
 
 \tableofcontents
-\listoffigures
-
 
 \appendix
 \include{appendix}
 
+\renewcommand{\bibname}{Bibliography}
+\nocite{*}
+\printbibliography
 
 \end{document}
