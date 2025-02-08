@@ -1,10 +1,12 @@
-\documentclass[a4paper]{report}
+\documentclass[a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{geometry}
 \usepackage[style=mla, backend=biber]{biblatex}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}  
 
 \geometry{a4paper}
 
@@ -36,10 +38,11 @@
 
 \tableofcontents
 
+
+
 \appendix
 \include{appendix}
 
-\renewcommand{\bibname}{Bibliography}
 \nocite{*}
 \printbibliography
 
