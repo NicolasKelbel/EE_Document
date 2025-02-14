@@ -8,6 +8,9 @@
 \usepackage{fontspec}
 \setmainfont{Times New Roman}  
 
+\usepackage{nomencl}
+\makenomenclature
+
 \geometry{a4paper}
 
 \addbibresource{ref.bib}
@@ -39,6 +42,18 @@
 \tableofcontents
 
 \listoffigures
+
+\listoftables
+
+\nomenclature[A]{CFD}{Computational Fluid Dynamics}
+\nomenclature[A]{PISO}{Pressure-Implicit with Splitting of Operators}
+\nomenclature[A]{SIMPLE}{Semi-Implicit Method for Pressure-Linked Equations}
+
+\nomenclature[B]{$f$}{Vortex shedding frequency (Hz)}
+\nomenclature[B]{$L$}{Characteristic length (m)}
+\nomenclature[B]{$Re$}{Reynolds number (dimensionless)}
+
+\printnomenclature
 
 \include{introduction}
 
