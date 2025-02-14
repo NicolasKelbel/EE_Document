@@ -1,19 +1,27 @@
 \documentclass[a4paper]{article}
-\usepackage[utf8]{inputenc}
+% Advanced math notation %
 \usepackage{amsmath}
+% Graphics & Images %
 \usepackage{graphicx}
+% Hyperlinks %
 \usepackage{hyperref}
+% Page Layout Customization %
 \usepackage{geometry}
+\geometry{a4paper}
+% Bibliography %
 \usepackage[style=mla, backend=biber]{biblatex}
 \usepackage{fontspec}
+\addbibresource{ref.bib}
 \setmainfont{Times New Roman}  
-
+% Nomenclature %
 \usepackage{nomencl}
 \makenomenclature
+\renewcommand{\nomgroup}[1]{
+  \ifthenelse{\equal{#1}{A}}{\item[\textbf{\large Abbreviations}]}{%
+  \ifthenelse{\equal{#1}{B}}{\item[\textbf{\large Symbols}]}{}}%
+}
 
-\geometry{a4paper}
 
-\addbibresource{ref.bib}
 
 \begin{document}
 
@@ -49,9 +57,10 @@
 \nomenclature[A]{PISO}{Pressure-Implicit with Splitting of Operators}
 \nomenclature[A]{SIMPLE}{Semi-Implicit Method for Pressure-Linked Equations}
 
-\nomenclature[B]{$f$}{Vortex shedding frequency (Hz)}
-\nomenclature[B]{$L$}{Characteristic length (m)}
-\nomenclature[B]{$Re$}{Reynolds number (dimensionless)}
+\nomenclature[B]{$f$}{Vortex shedding frequency ($Hz$)}
+\nomenclature[B]{$L$}{Characteristic length ($m$)}
+\nomenclature[B]{$Re$}{Reynolds number ($dimensionless$)}
+\nomenclature[B]{$V$}{Flow velocity ($\text{m s}^{-1}$)}
 
 \printnomenclature
 
