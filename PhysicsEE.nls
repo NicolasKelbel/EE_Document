@@ -1,13 +1,10 @@
 
 \begin{thenomenclature} 
 \nomgroup{A}
-  \item [{CFD}]\begingroup Computational Fluid Dynamics\nomeqref {0}\nompageref{1}
-  \item [{PISO}]\begingroup Pressure-Implicit with Splitting of Operators\nomeqref {0}\nompageref{1}
-  \item [{SIMPLE}]\begingroup Semi-Implicit Method for Pressure-Linked Equations\nomeqref {0}\nompageref{1}
-\nomgroup{B}
-  \item [{$f$}]\begingroup Vortex shedding frequency ($Hz$)\nomeqref {0}\nompageref{1}
+  \item [{$f_v$}]\begingroup Vortex shedding frequency ($Hz$)\nomeqref {0}\nompageref{1}
   \item [{$L$}]\begingroup Characteristic length ($m$)\nomeqref {0}\nompageref{1}
   \item [{$Re$}]\begingroup Reynolds number ($dimensionless$)\nomeqref {0}\nompageref{1}
+  \item [{$St$}]\begingroup Strouhal number ($dimensionless$)\nomeqref {0}\nompageref{1}
   \item [{$V$}]\begingroup Flow velocity ($\text{m s}^{-1}$)\nomeqref {0}\nompageref{1}
 
 \end{thenomenclature}

@@ -16,10 +16,6 @@
 % Nomenclature %
 \usepackage{nomencl}
 \makenomenclature
-\renewcommand{\nomgroup}[1]{
-  \ifthenelse{\equal{#1}{A}}{\item[\textbf{\large Abbreviations}]}{%
-  \ifthenelse{\equal{#1}{B}}{\item[\textbf{\large Symbols}]}{}}%
-}
 % Glossary %
 \usepackage[toc]{glossaries}
 \makeglossaries
@@ -55,34 +51,32 @@
 
 \listoftables
 
-\nomenclature[A]{CFD}{Computational Fluid Dynamics}
-\nomenclature[A]{PISO}{Pressure-Implicit with Splitting of Operators}
-\nomenclature[A]{SIMPLE}{Semi-Implicit Method for Pressure-Linked Equations}
+\nomenclature{$L$}{Characteristic length ($m$)}
+\nomenclature{$V$}{Flow velocity ($\text{m s}^{-1}$)}
+\nomenclature{$Re$}{Reynolds number ($dimensionless$)}
+\nomenclature{$St$}{Strouhal number ($dimensionless$)}
+\nomenclature{$f_v$}{Vortex shedding frequency ($Hz$)}
 
-\nomenclature[B]{$f$}{Vortex shedding frequency ($Hz$)}
-\nomenclature[B]{$L$}{Characteristic length ($m$)}
-\nomenclature[B]{$Re$}{Reynolds number ($dimensionless$)}
-\nomenclature[B]{$V$}{Flow velocity ($\text{m s}^{-1}$)}
 
 \printnomenclature
 
-\include{introduction}
+\include{sections/introduction/introduction}
 
-\include{background}
+\include{sections/background/background}
 
-\include{practical}
+\include{sections/practical/practical}
 
-\include{theoretical}
+\include{sections/theoretical/theoretical}
 
-\include{comparison}
+\include{sections/comparison/comparison}
 
-\include{conclusion}
+\include{sections/conclusion/conclusion}
 
-\include{evaluation}
+\include{sections/evaluation/evaluation}
 
 % Appendix %
 \appendix
-\include{appendix}
+\include{sections/appendix/appendix}
 
 % Glossary %
 \printglossaries
