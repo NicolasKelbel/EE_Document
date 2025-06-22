@@ -1,0 +1,2575 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{allum2023}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f3d4408505c6315cce2574242b48f267}{%
+           family={Allum},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91c41ea5bcfd45fec6e63d86d319b0c7}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hodder Education}%
+      }
+      \strng{namehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{fullhash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{bibnamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authorbibnamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authornamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authorfullhash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{9781398369917}
+      \field{note}{For the IB Diploma Programme}
+      \field{title}{Physics}
+      \field{year}{2023}
+    \endentry
+    \entry{ansys_learning_best_2023}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f07379b4fb952daaad64592c7364326}{%
+           family={{Ansys Learning}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{fullhash}{6f07379b4fb952daaad64592c7364326}
+      \strng{bibnamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authorbibnamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authornamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authorfullhash}{6f07379b4fb952daaad64592c7364326}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this video lesson, important meshing considerations such as quality, resolution in significant areas and cell type are discussed, and best practices for mesh generation are given. For more details about the contents of this video, visit the lesson page here → https://courses.ansys.com/index.php/c...}
+      \field{day}{10}
+      \field{month}{2}
+      \field{title}{Best Practices for Mesh Generation — Lesson 2}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=nwrBYdHi64w
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=nwrBYdHi64w
+      \endverb
+    \endentry
+    \entry{noauthor_ansys_nodate}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Integrate your engineering simulations together in one space with the Ansys Workbench platform—a personal project manager that coordinates and transfers data across physics.}
+      \field{langid}{american}
+      \field{title}{Ansys Workbench {|} Simulation Integration Platform}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ansys.com/products/ansys-workbench
+      \endverb
+      \verb{url}
+      \verb https://www.ansys.com/products/ansys-workbench
+      \endverb
+    \endentry
+    \entry{buresti1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d35aeb13e108338f184a485252df0ec1}{%
+           family={Buresti},
+           familyi={B\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{fullhash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{bibnamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authorbibnamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authornamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authorfullhash}{d35aeb13e108338f184a485252df0ec1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
+      \field{title}{Vortex shedding from bluff bodies}
+      \field{volume}{74-76}
+      \field{year}{1998}
+      \field{pages}{163\bibrangedash 172}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/S0167-6105(98)00015-5
+      \endverb
+    \endentry
+    \entry{choi2000strouhal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=adee41586598f15433b546f8167b7384}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Chang-Koon},
+           giveni={C\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c42f2ace15a5a219299ac00c6f564a5}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Dae\bibnamedelima Kun},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{fullhash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{bibnamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authorbibnamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authornamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authorfullhash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wind and Structures: An International Journal}
+      \field{number}{3}
+      \field{title}{Determination of the Strouhal Number Based on the Aerodynamic Behavior of Rectangular Cylinders}
+      \field{volume}{3}
+      \field{year}{2000}
+      \field{pages}{209\bibrangedash 220}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.12989/was.2000.3.3.209
+      \endverb
+    \endentry
+    \entry{codeynamicsYoutube}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
+           family={{Codeynamics}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{YouTube channel}
+      \field{title}{Codeynamics}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.youtube.com/@Codeynamics
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/@Codeynamics
+      \endverb
+    \endentry
+    \entry{comflics_openfoam_2014}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90dbc9d753a8a3c3f17d0df24163fae2}{%
+           family={{comflics}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{fullhash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{bibnamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authorbibnamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authornamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authorfullhash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Simulation of Laminar flow around a circular cylinder. • o-grid type mesh • {forceCoeff}: Coefficients of Lift and Drag • Vortex shedding frequency • Validate with experimental results}
+      \field{day}{27}
+      \field{month}{8}
+      \field{title}{{OpenFOAM} Tutorial \#4 - Laminar Vortex Shedding}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=ylZQXiEdYYo
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=ylZQXiEdYYo
+      \endverb
+    \endentry
+    \entry{erau_boundarylayer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c6d59c53b3122c7080661c578906a775}{%
+           family={{Embry-Riddle Aeronautical University}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {EaglePubs Open Educational Resources}%
+      }
+      \strng{namehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{fullhash}{c6d59c53b3122c7080661c578906a775}
+      \strng{bibnamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authorbibnamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authornamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authorfullhash}{c6d59c53b3122c7080661c578906a775}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Introduction to Boundary Layers}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
+      \endverb
+      \verb{url}
+      \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
+      \endverb
+    \endentry
+    \entry{fitzpatrick2016_reynolds}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7f30a3a440fa574307351e6690550fa}{%
+           family={Fitzpatrick},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {University of Texas at Austin}%
+      }
+      \strng{namehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{fullhash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{bibnamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authorbibnamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authornamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authorfullhash}{f7f30a3a440fa574307351e6690550fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Accessed: 2025-05-20}
+      \field{title}{Reynolds Number}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
+      \endverb
+      \verb{url}
+      \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
+      \endverb
+    \endentry
+    \entry{fluid_mechanics_101_cfd_2021}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01bed2d83b34ec948816313aabe3f882}{%
+           family={{Fluid Mechanics 101}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{fullhash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{bibnamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authorbibnamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authornamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authorfullhash}{01bed2d83b34ec948816313aabe3f882}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An introduction to inflation layers / prism layers, which can be generated by the majority of unstructured mesh generators ({ICEM} {CFD}, {ANSA}, {ANSYS} Workbench, {SnappyHexMesh}). The following topics are covered: 1) 02:00 Why do we use inflation layers in {CFD}?}
+      \field{day}{24}
+      \field{month}{6}
+      \field{title}{[{CFD}] Inflation Layers / Prism Layers in {CFD}}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=1gSHN99I7L4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=1gSHN99I7L4
+      \endverb
+    \endentry
+    \entry{livescience_fluid_dynamics}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
+           family={Ghose},
+           familyi={G\bibinitperiod},
+           given={Tia},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {LiveScience}%
+      }
+      \strng{namehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{fullhash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{bibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authorbibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authornamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authorfullhash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-12}
+      \field{title}{What is fluid dynamics?}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+      \verb{url}
+      \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+    \endentry
+    \entry{govardhan2005karman}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e312588e20f6f8245af5238955a53081}{%
+           family={Govardhan},
+           familyi={G\bibinitperiod},
+           given={Raghuraman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6001f31db93c8957cad0cade6396c34c}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={On},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{fullhash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{bibnamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authorbibnamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authornamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authorfullhash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resonance}
+      \field{title}{A Stroll down Kármán Street}
+      \field{volume}{10}
+      \field{year}{2005}
+      \field{pages}{25\bibrangedash 37}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/BF02866744
+      \endverb
+    \endentry
+    \entry{green1995fluid}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d8ca4fd8405a411cba6efab8de86cb1}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Sheldon\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{fullhash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{bibnamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editorbibnamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editornamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editorfullhash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-94-010-4111-9}
+      \field{note}{Softcover reprint of the hardcover 1st edition, originally published in 1995}
+      \field{series}{Fluid Mechanics and Its Applications}
+      \field{title}{Fluid Vortices}
+      \field{volume}{30}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1007/978-94-011-0249-0
+      \endverb
+    \endentry
+    \entry{holton2003_vorticity}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a535308fa0a5f96fe3976cc0f0748aeb}{%
+           family={Holton},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2681a6ad997013a413f2ca2bb15f9bfc}{%
+           family={Holton},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{fullhash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{bibnamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authorbibnamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authornamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authorfullhash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{editorbibnamehash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \strng{editornamehash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \strng{editorfullhash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Atmospheric Sciences}
+      \field{isbn}{9780122270901}
+      \field{title}{Vorticity}
+      \field{year}{2003}
+      \field{pages}{2500\bibrangedash 2504}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/B0-12-227090-8/00449-8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122270908004498
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122270908004498
+      \endverb
+    \endentry
+    \entry{ib_physics_2025}{misc}{}
+      \list{organization}{1}{%
+        {International Baccalaureate Organization}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-27}
+      \field{title}{IB Physics Guide 2025}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
+      \endverb
+      \verb{url}
+      \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
+      \endverb
+    \endentry
+    \entry{ilieva2017turbulence}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5838bd14dae4ddfaff41109c1436283c}{%
+           family={Ilieva},
+           familyi={I\bibinitperiod},
+           given={Galina},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{fullhash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{bibnamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authorbibnamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authornamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authorfullhash}{5838bd14dae4ddfaff41109c1436283c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Turbomachinery}
+      \field{isbn}{978-953-51-3349-0}
+      \field{title}{On Turbulence and its Effects on Aerodynamics of Flow through Turbine Stages}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5772/intechopen.68205
+      \endverb
+    \endentry
+    \entry{jayaraj2024openfoam}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9339acfc9f43ec10636bd0249c15672e}{%
+           family={Jayaraj\bibnamedelima P},
+           familyi={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Harish},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Udemy}%
+      }
+      \strng{namehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{fullhash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{bibnamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authorbibnamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authornamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authorfullhash}{9339acfc9f43ec10636bd0249c15672e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{From the course "OpenFOAM for Absolute Beginners", Codeynamics on Udemy}
+      \field{title}{Lecture: Introduction to vortex shedding simulation using OpenFOAM}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
+      \endverb
+      \verb{url}
+      \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
+      \endverb
+    \endentry
+    \entry{jeff_defoe_bluff_2020}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e14e32029dc1abd45696cedc8837a543}{%
+           family={{Jeff Defoe}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{fullhash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{bibnamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authorbibnamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authornamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authorfullhash}{e14e32029dc1abd45696cedc8837a543}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{5}
+      \field{title}{Bluff Body Aerodynamics, Lecture 2 part 5}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=9g62QkNFtlE
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=9g62QkNFtlE
+      \endverb
+    \endentry
+    \entry{jurado2012}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=46c2457ace647048b038c7b56266aca1}{%
+           family={Jurado},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi Á.},
+           giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9ba7a25c379b4b3256124be3df3ff5a}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92c6e72ba89fceafe31367461d88d360}{%
+           family={Hernández},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b06d1554d4a650de53af871cf6d5cda9}{%
+           family={Nieto},
+           familyi={N\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e70c49f964128a993021c6742e58dc8}{%
+           family={Kusano},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Shanghai, China}%
+      }
+      \list{organization}{1}{%
+        {International Association for Wind Engineering}%
+      }
+      \strng{namehash}{7ce1a34b783a0e286775a45c30e82a80}
+      \strng{fullhash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{bibnamehash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{authorbibnamehash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{authornamehash}{7ce1a34b783a0e286775a45c30e82a80}
+      \strng{authorfullhash}{b285ca3a412f56c1acfa29470430f1c0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Seventh International Colloquium on Bluff Body Aerodynamics and Applications (BBAA7)}
+      \field{note}{Accessed: 2025-05-04}
+      \field{title}{A review of cases of vortex shedding excitation in bridges: Sectional models testing}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
+      \endverb
+      \verb{url}
+      \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
+      \endverb
+    \endentry
+    \entry{learneng2022_boundarylayer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ef72ba39707364c147fe8ecb9f9236a}{%
+           family={{Learn Engineering}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{fullhash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{bibnamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authorbibnamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authornamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authorfullhash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{Accessed: 2025-04-16}
+      \field{title}{What is Boundary Layer in Fluid Mechanics}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=ahohd8ceGR4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=ahohd8ceGR4
+      \endverb
+    \endentry
+    \entry{mohn2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8fc9ed2ed7f6d85f40500c6b50f1034}{%
+           family={Mohn},
+           familyi={M\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {EBSCO Information Services}%
+      }
+      \strng{namehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{fullhash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{bibnamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authorbibnamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authornamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authorfullhash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-30}
+      \field{title}{Non-Newtonian Fluid}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
+      \endverb
+      \verb{url}
+      \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
+      \endverb
+    \endentry
+    \entry{nasa_reynolds}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3e62e3f303a726970106d973c981189}{%
+           family={{NASA Glenn Research Center}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NASA}%
+      }
+      \strng{namehash}{a3e62e3f303a726970106d973c981189}
+      \strng{fullhash}{a3e62e3f303a726970106d973c981189}
+      \strng{bibnamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authorbibnamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authornamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authorfullhash}{a3e62e3f303a726970106d973c981189}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-13}
+      \field{title}{Reynolds Number}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
+      \endverb
+      \verb{url}
+      \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
+      \endverb
+    \endentry
+    \entry{navalhydro1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Symposium held in Trondheim, Norway, June 24--28, 1996. Accessed: 2025-06-22}
+      \field{title}{Twenty-First Symposium on Naval Hydrodynamics}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://doi.org/10.17226/5870
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.17226/5870
+      \endverb
+    \endentry
+    \entry{nitsche2006_vortex}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85d1ef23c15133514f50ef9ac0918f01}{%
+           family={Nitsche},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3efeab908f10a6802bfc1aa132f97aa3}{%
+           family={Françoise},
+           familyi={F\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=a2fce6305564c66f26509b48a5357ccc}{%
+           family={Naber},
+           familyi={N\bibinitperiod},
+           given={Gregory\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3caf2aef77f082c3c66164d2253a0cc8}{%
+           family={Tsou},
+           familyi={T\bibinitperiod},
+           given={Sheung\bibnamedelima Tsun},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{fullhash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{bibnamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authorbibnamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authornamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authorfullhash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{editorbibnamehash}{db3da0358207d5055b3e3935ca488475}
+      \strng{editornamehash}{5f8eb19d1fddc7f728c68975b84f173b}
+      \strng{editorfullhash}{db3da0358207d5055b3e3935ca488475}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Mathematical Physics}
+      \field{isbn}{9780125126663}
+      \field{title}{Vortex Dynamics}
+      \field{year}{2006}
+      \field{pages}{390\bibrangedash 399}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/B0-12-512666-2/00254-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0125126662002546
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0125126662002546
+      \endverb
+    \endentry
+    \entry{noauthor_openfoam_2024}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Official home of The Open Source Computational Fluid Dynamics ({CFD}) Toolbox}
+      \field{day}{24}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{{OpenFOAM}}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.openfoam.com/
+      \endverb
+      \verb{url}
+      \verb https://www.openfoam.com/
+      \endverb
+    \endentry
+    \entry{oran2002}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a1257315e81a92b6050d4726a3056ea}{%
+           family={Oran},
+           familyi={O\bibinitperiod},
+           given={Elaine\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6aa2b29082dd0a6e3768fd6656a5af}{%
+           family={Boris},
+           familyi={B\bibinitperiod},
+           given={Jay\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7f936ba7a00efb9cbc751c65eb2fd482}{%
+           family={Meyers},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{fullhash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{bibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authorbibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authornamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authorfullhash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{editorbibnamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \strng{editornamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \strng{editorfullhash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Physical Science and Technology}
+      \field{edition}{3}
+      \field{isbn}{9780122274107}
+      \field{title}{Fluid Dynamics}
+      \field{year}{2002}
+      \field{pages}{31\bibrangedash 43}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/B0-12-227410-5/00248-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
+      \endverb
+    \endentry
+    \entry{rocchi2002_vortex}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=58096039c95d1ea2e00dadac3ee1e938}{%
+           family={Rocchi},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26ce2850e053cf8eb80cf248f717e172}{%
+           family={Zasso},
+           familyi={Z\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{fullhash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{bibnamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authorbibnamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authornamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authorfullhash}{63273a1fc97c93510c31733b68f34bff}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-6105}
+      \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
+      \field{number}{4--5}
+      \field{title}{Vortex shedding from a circular cylinder in a smooth and wired configuration: Comparison between 3D LES simulation and experimental analysis}
+      \field{volume}{90}
+      \field{year}{2002}
+      \field{pages}{475\bibrangedash 489}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/S0167-6105(01)00203-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167610501002033
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167610501002033
+      \endverb
+    \endentry
+    \entry{saldana2024_reynolds}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=7164c9e37b4b5408ab46a6052bfce939}{%
+           family={Saldana},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=459f5f77ad03a04292664766b9ab2749}{%
+           family={Gallegos},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2396df0be946ef54a486901cbd5ab33}{%
+           family={Gálvez},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39d93e0d4a747bd06261afdbfdd7e262}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b9d9900095c95f9ebfef3d932ae9a15}{%
+           family={Salinas-Rodríguez},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3871074fc467dc6dc8a182d2b201749}{%
+           family={Cerecedo-Sáenz},
+           familyi={C\bibinithyphendelim S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8745f9a7d36f2fb6967dd8c52ab75efc}{%
+           family={Hernández-Ávila},
+           familyi={H\bibinithyphendelim Á\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88b25df03086595f62c109b68c1aa187}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac04adb5c4774383f493f5150f803cfa}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0add6b7f462632c5c887ab2649ea96c5}
+      \strng{fullhash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{bibnamehash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{authorbibnamehash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{authornamehash}{0add6b7f462632c5c887ab2649ea96c5}
+      \strng{authorfullhash}{5551b25140f2caf2da162d97045aaa7a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fluids}
+      \field{number}{12}
+      \field{title}{The Reynolds Number: A Journey from Its Origin to Modern Applications}
+      \field{volume}{9}
+      \field{year}{2024}
+      \field{pages}{299}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/fluids9120299
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2311-5521/9/12/299
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2311-5521/9/12/299
+      \endverb
+    \endentry
+    \entry{shen2010_vortexmeter}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4056955119633e4de4950e8d43b8bb46}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Hui-Min},
+           giveni={H\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95789caff6f27b41fe7cccffd1062d44}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dded056c300848139b72ea4b84c3dfc3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiao-Dan},
+           giveni={J\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce3f19a723bcd0054884382d658f4001}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Taipei, Taiwan}%
+      }
+      \list{organization}{1}{%
+        {IMEKO}%
+      }
+      \strng{namehash}{1fb05b008ad63cd527244561a543b1a0}
+      \strng{fullhash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{bibnamehash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{authorbibnamehash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{authornamehash}{1fb05b008ad63cd527244561a543b1a0}
+      \strng{authorfullhash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th International Flow Measurement Conference (FLOMEKO)}
+      \field{month}{10}
+      \field{note}{Accessed: 2025-06-22}
+      \field{title}{Development of a vortex flowmeter with good performance at low‐flowrate}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
+      \endverb
+    \endentry
+    \entry{tacoma_bridge_vibrations}{online}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=96a3c06b417ffa7d19a34905f60edd7b}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Donghyun},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d69419ed89125eda9c59938ca47a76f7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Woojin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2daca9d7056c3849923eaf56ead44b0a}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Oh-Kyong},
+           giveni={O\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7888902881553c7a6ae2007e7eb1caa8}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Haecheon},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd36de875488b2e96d214d7eea46462f}
+      \strng{fullhash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{bibnamehash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{authorbibnamehash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{authornamehash}{cd36de875488b2e96d214d7eea46462f}
+      \strng{authorfullhash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Fluid Mechanics}
+      \field{title}{Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940}
+      \field{volume}{949}
+      \field{year}{2022}
+      \field{pages}{A11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1017/jfm.2022.748
+      \endverb
+    \endentry
+    \entry{boundaryLayerTheory_2018}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02bb701746a2e79501c61d749787e4a0}{%
+           family={{TutorialsPoint}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{fullhash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{bibnamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authorbibnamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authornamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authorfullhash}{02bb701746a2e79501c61d749787e4a0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{1}
+      \field{title}{Boundary Layer Theory - Introduction}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=54zf68IoPWU
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=54zf68IoPWU
+      \endverb
+    \endentry
+    \entry{versteeg2007}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c972397ed1178c7303b2422a7726156a}{%
+           family={Versteeg},
+           familyi={V\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8ee3cc63e982cb4fc7a50b522599442}{%
+           family={Malalasekera},
+           familyi={M\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Harlow, England}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{fullhash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{bibnamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authorbibnamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authornamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authorfullhash}{ba9a7413447dc90a7e7a4059b6305379}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{9780131274983}
+      \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{allum2023}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f3d4408505c6315cce2574242b48f267}{%
+           family={Allum},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91c41ea5bcfd45fec6e63d86d319b0c7}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hodder Education}%
+      }
+      \strng{namehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{fullhash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{bibnamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authorbibnamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authornamehash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \strng{authorfullhash}{279bd8a6bf915c4747a6edb313f1f7f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{9781398369917}
+      \field{note}{For the IB Diploma Programme}
+      \field{title}{Physics}
+      \field{year}{2023}
+    \endentry
+    \entry{ansys_learning_best_2023}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f07379b4fb952daaad64592c7364326}{%
+           family={{Ansys Learning}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{fullhash}{6f07379b4fb952daaad64592c7364326}
+      \strng{bibnamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authorbibnamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authornamehash}{6f07379b4fb952daaad64592c7364326}
+      \strng{authorfullhash}{6f07379b4fb952daaad64592c7364326}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this video lesson, important meshing considerations such as quality, resolution in significant areas and cell type are discussed, and best practices for mesh generation are given. For more details about the contents of this video, visit the lesson page here → https://courses.ansys.com/index.php/c...}
+      \field{day}{10}
+      \field{month}{2}
+      \field{title}{Best Practices for Mesh Generation — Lesson 2}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=nwrBYdHi64w
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=nwrBYdHi64w
+      \endverb
+    \endentry
+    \entry{noauthor_ansys_nodate}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Integrate your engineering simulations together in one space with the Ansys Workbench platform—a personal project manager that coordinates and transfers data across physics.}
+      \field{langid}{american}
+      \field{title}{Ansys Workbench {|} Simulation Integration Platform}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ansys.com/products/ansys-workbench
+      \endverb
+      \verb{url}
+      \verb https://www.ansys.com/products/ansys-workbench
+      \endverb
+    \endentry
+    \entry{buresti1998}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d35aeb13e108338f184a485252df0ec1}{%
+           family={Buresti},
+           familyi={B\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{fullhash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{bibnamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authorbibnamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authornamehash}{d35aeb13e108338f184a485252df0ec1}
+      \strng{authorfullhash}{d35aeb13e108338f184a485252df0ec1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
+      \field{title}{Vortex shedding from bluff bodies}
+      \field{volume}{74-76}
+      \field{year}{1998}
+      \field{pages}{163\bibrangedash 172}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/S0167-6105(98)00015-5
+      \endverb
+    \endentry
+    \entry{choi2000strouhal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=adee41586598f15433b546f8167b7384}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Chang-Koon},
+           giveni={C\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c42f2ace15a5a219299ac00c6f564a5}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Dae\bibnamedelima Kun},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{fullhash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{bibnamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authorbibnamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authornamehash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \strng{authorfullhash}{0cf8422f0c9a37096696f77ad18efdc5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wind and Structures: An International Journal}
+      \field{number}{3}
+      \field{title}{Determination of the Strouhal Number Based on the Aerodynamic Behavior of Rectangular Cylinders}
+      \field{volume}{3}
+      \field{year}{2000}
+      \field{pages}{209\bibrangedash 220}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.12989/was.2000.3.3.209
+      \endverb
+    \endentry
+    \entry{codeynamicsYoutube}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
+           family={{Codeynamics}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{YouTube channel}
+      \field{title}{Codeynamics}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.youtube.com/@Codeynamics
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/@Codeynamics
+      \endverb
+    \endentry
+    \entry{comflics_openfoam_2014}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90dbc9d753a8a3c3f17d0df24163fae2}{%
+           family={{comflics}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{fullhash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{bibnamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authorbibnamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authornamehash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \strng{authorfullhash}{90dbc9d753a8a3c3f17d0df24163fae2}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Simulation of Laminar flow around a circular cylinder. • o-grid type mesh • {forceCoeff}: Coefficients of Lift and Drag • Vortex shedding frequency • Validate with experimental results}
+      \field{day}{27}
+      \field{month}{8}
+      \field{title}{{OpenFOAM} Tutorial \#4 - Laminar Vortex Shedding}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=ylZQXiEdYYo
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=ylZQXiEdYYo
+      \endverb
+    \endentry
+    \entry{erau_boundarylayer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c6d59c53b3122c7080661c578906a775}{%
+           family={{Embry-Riddle Aeronautical University}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {EaglePubs Open Educational Resources}%
+      }
+      \strng{namehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{fullhash}{c6d59c53b3122c7080661c578906a775}
+      \strng{bibnamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authorbibnamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authornamehash}{c6d59c53b3122c7080661c578906a775}
+      \strng{authorfullhash}{c6d59c53b3122c7080661c578906a775}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-22}
+      \field{title}{Introduction to Boundary Layers}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
+      \endverb
+      \verb{url}
+      \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
+      \endverb
+    \endentry
+    \entry{fitzpatrick2016_reynolds}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7f30a3a440fa574307351e6690550fa}{%
+           family={Fitzpatrick},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {University of Texas at Austin}%
+      }
+      \strng{namehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{fullhash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{bibnamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authorbibnamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authornamehash}{f7f30a3a440fa574307351e6690550fa}
+      \strng{authorfullhash}{f7f30a3a440fa574307351e6690550fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Accessed: 2025-05-20}
+      \field{title}{Reynolds Number}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
+      \endverb
+      \verb{url}
+      \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
+      \endverb
+    \endentry
+    \entry{fluid_mechanics_101_cfd_2021}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01bed2d83b34ec948816313aabe3f882}{%
+           family={{Fluid Mechanics 101}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{fullhash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{bibnamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authorbibnamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authornamehash}{01bed2d83b34ec948816313aabe3f882}
+      \strng{authorfullhash}{01bed2d83b34ec948816313aabe3f882}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An introduction to inflation layers / prism layers, which can be generated by the majority of unstructured mesh generators ({ICEM} {CFD}, {ANSA}, {ANSYS} Workbench, {SnappyHexMesh}). The following topics are covered: 1) 02:00 Why do we use inflation layers in {CFD}?}
+      \field{day}{24}
+      \field{month}{6}
+      \field{title}{[{CFD}] Inflation Layers / Prism Layers in {CFD}}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=1gSHN99I7L4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=1gSHN99I7L4
+      \endverb
+    \endentry
+    \entry{livescience_fluid_dynamics}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
+           family={Ghose},
+           familyi={G\bibinitperiod},
+           given={Tia},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {LiveScience}%
+      }
+      \strng{namehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{fullhash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{bibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authorbibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authornamehash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \strng{authorfullhash}{81b8f7b3cc075a2c2599c8955272dda9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-12}
+      \field{title}{What is fluid dynamics?}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+      \verb{url}
+      \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+    \endentry
+    \entry{govardhan2005karman}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e312588e20f6f8245af5238955a53081}{%
+           family={Govardhan},
+           familyi={G\bibinitperiod},
+           given={Raghuraman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6001f31db93c8957cad0cade6396c34c}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={On},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{fullhash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{bibnamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authorbibnamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authornamehash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \strng{authorfullhash}{629bbb6e385372a4ecfcb105439ef4e2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Resonance}
+      \field{title}{A Stroll down Kármán Street}
+      \field{volume}{10}
+      \field{year}{2005}
+      \field{pages}{25\bibrangedash 37}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/BF02866744
+      \endverb
+    \endentry
+    \entry{green1995fluid}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d8ca4fd8405a411cba6efab8de86cb1}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Sheldon\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{fullhash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{bibnamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editorbibnamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editornamehash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \strng{editorfullhash}{6d8ca4fd8405a411cba6efab8de86cb1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-94-010-4111-9}
+      \field{note}{Softcover reprint of the hardcover 1st edition, originally published in 1995}
+      \field{series}{Fluid Mechanics and Its Applications}
+      \field{title}{Fluid Vortices}
+      \field{volume}{30}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1007/978-94-011-0249-0
+      \endverb
+    \endentry
+    \entry{holton2003_vorticity}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a535308fa0a5f96fe3976cc0f0748aeb}{%
+           family={Holton},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2681a6ad997013a413f2ca2bb15f9bfc}{%
+           family={Holton},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{fullhash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{bibnamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authorbibnamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authornamehash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{authorfullhash}{a535308fa0a5f96fe3976cc0f0748aeb}
+      \strng{editorbibnamehash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \strng{editornamehash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \strng{editorfullhash}{2681a6ad997013a413f2ca2bb15f9bfc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Atmospheric Sciences}
+      \field{isbn}{9780122270901}
+      \field{title}{Vorticity}
+      \field{year}{2003}
+      \field{pages}{2500\bibrangedash 2504}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/B0-12-227090-8/00449-8
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122270908004498
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122270908004498
+      \endverb
+    \endentry
+    \entry{ib_physics_2025}{misc}{}
+      \list{organization}{1}{%
+        {International Baccalaureate Organization}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-02-27}
+      \field{title}{IB Physics Guide 2025}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
+      \endverb
+      \verb{url}
+      \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
+      \endverb
+    \endentry
+    \entry{ilieva2017turbulence}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5838bd14dae4ddfaff41109c1436283c}{%
+           family={Ilieva},
+           familyi={I\bibinitperiod},
+           given={Galina},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {InTech}%
+      }
+      \strng{namehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{fullhash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{bibnamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authorbibnamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authornamehash}{5838bd14dae4ddfaff41109c1436283c}
+      \strng{authorfullhash}{5838bd14dae4ddfaff41109c1436283c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Turbomachinery}
+      \field{isbn}{978-953-51-3349-0}
+      \field{title}{On Turbulence and its Effects on Aerodynamics of Flow through Turbine Stages}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5772/intechopen.68205
+      \endverb
+    \endentry
+    \entry{jayaraj2024openfoam}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9339acfc9f43ec10636bd0249c15672e}{%
+           family={Jayaraj\bibnamedelima P},
+           familyi={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Harish},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Udemy}%
+      }
+      \strng{namehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{fullhash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{bibnamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authorbibnamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authornamehash}{9339acfc9f43ec10636bd0249c15672e}
+      \strng{authorfullhash}{9339acfc9f43ec10636bd0249c15672e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{From the course "OpenFOAM for Absolute Beginners", Codeynamics on Udemy}
+      \field{title}{Lecture: Introduction to vortex shedding simulation using OpenFOAM}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
+      \endverb
+      \verb{url}
+      \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
+      \endverb
+    \endentry
+    \entry{jeff_defoe_bluff_2020}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e14e32029dc1abd45696cedc8837a543}{%
+           family={{Jeff Defoe}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{fullhash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{bibnamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authorbibnamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authornamehash}{e14e32029dc1abd45696cedc8837a543}
+      \strng{authorfullhash}{e14e32029dc1abd45696cedc8837a543}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{5}
+      \field{title}{Bluff Body Aerodynamics, Lecture 2 part 5}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=9g62QkNFtlE
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=9g62QkNFtlE
+      \endverb
+    \endentry
+    \entry{jurado2012}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=46c2457ace647048b038c7b56266aca1}{%
+           family={Jurado},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi Á.},
+           giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9ba7a25c379b4b3256124be3df3ff5a}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92c6e72ba89fceafe31367461d88d360}{%
+           family={Hernández},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b06d1554d4a650de53af871cf6d5cda9}{%
+           family={Nieto},
+           familyi={N\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e70c49f964128a993021c6742e58dc8}{%
+           family={Kusano},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Shanghai, China}%
+      }
+      \list{organization}{1}{%
+        {International Association for Wind Engineering}%
+      }
+      \strng{namehash}{7ce1a34b783a0e286775a45c30e82a80}
+      \strng{fullhash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{bibnamehash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{authorbibnamehash}{b285ca3a412f56c1acfa29470430f1c0}
+      \strng{authornamehash}{7ce1a34b783a0e286775a45c30e82a80}
+      \strng{authorfullhash}{b285ca3a412f56c1acfa29470430f1c0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Seventh International Colloquium on Bluff Body Aerodynamics and Applications (BBAA7)}
+      \field{note}{Accessed: 2025-05-04}
+      \field{title}{A review of cases of vortex shedding excitation in bridges: Sectional models testing}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
+      \endverb
+      \verb{url}
+      \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
+      \endverb
+    \endentry
+    \entry{learneng2022_boundarylayer}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ef72ba39707364c147fe8ecb9f9236a}{%
+           family={{Learn Engineering}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{fullhash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{bibnamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authorbibnamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authornamehash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \strng{authorfullhash}{4ef72ba39707364c147fe8ecb9f9236a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{Accessed: 2025-04-16}
+      \field{title}{What is Boundary Layer in Fluid Mechanics}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=ahohd8ceGR4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=ahohd8ceGR4
+      \endverb
+    \endentry
+    \entry{mohn2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8fc9ed2ed7f6d85f40500c6b50f1034}{%
+           family={Mohn},
+           familyi={M\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {EBSCO Information Services}%
+      }
+      \strng{namehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{fullhash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{bibnamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authorbibnamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authornamehash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \strng{authorfullhash}{c8fc9ed2ed7f6d85f40500c6b50f1034}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-30}
+      \field{title}{Non-Newtonian Fluid}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
+      \endverb
+      \verb{url}
+      \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
+      \endverb
+    \endentry
+    \entry{nasa_reynolds}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3e62e3f303a726970106d973c981189}{%
+           family={{NASA Glenn Research Center}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NASA}%
+      }
+      \strng{namehash}{a3e62e3f303a726970106d973c981189}
+      \strng{fullhash}{a3e62e3f303a726970106d973c981189}
+      \strng{bibnamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authorbibnamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authornamehash}{a3e62e3f303a726970106d973c981189}
+      \strng{authorfullhash}{a3e62e3f303a726970106d973c981189}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-05-13}
+      \field{title}{Reynolds Number}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
+      \endverb
+      \verb{url}
+      \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
+      \endverb
+    \endentry
+    \entry{navalhydro1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \list{publisher}{1}{%
+        {National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Symposium held in Trondheim, Norway, June 24--28, 1996. Accessed: 2025-06-22}
+      \field{title}{Twenty-First Symposium on Naval Hydrodynamics}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://doi.org/10.17226/5870
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.17226/5870
+      \endverb
+    \endentry
+    \entry{nitsche2006_vortex}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85d1ef23c15133514f50ef9ac0918f01}{%
+           family={Nitsche},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3efeab908f10a6802bfc1aa132f97aa3}{%
+           family={Françoise},
+           familyi={F\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=a2fce6305564c66f26509b48a5357ccc}{%
+           family={Naber},
+           familyi={N\bibinitperiod},
+           given={Gregory\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3caf2aef77f082c3c66164d2253a0cc8}{%
+           family={Tsou},
+           familyi={T\bibinitperiod},
+           given={Sheung\bibnamedelima Tsun},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{fullhash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{bibnamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authorbibnamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authornamehash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{authorfullhash}{85d1ef23c15133514f50ef9ac0918f01}
+      \strng{editorbibnamehash}{db3da0358207d5055b3e3935ca488475}
+      \strng{editornamehash}{5f8eb19d1fddc7f728c68975b84f173b}
+      \strng{editorfullhash}{db3da0358207d5055b3e3935ca488475}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Mathematical Physics}
+      \field{isbn}{9780125126663}
+      \field{title}{Vortex Dynamics}
+      \field{year}{2006}
+      \field{pages}{390\bibrangedash 399}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/B0-12-512666-2/00254-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0125126662002546
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0125126662002546
+      \endverb
+    \endentry
+    \entry{noauthor_openfoam_2024}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Official home of The Open Source Computational Fluid Dynamics ({CFD}) Toolbox}
+      \field{day}{24}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{{OpenFOAM}}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.openfoam.com/
+      \endverb
+      \verb{url}
+      \verb https://www.openfoam.com/
+      \endverb
+    \endentry
+    \entry{oran2002}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a1257315e81a92b6050d4726a3056ea}{%
+           family={Oran},
+           familyi={O\bibinitperiod},
+           given={Elaine\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6aa2b29082dd0a6e3768fd6656a5af}{%
+           family={Boris},
+           familyi={B\bibinitperiod},
+           given={Jay\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7f936ba7a00efb9cbc751c65eb2fd482}{%
+           family={Meyers},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{fullhash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{bibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authorbibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authornamehash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{authorfullhash}{3f97129417bcf1b5b5d8c895d2a745da}
+      \strng{editorbibnamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \strng{editornamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \strng{editorfullhash}{7f936ba7a00efb9cbc751c65eb2fd482}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Physical Science and Technology}
+      \field{edition}{3}
+      \field{isbn}{9780122274107}
+      \field{title}{Fluid Dynamics}
+      \field{year}{2002}
+      \field{pages}{31\bibrangedash 43}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/B0-12-227410-5/00248-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
+      \endverb
+    \endentry
+    \entry{rocchi2002_vortex}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=58096039c95d1ea2e00dadac3ee1e938}{%
+           family={Rocchi},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26ce2850e053cf8eb80cf248f717e172}{%
+           family={Zasso},
+           familyi={Z\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{fullhash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{bibnamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authorbibnamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authornamehash}{63273a1fc97c93510c31733b68f34bff}
+      \strng{authorfullhash}{63273a1fc97c93510c31733b68f34bff}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-6105}
+      \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
+      \field{number}{4--5}
+      \field{title}{Vortex shedding from a circular cylinder in a smooth and wired configuration: Comparison between 3D LES simulation and experimental analysis}
+      \field{volume}{90}
+      \field{year}{2002}
+      \field{pages}{475\bibrangedash 489}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/S0167-6105(01)00203-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167610501002033
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167610501002033
+      \endverb
+    \endentry
+    \entry{saldana2024_reynolds}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=7164c9e37b4b5408ab46a6052bfce939}{%
+           family={Saldana},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=459f5f77ad03a04292664766b9ab2749}{%
+           family={Gallegos},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2396df0be946ef54a486901cbd5ab33}{%
+           family={Gálvez},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39d93e0d4a747bd06261afdbfdd7e262}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b9d9900095c95f9ebfef3d932ae9a15}{%
+           family={Salinas-Rodríguez},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3871074fc467dc6dc8a182d2b201749}{%
+           family={Cerecedo-Sáenz},
+           familyi={C\bibinithyphendelim S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8745f9a7d36f2fb6967dd8c52ab75efc}{%
+           family={Hernández-Ávila},
+           familyi={H\bibinithyphendelim Á\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88b25df03086595f62c109b68c1aa187}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac04adb5c4774383f493f5150f803cfa}{%
+           family={Toro},
+           familyi={T\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0add6b7f462632c5c887ab2649ea96c5}
+      \strng{fullhash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{bibnamehash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{authorbibnamehash}{5551b25140f2caf2da162d97045aaa7a}
+      \strng{authornamehash}{0add6b7f462632c5c887ab2649ea96c5}
+      \strng{authorfullhash}{5551b25140f2caf2da162d97045aaa7a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fluids}
+      \field{number}{12}
+      \field{title}{The Reynolds Number: A Journey from Its Origin to Modern Applications}
+      \field{volume}{9}
+      \field{year}{2024}
+      \field{pages}{299}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/fluids9120299
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2311-5521/9/12/299
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2311-5521/9/12/299
+      \endverb
+    \endentry
+    \entry{shen2010_vortexmeter}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4056955119633e4de4950e8d43b8bb46}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Hui-Min},
+           giveni={H\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95789caff6f27b41fe7cccffd1062d44}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dded056c300848139b72ea4b84c3dfc3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiao-Dan},
+           giveni={J\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce3f19a723bcd0054884382d658f4001}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Taipei, Taiwan}%
+      }
+      \list{organization}{1}{%
+        {IMEKO}%
+      }
+      \strng{namehash}{1fb05b008ad63cd527244561a543b1a0}
+      \strng{fullhash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{bibnamehash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{authorbibnamehash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \strng{authornamehash}{1fb05b008ad63cd527244561a543b1a0}
+      \strng{authorfullhash}{2a09008fe273cbd1cc24cd9de2d5a3ad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th International Flow Measurement Conference (FLOMEKO)}
+      \field{month}{10}
+      \field{note}{Accessed: 2025-06-22}
+      \field{title}{Development of a vortex flowmeter with good performance at low‐flowrate}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
+      \endverb
+    \endentry
+    \entry{tacoma_bridge_vibrations}{online}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=96a3c06b417ffa7d19a34905f60edd7b}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Donghyun},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d69419ed89125eda9c59938ca47a76f7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Woojin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2daca9d7056c3849923eaf56ead44b0a}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Oh-Kyong},
+           giveni={O\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7888902881553c7a6ae2007e7eb1caa8}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Haecheon},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd36de875488b2e96d214d7eea46462f}
+      \strng{fullhash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{bibnamehash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{authorbibnamehash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \strng{authornamehash}{cd36de875488b2e96d214d7eea46462f}
+      \strng{authorfullhash}{e4938c5a0c9b7bfe582e8f7947d86069}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Fluid Mechanics}
+      \field{title}{Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940}
+      \field{volume}{949}
+      \field{year}{2022}
+      \field{pages}{A11}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1017/jfm.2022.748
+      \endverb
+    \endentry
+    \entry{boundaryLayerTheory_2018}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02bb701746a2e79501c61d749787e4a0}{%
+           family={{TutorialsPoint}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{fullhash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{bibnamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authorbibnamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authornamehash}{02bb701746a2e79501c61d749787e4a0}
+      \strng{authorfullhash}{02bb701746a2e79501c61d749787e4a0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{1}
+      \field{title}{Boundary Layer Theory - Introduction}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=54zf68IoPWU
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=54zf68IoPWU
+      \endverb
+    \endentry
+    \entry{versteeg2007}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c972397ed1178c7303b2422a7726156a}{%
+           family={Versteeg},
+           familyi={V\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8ee3cc63e982cb4fc7a50b522599442}{%
+           family={Malalasekera},
+           familyi={M\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Harlow, England}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{fullhash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{bibnamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authorbibnamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authornamehash}{ba9a7413447dc90a7e7a4059b6305379}
+      \strng{authorfullhash}{ba9a7413447dc90a7e7a4059b6305379}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{9780131274983}
+      \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

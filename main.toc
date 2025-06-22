@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Background}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fundamentals of Fluid Dynamics}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Vortex Shedding and the Kármán Vortex Street}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}The Mechanism of Vortex Shedding}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}The Bluff Body}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}The Theoretical Investigation}{7}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Ansys Workbench}{7}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}The OpenFoam Simulation}{9}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Simulation Settings}{9}{subsubsection.2.5.3}%

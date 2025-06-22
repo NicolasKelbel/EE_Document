@@ -5,15 +5,20 @@
 \usepackage[a4paper, margin=2.5cm]{geometry}
 \usepackage{graphicx} % for images
 \usepackage{amsmath, amssymb} % for math
+\usepackage{physics} % for physics
 \usepackage{siunitx} % for units
 \usepackage{caption}
 \usepackage{tikz} %diagrams
+\usetikzlibrary{arrows.meta, decorations.pathmorphing, patterns, bending, calc, positioning}
 \usepackage{fancyhdr} % for header/footer
 \usepackage{setspace} % for spacing
 \usepackage{titlesec} % custom section titles
 \usepackage{hyperref} % for hyperlinks
 \usepackage{float} % for figure positioning
 \usepackage{tocloft} % formatting ToC
+\usepackage[backend=biber, style=apa, natbib=true]{biblatex}
+
+\addbibresource{references.bib}  % name of your .bib file
 % ----------- Settings -----------
 
 
@@ -30,11 +35,11 @@
 		\vspace*{4cm}
 		
 		\textbf{Title:}\
-		Vortex Shedding Frequency
+		The Relationship Between Polygon Geometry and Vortex Shedding Frequency in a Two-Dimensional Laminar Flow
 		\vspace{1cm}
 		
 		\textbf{RQ:}\
-		How does increasing the number of faces of a bluff body (ranging from 2 to 12) affect the vortex shedding frequency in laminar flow, measured in Hz, in a 2D plane?
+		How does increasing the number of faces of a bluff body (ranging from 2 to 12) affect the vortex shedding frequency in laminar flow, measured in Hz, in a two-dimensional plane?
 		\vspace{4cm}
 		
 		Word count:
@@ -52,6 +57,8 @@
 	
 %Introductio
 \include{introduction.tex}
+\include{background.tex}
 
+\printbibliography
 	
 \end{document}
