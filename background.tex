@@ -242,6 +242,7 @@ There is a decrease in strength of the vortex being created due to \textit{Flow 
 When considering the vortex being created from the top shear layer, the fluid at the top of the vortex will have the same velocity as the free stream velocity U, whereas the velocity at the bottom of the vortex will be of a smaller magnitude and in the opposite direction of the main flow. According to Bernoulli’s equation, a region of higher velocity must have a lower pressure and vice versa. Therefore, the bottom region of the vortex will have a higher pressure than the top region, causing a lift force which acts on the bluff body normal to the flow. The oscillation of this lift force coincides with the vortex shedding frequency. 
 
 \subsection{The Bluff Body}
+\label{subsec:bluffBody}
 In order to maintain a cylinder-like appearance, one of the most common bluff bodies investigated \parencite[475]{rocchi2002_vortex}, this investigation is conducted with bluff bodies which have a rectangular “tail”, in order to give each shape an equal overall length l\ in both streamwise and transverse directions.
 
 \begin{figure}[H]
@@ -413,11 +414,18 @@ In order to create the mesh necessary for the simulation, the \textit{All Triang
 \subsubsection{The OpenFoam Simulation}
 The theoretical part of this EE is conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024}. Among the numerous solvers OpenFOAM provides, pimpleFOAM is a transient, pressure-based solver for incompressible, single-phase, also referred to as isothermal, flows \. It combines the algorithms used in the pisoFOAM and simpleFOAM solvers, enabling robust handling of transient simulations with larger time steps, allowing for improved computational performance, hence why the solver was chosen. Moreover, its ability to model both laminar and turbulent flow ensures flow conditions are accurately reflected and given that the fluctuations of lift force are sinusoidal, one can verify the flow is laminar. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
 \subsubsection{Simulation Settings}
-To adhere to the scope of this essay the simulation setup is adapted from a case study provided in the Udemy course OpenFOAM for Absolute Beginners by \textcite{jayaraj2024openfoam}. The tutorial case 3vortexShedding discussed in lecture eight serves as a structural template, modifying it to align with the specific requirements of this investigation.
+To adhere to the scope of this essay the simulation setup is adapted from a case study provided in the Udemy course OpenFOAM for Absolute Beginners by \textcite{jayaraj2024openfoam}. The tutorial case, \textit{3vortexShedding} discussed in lecture eight, serves as a structural template and has been modified to align with the specific requirements of this investigation.
 
 (Based off of tutorial -> then explain alterations)
 Add settings and explanations (code thing)
 
 \subsubsection{FFT-based determination of the vortex shedding frequency}
+FFT-based determination of the vortex shedding frequency
+A Fast Fourier Transform (FFT) is used to extrapolate the vortex shedding frequency by altering the lift coefficient data from a time domain to a frequency domain, allowing for the identification of its underlying harmonic frequencies \parencite[10--11]{shi2025vortex}. The dominant frequency of the FFT corresponds to the vortex shedding frequency \parencite[12]{xu_experimental_2025}. To obtain an accurate vortex shedding frequency, the FFT is only applied to the steady-state phase, when the velocity and pressure at any given point in the system remain constant \parencite{noauthor_steady_nodate}, omitting the initial transient phase, when the velocity and pressure vary over time \parencite{noauthor_transient_nodate}. 
+
+\subsection{The Practical Investigation}
+Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE will be conducted in a self-built flow tank, utilizing a water pump a separation wall to create flow over a horizontal plate – the water pump moves the water from one side of the separation wall to the other. The regulation valve is used to modulate the flow velocity while the sponge diffuser decreases the flow velocity and ensures a uniform distribution of flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape are used in order to better visualize the water flow. 
+
+The bluff bodies were 3D printed with an overall length $\ell$ of $0.02$ meters – as described in \Cref{subsec:bluffBody} – giving each shape a characteristic length $L$ of $0.02$ meters and a height of $0.04$ meters. Reference marks on the horizontal plate ensure the shape is positioned in the same position each trial. A GoPro is mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate. 
 
 

@@ -16,11 +16,13 @@
 \usepackage{hyperref} % for hyperlinks
 \usepackage{float} % for figure positioning
 \usepackage{tocloft} % formatting ToC
-\usepackage[backend=biber, style=apa, natbib=true]{biblatex}
+\usepackage[backend=biber, style=apa, natbib=true]{biblatex} % references
+\usepackage{hyperref} % href
+\usepackage[capitalise, nameinlink]{cleveref} % links to sections
 
 \addbibresource{references.bib}  % name of your .bib file
 % ----------- Settings -----------
-
+\Crefname{subsection}{Subsection}{Subsections}
 
 % ----------- Title Page -----------
 

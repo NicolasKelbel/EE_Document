@@ -185,35 +185,6 @@
       \verb 10.12989/was.2000.3.3.209
       \endverb
     \endentry
-    \entry{codeynamicsYoutube}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
-           family={{Codeynamics}},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{YouTube channel}
-      \field{title}{Codeynamics}
-      \field{year}{n.d.}
-      \verb{urlraw}
-      \verb https://www.youtube.com/@Codeynamics
-      \endverb
-      \verb{url}
-      \verb https://www.youtube.com/@Codeynamics
-      \endverb
-    \endentry
     \entry{comflics_openfoam_2014}{video}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=90dbc9d753a8a3c3f17d0df24163fae2}{%
@@ -1169,6 +1140,82 @@
       \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
       \endverb
     \endentry
+    \entry{shi2025vortex}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=768a8a4e4d0c9b9a86e6945ca9169bc1}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Fulong},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47631c6bc6be1f2a09d88cf37bbbb949}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Chuanzhong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4869167c6fe42541beb203f23be82b}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Jianjian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318a797cfb1e6f8da35b79287d226780}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenjie},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db99fc6071c747f9cbfcc0d0691e38ad}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Qiu},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0ff874c887f925119b699a855b42741}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fa0b98bdb0330cc0ea22e655fd964c2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ace6b448fea627d82d43154d28c3c2e}
+      \strng{fullhash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{bibnamehash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{authorbibnamehash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{authornamehash}{3ace6b448fea627d82d43154d28c3c2e}
+      \strng{authorfullhash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2077-1312}
+      \field{journaltitle}{Journal of Marine Science and Engineering}
+      \field{number}{2}
+      \field{title}{Numerical Study on Hydrodynamic Performance and Vortex Dynamics of Multiple Cylinders Under Forced Vibration at Low Reynolds Number}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{pages}{214}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jmse13020214
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2077-1312/13/2/214
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2077-1312/13/2/214
+      \endverb
+    \endentry
     \entry{tacoma_bridge_vibrations}{online}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=96a3c06b417ffa7d19a34905f60edd7b}{%
@@ -1217,6 +1264,43 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1017/jfm.2022.748
+      \endverb
+    \endentry
+    \entry{noauthor_steady_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Steady State Flow - Fluid Flow Hydraulic and Pneumatic,}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
+      \endverb
+      \verb{url}
+      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
+      \endverb
+    \endentry
+    \entry{noauthor_transient_nodate}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Transient flow, is flow where the flow velocity and pressure are changing with time. When changes occur to a fluid systems such as the starting or stopping of a pump, closing or opening a valve, or changes in tank levels, then transient flow conditions exist: otherwise the system is steady state. Often transient flow conditions […]}
+      \field{langid}{british}
+      \field{title}{Transient flow}
+      \field{titleaddon}{Fluid Mechanics Ltd}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
+      \endverb
+      \verb{url}
+      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
       \endverb
     \endentry
     \entry{boundaryLayerTheory_2018}{video}{}
@@ -1292,6 +1376,91 @@
       \field{isbn}{9780131274983}
       \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
       \field{year}{2007}
+    \endentry
+    \entry{noauthor_vortex_nodate}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Water moving around a cylindrical pendulum makes the cylinder swing at the vortex shedding frequency. What it Shows:When fluid flows around a cylindrical object, there is}
+      \field{langid}{english}
+      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+      \verb{url}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
+    \entry{xu_experimental_2025}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=aff59302767f15c01bbb73753d13e57a}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guanqun},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=306f61b972c01e5452d64353ce1974d6}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=743b504a18506c2f61ea6f7cfae3f38a}{%
+           family={Sciacchitano},
+           familyi={S\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9facb0360ccf37fa5354aa9b8ba6c8}{%
+           family={Simao\bibnamedelima Ferreira},
+           familyi={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c507b3a7a58fedc965505dbeaf7bc78e}
+      \strng{fullhash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{bibnamehash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{authorbibnamehash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{authornamehash}{c507b3a7a58fedc965505dbeaf7bc78e}
+      \strng{authorfullhash}{92f6d00d99abd548ffa788adf8bf3501}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The airfoil {DU}91-W2-150 was investigated in the Low Speed Low Turbulence Tunnel at the Delft University of Technology to study unsteady aerodynamics. This experimental study tested the airfoil under a wide range of angles of attack ({AoA}) from 0° to 310° at three Reynolds numbers ({\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}) from {\textbackslash} 2{\textbackslash}times 10{\textasciicircum}5 {\textbackslash} to {\textbackslash} 8{\textbackslash}times 10{\textasciicircum}5 {\textbackslash}. Pressure on the airfoil surface was measured and particle image velocimetry ({PIV}) measurements were conducted to capture the flow field in the wake. By examining the force coefficient and comparing the wake contours, it shows that an upwind concave surface provides a higher load compared to a convex surface upwind case, highlighting the critical role of surface shape in aerodynamics. When comparing separation at specific locations along the chord for all three {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} values, it is observed that as {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} increases, separation tends to occur at lower {AoA}, both for positive stall and negative stall. The examination of the aerodynamic force variation indicates that, during reverse flow, fluctuations are more pronounced compared to forward flow. This is owing to separation occurring at the aerodynamic leading edge (geometric trailing edge) in reverse flow. In terms of vortex shedding frequency, the study found a nearly constant normalized Strouhal number ({\textbackslash} St {\textbackslash}) of 0.16 across various {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} and {AoA} values in fully separated regions, indicating a consistent pattern under these conditions. However, a slight increase in {\textbackslash} St {\textbackslash}, between 0.16 and 0.20, was observed for {AoA} values exceeding 180°, possibly due to the convex curvature of the airfoil in the upwind direction. In conclusion, this research not only corroborates previous findings for small {AoA} values but also adds new data on the aerodynamic behavior of the {DU}91-W2-150 airfoil under large {AoA} values, offering various perspectives on the effects of surface curvature, {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}, and flow conditions on key aerodynamic parameters.}
+      \field{issn}{1099-1824}
+      \field{journaltitle}{Wind Energy}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{An Experimental Study of the Unsteady Aerodynamics of a Static {DU}91-W2-150 Airfoil at Large Angles of Attack}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{28}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e2974}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/we.2974
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
+      \endverb
+      \keyw{airfoil Strouhal number,large angle of attack,particle image velocimetry ({PIV}),pressure measurement,unsteady aerodynamics,vortex shedding}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -1461,35 +1630,6 @@
       \verb 10.12989/was.2000.3.3.209
       \endverb
     \endentry
-    \entry{codeynamicsYoutube}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
-           family={{Codeynamics}},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{YouTube channel}
-      \field{title}{Codeynamics}
-      \field{year}{n.d.}
-      \verb{urlraw}
-      \verb https://www.youtube.com/@Codeynamics
-      \endverb
-      \verb{url}
-      \verb https://www.youtube.com/@Codeynamics
-      \endverb
-    \endentry
     \entry{comflics_openfoam_2014}{video}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=90dbc9d753a8a3c3f17d0df24163fae2}{%
@@ -2445,6 +2585,82 @@
       \verb https://www.imeko.org/publications/tc9-2010/IMEKO-TC9-2010-017.pdf
       \endverb
     \endentry
+    \entry{shi2025vortex}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=768a8a4e4d0c9b9a86e6945ca9169bc1}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Fulong},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47631c6bc6be1f2a09d88cf37bbbb949}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Chuanzhong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4869167c6fe42541beb203f23be82b}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Jianjian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318a797cfb1e6f8da35b79287d226780}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenjie},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db99fc6071c747f9cbfcc0d0691e38ad}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Qiu},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0ff874c887f925119b699a855b42741}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fa0b98bdb0330cc0ea22e655fd964c2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ace6b448fea627d82d43154d28c3c2e}
+      \strng{fullhash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{bibnamehash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{authorbibnamehash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \strng{authornamehash}{3ace6b448fea627d82d43154d28c3c2e}
+      \strng{authorfullhash}{f898a9a0a76beb588e4cd3f2dd6484af}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2077-1312}
+      \field{journaltitle}{Journal of Marine Science and Engineering}
+      \field{number}{2}
+      \field{title}{Numerical Study on Hydrodynamic Performance and Vortex Dynamics of Multiple Cylinders Under Forced Vibration at Low Reynolds Number}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{pages}{214}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jmse13020214
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2077-1312/13/2/214
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2077-1312/13/2/214
+      \endverb
+    \endentry
     \entry{tacoma_bridge_vibrations}{online}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=96a3c06b417ffa7d19a34905f60edd7b}{%
@@ -2493,6 +2709,43 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1017/jfm.2022.748
+      \endverb
+    \endentry
+    \entry{noauthor_steady_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Steady State Flow - Fluid Flow Hydraulic and Pneumatic,}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
+      \endverb
+      \verb{url}
+      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
+      \endverb
+    \endentry
+    \entry{noauthor_transient_nodate}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Transient flow, is flow where the flow velocity and pressure are changing with time. When changes occur to a fluid systems such as the starting or stopping of a pump, closing or opening a valve, or changes in tank levels, then transient flow conditions exist: otherwise the system is steady state. Often transient flow conditions […]}
+      \field{langid}{british}
+      \field{title}{Transient flow}
+      \field{titleaddon}{Fluid Mechanics Ltd}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
+      \endverb
+      \verb{url}
+      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
       \endverb
     \endentry
     \entry{boundaryLayerTheory_2018}{video}{}
@@ -2568,6 +2821,91 @@
       \field{isbn}{9780131274983}
       \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
       \field{year}{2007}
+    \endentry
+    \entry{noauthor_vortex_nodate}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Water moving around a cylindrical pendulum makes the cylinder swing at the vortex shedding frequency. What it Shows:When fluid flows around a cylindrical object, there is}
+      \field{langid}{english}
+      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+      \verb{url}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
+    \entry{xu_experimental_2025}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=aff59302767f15c01bbb73753d13e57a}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guanqun},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=306f61b972c01e5452d64353ce1974d6}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=743b504a18506c2f61ea6f7cfae3f38a}{%
+           family={Sciacchitano},
+           familyi={S\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9facb0360ccf37fa5354aa9b8ba6c8}{%
+           family={Simao\bibnamedelima Ferreira},
+           familyi={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c507b3a7a58fedc965505dbeaf7bc78e}
+      \strng{fullhash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{bibnamehash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{authorbibnamehash}{92f6d00d99abd548ffa788adf8bf3501}
+      \strng{authornamehash}{c507b3a7a58fedc965505dbeaf7bc78e}
+      \strng{authorfullhash}{92f6d00d99abd548ffa788adf8bf3501}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The airfoil {DU}91-W2-150 was investigated in the Low Speed Low Turbulence Tunnel at the Delft University of Technology to study unsteady aerodynamics. This experimental study tested the airfoil under a wide range of angles of attack ({AoA}) from 0° to 310° at three Reynolds numbers ({\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}) from {\textbackslash} 2{\textbackslash}times 10{\textasciicircum}5 {\textbackslash} to {\textbackslash} 8{\textbackslash}times 10{\textasciicircum}5 {\textbackslash}. Pressure on the airfoil surface was measured and particle image velocimetry ({PIV}) measurements were conducted to capture the flow field in the wake. By examining the force coefficient and comparing the wake contours, it shows that an upwind concave surface provides a higher load compared to a convex surface upwind case, highlighting the critical role of surface shape in aerodynamics. When comparing separation at specific locations along the chord for all three {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} values, it is observed that as {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} increases, separation tends to occur at lower {AoA}, both for positive stall and negative stall. The examination of the aerodynamic force variation indicates that, during reverse flow, fluctuations are more pronounced compared to forward flow. This is owing to separation occurring at the aerodynamic leading edge (geometric trailing edge) in reverse flow. In terms of vortex shedding frequency, the study found a nearly constant normalized Strouhal number ({\textbackslash} St {\textbackslash}) of 0.16 across various {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} and {AoA} values in fully separated regions, indicating a consistent pattern under these conditions. However, a slight increase in {\textbackslash} St {\textbackslash}, between 0.16 and 0.20, was observed for {AoA} values exceeding 180°, possibly due to the convex curvature of the airfoil in the upwind direction. In conclusion, this research not only corroborates previous findings for small {AoA} values but also adds new data on the aerodynamic behavior of the {DU}91-W2-150 airfoil under large {AoA} values, offering various perspectives on the effects of surface curvature, {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}, and flow conditions on key aerodynamic parameters.}
+      \field{issn}{1099-1824}
+      \field{journaltitle}{Wind Energy}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{An Experimental Study of the Unsteady Aerodynamics of a Static {DU}91-W2-150 Airfoil at Large Angles of Attack}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{28}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e2974}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/we.2974
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
+      \endverb
+      \keyw{airfoil Strouhal number,large angle of attack,particle image velocimetry ({PIV}),pressure measurement,unsteady aerodynamics,vortex shedding}
     \endentry
   \enddatalist
 \endrefsection
