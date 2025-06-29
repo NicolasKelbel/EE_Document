@@ -38,49 +38,97 @@ Due to the fiction between a given fluid and a bluff body, there is no relative 
 
 \begin{figure}[H]
 	\begin{center}
-		\begin{tikzpicture}[scale=1.2]
+		\begin{tikzpicture}[scale=0.9]
+			\path[use as bounding box] (-7.1,0) rectangle (10.7,13);
 			
-			% Axes
-			\draw[->, ultra thick] (0,0) -- (0,6) node[above] {Distance from wall, $y$};
-			\begin{pgfonlayer}{foreground}
-				\draw[->, ultra thick] (0,0) -- (5.5,0) node[right] {$u$};
-			\end{pgfonlayer}
+			\begin{scope}[shift={(0, 2)}]
+				\draw[->, ultra thick] (-7,0) -- (-7,8) node[above, align=center] {\small Distance \\ \small  from \\ \small  bluff body, \\ \small  $y$};
+				\draw[dashed, thick] (-7,0) -- (-7, -2);
+				\draw[->, ultra thick] (-7, -1.7) -- (1, -1.7) node[right] {\small  Distance from leading edge, $x$};
+				
+				% Wall
+				\begin{pgfonlayer}{background}
+					\filldraw[lightgray] (-7.1,-0.2) rectangle (10.7, 0);
+					\node[anchor=north west] at (7, -0.3) {Face of bluff body};
+				\end{pgfonlayer}
+				
+				\begin{scope}[shift={(-3.8,0)}, scale=0.7]
+					% Axes
+					\draw[->, ultra thick] (0,0) -- (0,7) node[above] {$y$};
+					\draw[->, ultra thick] (0,0) -- (5.5,0) node[above right] {$u$};
+					
+					\node[anchor=north] at (2, -0.7) {\footnotesize No-slip condition};
+					\draw[->, anchor=north] (0.7, -0.7) -- (0.05, -0.07);
+					
+					% Boundary layer thickness
+					\draw[dashed] (-1,5) -- (2.5,5);
+					\draw[<->, thick] (-0.4,0) -- (-0.4,5);
+					\node[anchor=east, align=center] at (-0.5,2.5) {\footnotesize Boundary\\[-0.2em] \footnotesize layer\\[-0.2em] \footnotesize thickness,\\[-0.2em] {\footnotesize$\delta$}};
+					
+					
+					% External flow
+					\draw[->, thick, blue] (0,5) -- (2.5,5);
+					\node[blue, anchor=west, align=center] at (2.8,5) {\footnotesize Free flow\\[-0.2em] \footnotesize velocity,\\[-0.2em] \footnotesize$U$};
+					
+					% Curve
+					\draw[thick](0,0)
+					.. controls (2, 0.6) and (2.5, 1.2) .. (2.5, 5); 
+					
+					% Arrows
+					\draw[->] (0,0.5) -- (1.2, 0.5);
+					\draw[->] (0,1) -- (1.8, 1);
+					\draw[->] (0, 1.5) -- (2.1, 1.5);
+					\draw[->] (0,2) -- (2.25, 2);
+					\draw[->] (0, 2.5) -- (2.35, 2.5);
+					\draw[->] (0,3) -- (2.41, 3);
+					\draw[->] (0, 3.5) -- (2.46, 3.5);
+					\draw[->] (0,4) -- (2.5, 4);
+					\draw[->] (0, 4.5) -- (2.51, 4.5);
+					
+					% Velocity profile label
+					\node[anchor=west, align=center] at (3.5,2.3) {\footnotesize Velocity profile, \\[-0.2em] \footnotesize$u = u(y)$};
+					\node[anchor=west] at (3.5,1.8) {};
+					\draw[->, anchor=east] (3.5, 2.3) -- (2.5, 2.8);
+				\end{scope}
+				
+				\begin{scope}[shift={(3.3,0)}]
+					% Axes
+					\draw[->, ultra thick] (0,0) -- (0,6.5) node[above] {$y$};
+					\begin{pgfonlayer}{foreground}
+						\draw[->, ultra thick] (0,0) -- (5.5,0) node[above right] {$u$};
+					\end{pgfonlayer}
+					
+					
+					% Boundary layer thickness
+					\draw[dashed] (-1,5) -- (2.5,5);
+					\draw[<->, thick] (-0.4,0) -- (-0.4,5);
+					\node[anchor=east] at (-0.5,2.5) {$\delta$};
+					
+					% External flow
+					\draw[->, thick, blue] (0,5) -- (2.5,5);
+					\node[blue] at (2.8,5) {$U$};
+					
+					% Curve
+					\draw[thick](0,0)
+					.. controls (2, 0.6) and (2.5, 1.2) .. (2.5, 5); 
+					
+					% Arrows
+					\draw[->] (0,0.5) -- (1.2, 0.5);
+					\draw[->] (0,1) -- (1.8, 1);
+					\draw[->] (0, 1.5) -- (2.1, 1.5);
+					\draw[->] (0,2) -- (2.25, 2);
+					\draw[->] (0, 2.5) -- (2.35, 2.5);
+					\draw[->] (0,3) -- (2.41, 3);
+					\draw[->] (0, 3.5) -- (2.46, 3.5);
+					\draw[->] (0,4) -- (2.5, 4);
+					\draw[->] (0, 4.5) -- (2.51, 4.5);
+					
+					% Velocity profile label
+					\node[anchor=west] at (3.5,2.3) {$u = u(y)$};
+					\draw[->, anchor=east] (3.5, 2.3) -- (2.5, 2.8);
+				\end{scope}
+			\end{scope}
 			
-			% Wall
-			\filldraw[lightgray] (-2,-0.2) rectangle (4.8, 0);
-			\node[anchor=east] at (-2, -0.1) {Face of bluff body};
-			\node[anchor=north] at (2, -0.7) {No-slip condition};
-			\draw[->, anchor=north] (0.7, -0.7) -- (0.05, -0.05);
-			
-			% Boundary layer thickness
-			\draw[dashed] (-1,5) -- (2.5,5);
-			\draw[<->, thick] (-0.4,0) -- (-0.4,5);
-			\node[anchor=east] at (-0.5,2.5) {Boundary layer thickness, $\delta$};
-			
-			% External flow
-			\draw[->, thick, blue] (0,5) -- (2.5,5);
-			\node[blue] at (2.8,5) {$U$};
-			\node[blue, anchor=south] at (1.3,5.05) {\footnotesize Free flow velocity};
-			
-			% Curve
-			\draw[thick](0,0)
-			.. controls (2, 0.6) and (2.5, 1.2) .. (2.5, 5); 
-			
-			% Arrows
-			\draw[->] (0,0.5) -- (1.2, 0.5);
-			\draw[->] (0,1) -- (1.8, 1);
-			\draw[->] (0, 1.5) -- (2.1, 1.5);
-			\draw[->] (0,2) -- (2.25, 2);
-			\draw[->] (0, 2.5) -- (2.35, 2.5);
-			\draw[->] (0,3) -- (2.41, 3);
-			\draw[->] (0, 3.5) -- (2.46, 3.5);
-			\draw[->] (0,4) -- (2.5, 4);
-			\draw[->] (0, 4.5) -- (2.51, 4.5);
-			
-			% Velocity profile label
-			\node[anchor=west] at (3.5,2.3) {Velocity profile,};
-			\node[anchor=west] at (3.5,2) {$u = u(y)$};
-			\draw[->, anchor=east] (3.5, 2.3) -- (2.5, 2.8);
 			
 		\end{tikzpicture}
 	\end{center}
@@ -88,7 +136,7 @@ Due to the fiction between a given fluid and a bluff body, there is no relative 
 	\label{fig:boundaryLayer}
 \end{figure}
 
-When a flow moves past a bluff body in a two-dimensional plane, a boundary layer develops, with increasing thickness from the stagnation point \parencite{fitzpatrick2016_reynolds}, the point on the leading edge of the bluff body at which the local fluid velocity is zero (with respect to the bluff body), to the back of the bluff body \parencite{learneng2022_boundarylayer}. At a certain point, the boundary layer separates from the bluff body, forming a shear layer. Under steady flow conditions, this separation occurs in a periodic and alternating manner, creating two separate, out-of-phase shear layers on either side of the bluff body. 
+When a flow moves past a bluff body in a two-dimensional plane, a boundary layer develops, with increasing thickness $\delta$ from the stagnation point \parencite{fitzpatrick2016_reynolds}, the point on the leading edge of the bluff body at which the local fluid velocity is zero (with respect to the bluff body), to the back of the bluff body \parencite{learneng2022_boundarylayer}. At a certain point, the boundary layer separates from the bluff body, forming a shear layer. Under steady flow conditions, this separation occurs in a periodic and alternating manner, creating two separate, out-of-phase shear layers on either side of the bluff body. 
 
 \begin{figure}[H]
 	\begin{center}
