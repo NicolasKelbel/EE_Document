@@ -462,7 +462,46 @@ In order to create the mesh necessary for the simulation, the \textit{All Triang
 \subsubsection{The OpenFoam Simulation}
 The theoretical part of this EE is conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024}. Among the numerous solvers OpenFOAM provides, pimpleFOAM is a transient, pressure-based solver for incompressible, single-phase, also referred to as isothermal, flows \. It combines the algorithms used in the pisoFOAM and simpleFOAM solvers, enabling robust handling of transient simulations with larger time steps, allowing for improved computational performance, hence why the solver was chosen. Moreover, its ability to model both laminar and turbulent flow ensures flow conditions are accurately reflected and given that the fluctuations of lift force are sinusoidal, one can verify the flow is laminar. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
 \subsubsection{Simulation Settings}
-To adhere to the scope of this essay the simulation setup is adapted from a case study provided in the Udemy course OpenFOAM for Absolute Beginners by \textcite{jayaraj2024openfoam}. The tutorial case, \textit{3vortexShedding} discussed in lecture eight, serves as a structural template and has been modified to align with the specific requirements of this investigation.
+To adhere to the scope of this essay, the simulation setup is adapted from a case study provided in the Udemy course OpenFOAM for Absolute Beginners by \textcite{jayaraj2024openfoam}. The tutorial case \textit{3vortexShedding}, discussed in lecture eight, serves as a structural template and has been modified to align with the specific requirements of this investigation.
+
+\begin{figure}[h!]
+	\centering
+	\begin{forest}
+		for tree={
+			font=\ttfamily,
+			grow=east,
+			child anchor=west,
+			parent anchor=east,
+			anchor=west,
+			edge={draw,-stealth},
+			inner sep=2pt,
+			l sep=25pt,   % increased horizontal spacing
+			s sep=20pt    % increased vertical spacing
+		}
+		[project-root/
+		[0/
+		[p]
+		[U]
+		]
+		[constant/
+		[polyMesh/]
+		[triSurface/
+		[3faces.stl]
+		[4faces.stl]
+		[\textcolor{blue}{6faces.stl}, label=right:{\footnotesize modified}]
+		]
+		]
+		[system/
+		[blockMeshDict]
+		[controlDict]
+		[\textcolor{red}{snappyHexMeshDict}, label=right:{\footnotesize modified}]
+		]
+		[para.foam]
+		]
+	\end{forest}
+	
+	\caption{Overview of the simulation directory structure. Highlighted files were modified during the project.}
+\end{figure}
 
 \begin{table}[H]
 	\centering
@@ -479,7 +518,7 @@ To adhere to the scope of this essay the simulation setup is adapted from a case
 		&  &  &  &  \\
 		\hline
 	\end{tabular}
-	\caption{Overview of changes made to the simulation setup.}
+	\caption{Overview of the changes made to the simulation template.}
 	\label{tab:simulation_changes}
 \end{table}
 

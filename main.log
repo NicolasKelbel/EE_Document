@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  29 JUN 2025 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  5 JUL 2025 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,32 +1144,181 @@ Package cleveref Info: always capitalise cross-reference names on input line 78
 52.
 Package cleveref Info: include cross-reference names in hyperlinks on input lin
 e 7852.
+) (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/forest\forest.sty
+Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.callouts.code.tex))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box79
+\pgfnodeparttwobox=\box80
+\pgfnodepartthreebox=\box81
+\pgfnodepartfourbox=\box82
+\pgfnodeparttwentybox=\box83
+\pgfnodepartnineteenbox=\box84
+\pgfnodeparteighteenbox=\box85
+\pgfnodepartseventeenbox=\box86
+\pgfnodepartsixteenbox=\box87
+\pgfnodepartfifteenbox=\box88
+\pgfnodepartfourteenbox=\box89
+\pgfnodepartthirteenbox=\box90
+\pgfnodeparttwelvebox=\box91
+\pgfnodepartelevenbox=\box92
+\pgfnodeparttenbox=\box93
+\pgfnodepartninebox=\box94
+\pgfnodeparteightbox=\box95
+\pgfnodepartsevenbox=\box96
+\pgfnodepartsixbox=\box97
+\pgfnodepartfivebox=\box98
+)))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryintersections.code.tex
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex)
+\pgf@intersect@solutions=\count466
+)
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks41
+\pgfopts@list@add@b@toks=\toks42
+)
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/elocalloc\elocalloc.s
+ty
+Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
+)
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces
+.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/inlinedef\inlinedef.s
+ty
+Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
+\ID@toks=\toks43
+\ID@count=\count467
+)
+\ID@usercommands=\toks44
+\safeloop@depth=\count468
+\safeRKloop@depth=\count469
+\forest@temp@dimen=\dimen308
+\forest@temp@count=\count470
+\forest@n=\count471
+\forest@temp@global@count=\count472
+\forest@temp@toks=\toks45
+\forest@temparray@M=\count473
+\forest@temparray@N=\count474
+\forest@global@temparray@M=\count475
+\forest@global@temparray@N=\count476
+\forest@isnum@count=\count477
+\forest@isdim@nonintpart=\count478
+\forest@isdim@dimen=\dimen309
+\forest@sort@m=\count479
+\forest@sort@k=\count480
+\forest@sort@p=\count481
+\bracket@content=\toks46
+\bracket@afterthought=\toks47
+\forest@node@maxid=\count482
+\forest@process@left@M=\count483
+\forest@process@left@N=\count484
+\forest@process@right@M=\count485
+\forest@process@right@N=\count486
+\forest@process@saved@M=\count487
+\forest@process@saved@N=\count488
+\forest@process@result@M=\count489
+\forest@process@result@N=\count490
+\forest@process@n=\count491
+\forest@nodewalk@branch@toks=\toks48
+\forest@nodewalk@shortsteps@resolution=\toks49
+\forest@do@dynamics=\toks50
+\forest@box=\box99
+\forest@xg=\dimen310
+\forest@yg=\dimen311
+\forest@xs=\dimen312
+\forest@ys=\dimen313
+\forest@pi@toks=\toks51
+\forest@segment@toks=\toks52
+\forest@PIi@toks=\toks53
+\forest@PIii@toks=\toks54
+\forest@copy@in=\read4
+\forest@copy@out=\write5
+\forest@externalize@max@outer@n=\count492
+\forest@externalize@inner@n=\count493
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 31.
-\@quotelevel=\count466
-\@quotereset=\count467
+h' as default language. on input line 32.
+\@quotelevel=\count494
+\@quotereset=\count495
  (main.aux (introduction.aux) (background.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1209,31 +1358,23 @@ LaTeX Font Info:    ... okay on input line 31.
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count468
-\scratchdimen=\dimen308
-\scratchbox=\box79
-\nofMPsegments=\count469
-\nofMParguments=\count470
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count471
-\MPscratchDim=\dimen309
-\MPnumerator=\count472
-\makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count496
+\scratchdimen=\dimen314
+\scratchbox=\box100
+\nofMPsegments=\count497
+\nofMParguments=\count498
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count499
+\MPscratchDim=\dimen315
+\MPnumerator=\count500
+\makeMPintoPDFobject=\count501
+\everyMPtoPDFconversion=\toks56
 )
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
 .cfg
@@ -1257,15 +1398,15 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 31.
+or `english'. on input line 32.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 32.
  (main.out) (main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
@@ -1307,8 +1448,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 31.
-Package biblatex Info: Reference segment=0 on input line 31.
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
  [1
 
 {C:/Users/Nicolas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc
@@ -1322,15 +1463,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 \newpage
+l.59 \newpage
               [1]
 \openout2 = `introduction.aux'.
 
@@ -1349,10 +1490,10 @@ File: images/vonKarmanStreet.png Graphic file (type png)
 <use images/vonKarmanStreet.png>
 Package pdftex.def Info: images/vonKarmanStreet.png  used on input line 28.
 (pdftex.def)             Requested size: 318.66948pt x 192.78514pt.
-\pgf@layerbox@background=\box80
-\pgf@layerboxsaved@background=\box81
-\pgf@layerbox@foreground=\box82
-\pgf@layerboxsaved@foreground=\box83
+\pgf@layerbox@background=\box101
+\pgf@layerboxsaved@background=\box102
+\pgf@layerbox@foreground=\box103
+\pgf@layerboxsaved@foreground=\box104
 
 Overfull \hbox (0.5658pt too wide) in paragraph at lines 133--134
  [] 
@@ -1370,22 +1511,26 @@ Overfull \hbox (13.5346pt too wide) in paragraph at lines 456--457
  [] 
  []
 
-[8] [9]) [10]
-Overfull \hbox (33.6959pt too wide) in paragraph at lines 65--65
+[8]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10]) [11]
+Overfull \hbox (33.6959pt too wide) in paragraph at lines 66--66
 \OT1/cmr/m/n/12 sciences / physics -[] 2025 . pdf : ^^Lle / download / c56a8c85
 92e847bbb555540b087b0990d1ade5b0 /
  []
 
-[11
+[12
 
 
 ]
-Overfull \hbox (1.3063pt too wide) in paragraph at lines 65--65
+Overfull \hbox (1.3063pt too wide) in paragraph at lines 66--66
 [][]\OT1/cmr/m/n/12 National Re-search Coun-cil. (1997). \OT1/cmr/m/it/12 Twent
 y-first sym-po-sium on naval hy-dro-dy-nam-ics \OT1/cmr/m/n/12 [Sym-
  []
 
-[12] [13] (main.aux (introduction.aux) (background.aux))
+[13] [14] (main.aux (introduction.aux) (background.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1397,13 +1542,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38943 strings out of 474486
- 807895 string characters out of 5742811
+ 50567 strings out of 474486
+ 1127778 string characters out of 5742811
  1947542 words of memory out of 5000000
- 60648 multiletter control sequences out of 15000+600000
- 567826 words of font info for 74 fonts, out of 8000000 for 9000
+ 72200 multiletter control sequences out of 15000+600000
+ 567995 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,93p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 143i,10n,143p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/t
@@ -1415,10 +1560,11 @@ las/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
 sers/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (14 pages, 530573 bytes).
+lic/amsfonts/cm/cmti12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (15 pages, 541548 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
