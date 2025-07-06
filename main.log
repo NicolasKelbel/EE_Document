@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  5 JUL 2025 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  6 JUL 2025 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1294,11 +1294,22 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 \forest@externalize@max@outer@n=\count492
 \forest@externalize@inner@n=\count493
 )
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen314
+\TX@old@table=\dimen315
+\TX@old@col=\dimen316
+\TX@target=\dimen317
+\TX@delta=\dimen318
+\TX@cols=\count494
+\TX@ftn=\toks55
+)
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 32.
-\@quotelevel=\count494
-\@quotereset=\count495
- (main.aux (introduction.aux) (background.aux))
+\@quotelevel=\count495
+\@quotereset=\count496
+
+(main.aux (introduction.aux) (background.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1358,17 +1369,17 @@ LaTeX Font Info:    ... okay on input line 32.
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count496
-\scratchdimen=\dimen314
+\scratchcounter=\count497
+\scratchdimen=\dimen319
 \scratchbox=\box100
-\nofMPsegments=\count497
-\nofMParguments=\count498
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count499
-\MPscratchDim=\dimen315
-\MPnumerator=\count500
-\makeMPintoPDFobject=\count501
-\everyMPtoPDFconversion=\toks56
+\nofMPsegments=\count498
+\nofMParguments=\count499
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count500
+\MPscratchDim=\dimen320
+\MPnumerator=\count501
+\makeMPintoPDFobject=\count502
+\everyMPtoPDFconversion=\toks57
 )
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
@@ -1502,20 +1513,16 @@ Overfull \hbox (0.5658pt too wide) in paragraph at lines 133--134
 [4 <./images/vonKarmanStreet.png>] [5] [6]
 \unitL=\skip125
 
-Overfull \hbox (13.5346pt too wide) in paragraph at lines 405--406
+Overfull \hbox (13.5346pt too wide) in paragraph at lines 406--407
  [] 
  []
 
 [7]
-Overfull \hbox (13.5346pt too wide) in paragraph at lines 456--457
+Overfull \hbox (13.5346pt too wide) in paragraph at lines 457--458
  [] 
  []
 
-[8]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9] [10]) [11]
+[8] [9] [10]) [11]
 Overfull \hbox (33.6959pt too wide) in paragraph at lines 66--66
 \OT1/cmr/m/n/12 sciences / physics -[] 2025 . pdf : ^^Lle / download / c56a8c85
 92e847bbb555540b087b0990d1ade5b0 /
@@ -1537,18 +1544,23 @@ L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F4F6CC9002B6B82AD3C29818F1BAA1CE;2347.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50567 strings out of 474486
- 1127778 string characters out of 5742811
+ 51035 strings out of 474486
+ 1136103 string characters out of 5742811
  1947542 words of memory out of 5000000
- 72200 multiletter control sequences out of 15000+600000
+ 72665 multiletter control sequences out of 15000+600000
  567995 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 143i,10n,143p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 127i,12n,122p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/t
@@ -1562,9 +1574,9 @@ sers/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 ts/cm/cmsy8.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (15 pages, 541548 bytes).
+Output written on main.pdf (15 pages, 542198 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
+ 356 PDF objects out of 1000 (max. 8388607)
  71 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
