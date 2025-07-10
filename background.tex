@@ -490,7 +490,16 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 			[turbulenceProperties]
 			[\textcolor{blue}{transportProperties}]
 			[g]
-			[\textcolor{blue}{polyMesh}]
+			[\textcolor{green}{polyMesh/}
+				[\textcolor{green}{pointZones}]
+				[\textcolor{green}{points}]
+				[\textcolor{green}{owner}]
+				[\textcolor{green}{neighbor}]
+				[\textcolor{green}{faceZones}]
+				[\textcolor{green}{faces}]
+				[\textcolor{green}{cellZones}]
+				[\textcolor{green}{boundary}]
+			]
 		]
 		[system/
 			[fvSolution]
@@ -503,7 +512,7 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 		[\textcolor{blue}{mesh.msh}]
 		]
 	\end{forest}
-	\caption{Overview of the simulation directory structure. Modified files are highlighted.}
+	\caption{Overview of the simulation directory structure. Modified files are highlighted blue. Created files and folders are highlighted green }
 \end{figure}
 
 
@@ -515,9 +524,9 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 			\hline
 			\textbf{File} & \textbf{Parameter} & \textbf{Original} & \textbf{Modified} & \textbf{Justification} \\
 			\hline
-			mesh.msh & - & Fluid domain of tutorial case & Fluid domain with dimensions given in \Cref{sec:ansysWorkbench} & The fluid domain has been adjusted to conform with the computational limits discussed in \Cref{sec:ansysWorkbench} \\
+			\verb*|mesh.msh|, \verb*|para.foam| & \textemdash & \verb*|mesh.msh| defines and \verb*|para.foam| contains mesh of fluid domain of tutorial case & \verb*|mesh.msh| defines and \verb*|para.foam| contains mesh of fluid domain with dimensions given in \Cref{sec:ansysWorkbench} & The fluid domain has been adjusted to conform with the computational limits discussed in \Cref{sec:ansysWorkbench}, while achieving the Reynolds number required for this investigation\\
 			\hline
-			&  &  &  &  \\
+			\verb*|controlDict| & \verb*|| &  & &  \\
 			\hline
 			&  &  &  &  \\
 			\hline
@@ -529,8 +538,7 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 
 
 \subsubsection{FFT-based determination of the vortex shedding frequency}
-FFT-based determination of the vortex shedding frequency
-A Fast Fourier Transform (FFT) is used to extrapolate the vortex shedding frequency by altering the lift coefficient data from a time domain to a frequency domain, allowing for the identification of its underlying harmonic frequencies \parencite[10--11]{shi2025vortex}. The dominant frequency of the FFT corresponds to the vortex shedding frequency \parencite[12]{xu_experimental_2025}. To obtain an accurate vortex shedding frequency, the FFT is only applied to the steady-state phase, when the velocity and pressure at any given point in the system remain constant \parencite{noauthor_steady_nodate}, omitting the initial transient phase, when the velocity and pressure vary over time \parencite{noauthor_transient_nodate}. 
+FFT-based determination of the vortex shedding frequency a Fast Fourier Transform (FFT) is used to extrapolate the vortex shedding frequency by altering the lift coefficient data from a time domain to a frequency domain, allowing for the identification of its underlying harmonic frequencies \parencite[10--11]{shi2025vortex}. The dominant frequency of the FFT corresponds to the vortex shedding frequency \parencite[12]{xu_experimental_2025}. To obtain an accurate vortex shedding frequency, the FFT is only applied to the steady-state phase, when the velocity and pressure at any given point in the system remain constant \parencite{noauthor_steady_nodate}, omitting the initial transient phase, when the velocity and pressure vary over time \parencite{noauthor_transient_nodate}. 
 
 \subsection{The Practical Investigation}
 Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE will be conducted in a self-built flow tank, utilizing a water pump a separation wall to create flow over a horizontal plate – the water pump moves the water from one side of the separation wall to the other. The regulation valve is used to modulate the flow velocity while the sponge diffuser decreases the flow velocity and ensures a uniform distribution of flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape are used in order to better visualize the water flow. 
