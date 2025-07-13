@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  10 JUL 2025 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.31)  13 JUL 2025 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1305,31 +1305,31 @@ Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 \TX@ftn=\toks55
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 32.
+h' as default language. on input line 33.
 \@quotelevel=\count495
 \@quotereset=\count496
 
 (main.aux (introduction.aux) (background.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1409,12 +1409,12 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 32.
+or `english'. on input line 33.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1459,8 +1459,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 33.
+Package biblatex Info: Reference segment=0 on input line 33.
  [1
 
 {C:/Users/Nicolas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc
@@ -1482,7 +1482,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \newpage
+l.60 \newpage
               [1]
 \openout2 = `introduction.aux'.
 
@@ -1496,7 +1496,7 @@ l.59 \newpage
 
 
 ]
-<images/vonKarmanStreet.png, id=122, 455.45157pt x 275.52937pt>
+<images/vonKarmanStreet.png, id=124, 455.45157pt x 275.52937pt>
 File: images/vonKarmanStreet.png Graphic file (type png)
 <use images/vonKarmanStreet.png>
 Package pdftex.def Info: images/vonKarmanStreet.png  used on input line 28.
@@ -1524,84 +1524,178 @@ Overfull \hbox (13.5346pt too wide) in paragraph at lines 457--458
 
 [8] [9]
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 534.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 569.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
 []|[]\OT1/cmtt/m/n/12 mesh.msh\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-[]\OT1/cmtt/m/n/12 para.foam \OT1/cmr/m/n/12 con-tains
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\OT1/cmtt/m/n/12 para.foam\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-[]\OT1/cmtt/m/n/12 para.foam \OT1/cmr/m/n/12 con-tains
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|[]\OT1/cmtt/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-[]|\OT1/cmr/m/n/12 The fluid do-main
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 de-fines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 has been ad-justed
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\OT1/cmtt/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 to con-form with
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 con-tains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 the com-pu-ta-tional
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\OT1/cmtt/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 lim-its dis-cussed
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|[]\OT1/cmtt/m/n/12 mesh.msh \OT1/cmr/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 in []Sec-tion 2.5.1[],
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 con-tains and
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 while achiev-ing the
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\OT1/cmtt/m/n/12 para.foam \OT1/cmr/m/n/12 vi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 Reynolds num-ber
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 su-al-izes mesh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
-\OT1/cmr/m/n/12 re-quired for this
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 given in []Sec-
  []
 
-[10]) [11]
-Overfull \hbox (33.6959pt too wide) in paragraph at lines 66--66
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\OT1/cmr/m/n/12 The fluid do-main has
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 with the com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 lim-its dis-cussed in []Sec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\OT1/cmr/m/n/12 Decreased in or-der to
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 569--569
+[]\OT1/cmr/m/n/12 2007[], p. 289) while en-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 sur-ing nu-mer-i-cal sta-bil-ity
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 569--569
+[]|\OT1/cmr/m/n/12 Removed as the sim-u-la-
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 tion demon-strated sta-ble
+ []
+
+
+Overfull \hbox (0.605pt too wide) in paragraph at lines 569--569
+[]|[]\OT1/cmtt/m/n/10 numberOfSubdomains| 
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 569--569
+[]|\OT1/cmr/m/n/12 The sim-u-la-tions are per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\OT1/cmr/m/n/12 Created a re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 which out-puts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 the vari-a-tion
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 of the lift co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 ef-fi-cient $\OML/cmm/m/it/12 C[]$
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 through-out the
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 of vor-tex shed-ding fre-
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 569--569
+\OT1/cmr/m/n/12 Tem-per-a-tures and Pres-
+ []
+
+[10]
+Overfull \vbox (41.93393pt too high) has occurred while \output is active []
+
+
+[11]) [12]
+Overfull \hbox (33.6959pt too wide) in paragraph at lines 67--67
 \OT1/cmr/m/n/12 sciences / physics -[] 2025 . pdf : ^^Lle / download / c56a8c85
 92e847bbb555540b087b0990d1ade5b0 /
  []
 
-[12
+[13
 
 
 ]
-Overfull \hbox (1.3063pt too wide) in paragraph at lines 66--66
+Overfull \hbox (1.3063pt too wide) in paragraph at lines 67--67
 [][]\OT1/cmr/m/n/12 National Re-search Coun-cil. (1997). \OT1/cmr/m/it/12 Twent
 y-first sym-po-sium on naval hy-dro-dy-nam-ics \OT1/cmr/m/n/12 [Sym-
  []
 
-[13] [14] (main.aux (introduction.aux) (background.aux))
+[14] [15] (main.aux (introduction.aux) (background.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1613,29 +1707,32 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51926 strings out of 474486
- 1151755 string characters out of 5742811
- 1947542 words of memory out of 5000000
- 73556 multiletter control sequences out of 15000+600000
- 567995 words of font info for 75 fonts, out of 8000000 for 9000
+ 51958 strings out of 474486
+ 1152726 string characters out of 5742811
+ 1952542 words of memory out of 5000000
+ 73579 multiletter control sequences out of 15000+600000
+ 568836 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 137i,13n,129p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Nicolas/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nicolas/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nico
-las/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (15 pages, 543045 bytes).
+ 137i,19n,129p,2591b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Nicolas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1200.pk><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nicolas/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Nicolas/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nicola
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
+ers/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb><C:/Users/Nicolas/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Nicolas/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Nicolas/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (16 pages, 571049 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 407 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

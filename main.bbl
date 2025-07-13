@@ -146,6 +146,48 @@
       \verb 10.1016/S0167-6105(98)00015-5
       \endverb
     \endentry
+    \entry{caminha_cfl_2017}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=96c5d082612196124586113916d659de}{%
+           family={Caminha},
+           familyi={C\bibinitperiod},
+           given={Guilherme},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96c5d082612196124586113916d659de}
+      \strng{fullhash}{96c5d082612196124586113916d659de}
+      \strng{bibnamehash}{96c5d082612196124586113916d659de}
+      \strng{authorbibnamehash}{96c5d082612196124586113916d659de}
+      \strng{authornamehash}{96c5d082612196124586113916d659de}
+      \strng{authorfullhash}{96c5d082612196124586113916d659de}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods that model convection or wave phenomena.}
+      \field{day}{29}
+      \field{langid}{american}
+      \field{month}{8}
+      \field{shorttitle}{{CFL} Condition}
+      \field{title}{{CFL} Condition: How to Choose Your Timestep Size}
+      \field{titleaddon}{{SimScale}}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.simscale.com/blog/cfl-condition/
+      \endverb
+      \verb{url}
+      \verb https://www.simscale.com/blog/cfl-condition/
+      \endverb
+    \endentry
     \entry{choi2000strouhal}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=adee41586598f15433b546f8167b7384}{%
@@ -183,6 +225,42 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.12989/was.2000.3.3.209
+      \endverb
+    \endentry
+    \entry{codeynamics_prism_2024}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
+           family={{Codeynamics}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners: https://www.udemy.com/course/openfoam... Link for the previous video on the flow over a prism:    • 2D Flow over prism - {OpenFOAM} tutorial (si...}
+      \field{day}{21}
+      \field{month}{1}
+      \field{title}{Prism Drag and Lift Calculation and Plotting {|} Cd Cl {|} {OpenFOAM} {CFD} {|} {simpleFoam}}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=hOvGF1DUn8A
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=hOvGF1DUn8A
       \endverb
     \endentry
     \entry{comflics_openfoam_2014}{video}{}
@@ -1394,6 +1472,25 @@
       \endverb
       \verb{url}
       \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
+    \entry{noauthor_water_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Free online calculator - figures and tables with viscosity of water at temperatures ranging 0 to 360°C (32 to 675°F) - Imperial and {SI} Units.}
+      \field{langid}{english}
+      \field{title}{Water - Dynamic and Kinematic Viscosity at Various Temperatures and Pressures}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
+      \endverb
+      \verb{url}
+      \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
       \endverb
     \endentry
     \entry{xu_experimental_2025}{article}{}
@@ -1591,6 +1688,48 @@
       \verb 10.1016/S0167-6105(98)00015-5
       \endverb
     \endentry
+    \entry{caminha_cfl_2017}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=96c5d082612196124586113916d659de}{%
+           family={Caminha},
+           familyi={C\bibinitperiod},
+           given={Guilherme},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96c5d082612196124586113916d659de}
+      \strng{fullhash}{96c5d082612196124586113916d659de}
+      \strng{bibnamehash}{96c5d082612196124586113916d659de}
+      \strng{authorbibnamehash}{96c5d082612196124586113916d659de}
+      \strng{authornamehash}{96c5d082612196124586113916d659de}
+      \strng{authorfullhash}{96c5d082612196124586113916d659de}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods that model convection or wave phenomena.}
+      \field{day}{29}
+      \field{langid}{american}
+      \field{month}{8}
+      \field{shorttitle}{{CFL} Condition}
+      \field{title}{{CFL} Condition: How to Choose Your Timestep Size}
+      \field{titleaddon}{{SimScale}}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.simscale.com/blog/cfl-condition/
+      \endverb
+      \verb{url}
+      \verb https://www.simscale.com/blog/cfl-condition/
+      \endverb
+    \endentry
     \entry{choi2000strouhal}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=adee41586598f15433b546f8167b7384}{%
@@ -1628,6 +1767,42 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.12989/was.2000.3.3.209
+      \endverb
+    \endentry
+    \entry{codeynamics_prism_2024}{video}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b27567c3da4d95abc4d40b1d5d6d27b9}{%
+           family={{Codeynamics}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{fullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{bibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorbibnamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authornamehash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \strng{authorfullhash}{b27567c3da4d95abc4d40b1d5d6d27b9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners: https://www.udemy.com/course/openfoam... Link for the previous video on the flow over a prism:    • 2D Flow over prism - {OpenFOAM} tutorial (si...}
+      \field{day}{21}
+      \field{month}{1}
+      \field{title}{Prism Drag and Lift Calculation and Plotting {|} Cd Cl {|} {OpenFOAM} {CFD} {|} {simpleFoam}}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=hOvGF1DUn8A
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=hOvGF1DUn8A
       \endverb
     \endentry
     \entry{comflics_openfoam_2014}{video}{}
@@ -2839,6 +3014,25 @@
       \endverb
       \verb{url}
       \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
+    \entry{noauthor_water_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Free online calculator - figures and tables with viscosity of water at temperatures ranging 0 to 360°C (32 to 675°F) - Imperial and {SI} Units.}
+      \field{langid}{english}
+      \field{title}{Water - Dynamic and Kinematic Viscosity at Various Temperatures and Pressures}
+      \field{urlday}{13}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
+      \endverb
+      \verb{url}
+      \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
       \endverb
     \endentry
     \entry{xu_experimental_2025}{article}{}
