@@ -21,10 +21,14 @@
 \usepackage[capitalise, nameinlink]{cleveref} % links to sections
 \usepackage{forest} % file directory trees
 \usepackage{tabularx} % tables
+\usepackage{fontspec} % font
+\usepackage{float} % positioning
+\usepackage{enumitem} % lists
 
 \addbibresource{references.bib}  % name of your .bib file
 % ----------- Settings -----------
-
+\setmainfont{Times New Roman}
+\setmonofont{Lucida Console}[Scale=MatchLowercase]
 
 % ----------- Title Page -----------
 
@@ -60,8 +64,10 @@
 \newpage
 	
 %Introductio
-\include{introduction.tex}
-\include{background.tex}
+\include{introduction}
+\include{background}
+\include{variables}
+\include{equipment}
 
 \printbibliography
 	

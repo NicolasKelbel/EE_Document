@@ -3,22 +3,23 @@
 \subsection{Fundamentals of Fluid Dynamics}
 Firstly, the definition of vorticity, a vortex and a bluff body must be understood. \textbf{Vorticity} is the vector quantity representing the rotational motion in a velocity field \parencite[p.~2500]{holton2003_vorticity}. A \textbf{vortex} is the circular flow of a fluid around a central axis, characterized by the vorticity in the fluid \parencite[p.~390]{nitsche2006_vortex}. A \textbf{bluff body} is defined as an object that, due to its geometry, induces significant regions of separated flow \parencite[p.~561]{navalhydro1997}. 
 
-Next, one must distinguish between a Newtonian and a non-Newtonian fluid. A \textbf{Newtonian fluid} is a fluid in which the viscosity -- a measure of internal friction -- remains constant despite applied shear rate, whereas a \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
+Next, one must distinguish between a Newtonian and a non-Newtonian fluid. A \textbf{Newtonian fluid} is a fluid in which the viscosity \textemdash\ a measure of internal friction \textemdash\ remains constant despite applied shear rate, whereas a \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
 
 Moreover, one must also consider the type of flow. There are two key factors of flow when investigating vortex shedding: laminar and turbulent flow, and compressible and incompressible flow. \textbf{Laminar flow} is characterized by the layered motion of fluid particles, with no significant disturbance between the parallel layers \parencite[pp.~40--41]{versteeg2007}. On the other hand, \textbf{turbulent flow} is known to have continuous, irregular fluctuations in velocity and pressure throughout the fluid \parencite[p.~40]{versteeg2007}. A \textbf{compressible flow} is a flow in which the fluid does not have a uniform density \parencite[p.~31]{oran2002}, conversely, an \textbf{incompressible flow} is a flow in which the fluid has a constant density \parencite[p.~12]{versteeg2007}. 
 
-This essay will analyze vortex shedding in a Newtonian fluid – water – which exhibits laminar and incompressible flow.
-
-Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal number. The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds}. Given by the equation 
+Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal number. The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds, noauthor_relationship_nodate}. Given by the equation 
 \begin{equation}
-	\mathrm{Re} = \frac{\rho U L}{\mu}
+	\mathrm{Re} = \frac{U L}{\nu}
+	\label{eq:reynoldsNumber}
 \end{equation}
-where $\rho$ is the density of the fluid ($kg\,m^{-3}$), $U$ is the free-stream velocity ($m\,s^{-1}$), $L$ is the characteristic length ($m$) and $\mu$ is the dynamic viscosity ($kg\,m^{-1}\,s^{-1}$). This number allows one to classify if a flow is laminar or turbulent, with low Reynolds’ numbers signifying laminar flow and high Reynolds’ numbers indicating turbulent flow \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
+where $U$ is the free-stream velocity ($m\,s^{-1}$), $L$ is the characteristic length ($m$) and $\nu$ is the kinematic viscosity ($m^2\,s^{-1}$). This number allows one to classify if a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
 \begin{equation}
 	\mathrm{St} = \frac{f L}{U}
+	\label{eq:strouhalNumber}
 \end{equation}
-where $f$ is the frequency of vortex shedding ($Hz$), $L$ is the characteristic length ($m$) and $U$ is the free-stream velocity  ($m\,s^{-1}$). A high Strouhal number -- assuming both $L$ and $U$ remain constant -- indicates an increased vortex shedding frequency $f$, conversely a low Strouhal number indicates a lower $f$.
+where $f$ is the frequency of vortex shedding ($Hz$), $L$ is the characteristic length ($m$) and $U$ is the free-stream velocity ($m\,s^{-1}$). A high Strouhal number \textemdash\ assuming both $L$ and $U$ remain constant \textemdash\ indicates an increased vortex shedding frequency $f$, conversely a low Strouhal number indicates a lower $f$.
 
+This essay will analyze vortex shedding in a Newtonian fluid \textemdash\ water \textemdash\ which exhibits laminar and incompressible flow. A Reynolds number of 100 was targeted in order to ensure laminar flow \parencite[2]{alammar_wake_nodate}; however, due to practical limitations, this was only fully realized theoretically and not in practice \textemdash\ details of which are discussed later.
 
 \subsection{Vortex Shedding and the Kármán Vortex Street}
 Vortex shedding in a two-dimensional plane can be defined as the phenomenon in which localized regions of high vorticity are periodically released into the wake from alternating sides of a bluff body, each exhibiting an opposite rotational direction \parencite[156]{green1995fluid}. Whereas vortex shedding is the process by which vortices are formed, Kármán Vortex Street refers to the flow pattern created, a repeated structure of counter-rotating vortices \parencite[26]{govardhan2005karman}.
@@ -291,7 +292,7 @@ When considering the vortex being created from the top shear layer, the fluid at
 
 \subsection{The Bluff Body}
 \label{sec:bluffBody}
-In order to maintain a cylinder-like appearance, one of the most common bluff bodies investigated \parencite[475]{rocchi2002_vortex}, this investigation is conducted with bluff bodies which have a rectangular “tail”, in order to give each shape an equal overall length l\ in both streamwise and transverse directions.
+In order to maintain a cylinder-like appearance, one of the most common bluff bodies investigated \parencite[475]{rocchi2002_vortex}, this investigation is conducted with bluff bodies which have a rectangular “tail”, in order to give each shape an equal overall length $\ell$ in both streamwise and transverse directions.
 
 \begin{figure}[H]
 	\begin{center}
@@ -537,7 +538,7 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 					\small\hspace{1.5em}\verb|pointsZones|
 			\end{tabular} 
 			
-			& \textemdash & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes mesh of fluid domain of tutorial case & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes mesh of fluid domain with dimensions given in \Cref{sec:ansysWorkbench} & The fluid domain has been adjusted to conform with the computational limits discussed in \Cref{sec:ansysWorkbench}, while achieving the Reynolds number required for this investigation\\
+			& \textemdash & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes the mesh of fluid domain of tutorial case & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes the mesh of fluid domain with dimensions given in \Cref{sec:ansysWorkbench} & The fluid domain has been adjusted to conform with the computational limits discussed in \Cref{sec:ansysWorkbench}, while achieving the Reynolds number required for this investigation\\
 			\hline
 			\verb*|controlDict| & \verb*|deltaT| & 0.0002 & 0.00001 &
 			Decreased in order to achieve a greater accuracy \parencite[289]{versteeg2007} while ensuring numerical stability \parencite{caminha_cfl_2017}. 
@@ -563,12 +564,31 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 			\verb*|forceCoeffs| & \textemdash & \textemdash & Created a reporting function which outputs the variation of the lift coefficient $C_L$ throughout the simulation & Lift coefficient $C_L$ needed for subsequent calculation of vortex shedding frequency $f$\\
 			\hline
 			
-			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & $1\times 10^{5}$ & $1\times 10^{6}$ & The kinematic viscosity of water at 20°C is approximately $1\times 10^{6} \, m^2\,s^{-1}$ \parencite{noauthor_water_nodate}\\
-			\hline
+
 		\end{tabularx}
 	}
 	\caption{Overview of the changes made to the simulation template.}
-	\label{tab:simulation_changes}
+	\label{tab:simulation_change1}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\renewcommand{\arraystretch}{1.3}
+	\makebox[\linewidth][c]{
+		\begin{tabularx}{1.2\textwidth}{|p{3cm}|p{3.3cm}|p{2.8cm}|p{3cm}|X|}
+			\hline
+			\textbf{File} & \textbf{Parameter} & \textbf{Original} & \textbf{Modified} & \textbf{Justification} \\
+			\hline
+			
+			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & $1\times 10^{5}$ & $1\times 10^{6}$ & The kinematic viscosity of water at 20°C is approximately $1\times 10^{6} \, m^2\,s^{-1}$ \parencite{noauthor_water_nodate}\\
+			\hline
+			\verb*|U|& \texttt{inlet value} \newline \texttt{(x, y, z)} & x = 10 & x = 0.1 & Adapted in order to achieve the target Reynolds number of 100 using Equation~\eqref{eq:reynoldsNumber} where $L=1\times 10^{-3} \, m$ and $\nu = 1\times10^{-6} \, m^2\,s^{-1}$ \\
+			\hline
+		\end{tabularx}
+		}
+	\caption*{Table 1 (continued): Overview of the changes made to the simulation template.}
+	\label{tab:simulation_changes2}
+
 \end{table}
 
 
@@ -576,8 +596,8 @@ To adhere to the scope of this essay, the simulation setup is adapted from a cas
 FFT-based determination of the vortex shedding frequency a Fast Fourier Transform (FFT) is used to extrapolate the vortex shedding frequency by altering the lift coefficient data from a time domain to a frequency domain, allowing for the identification of its underlying harmonic frequencies \parencite[10--11]{shi2025vortex}. The dominant frequency of the FFT corresponds to the vortex shedding frequency \parencite[12]{xu_experimental_2025}. To obtain an accurate vortex shedding frequency, the FFT is only applied to the steady-state phase, when the velocity and pressure at any given point in the system remain constant \parencite{noauthor_steady_nodate}, omitting the initial transient phase, when the velocity and pressure vary over time \parencite{noauthor_transient_nodate}. 
 
 \subsection{The Practical Investigation}
-Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE will be conducted in a self-built flow tank, utilizing a water pump a separation wall to create flow over a horizontal plate – the water pump moves the water from one side of the separation wall to the other. The regulation valve is used to modulate the flow velocity while the sponge diffuser decreases the flow velocity and ensures a uniform distribution of flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape are used in order to better visualize the water flow. 
+Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE will be conducted in a self-built flow tank, utilizing a water pump a separation wall to create flow over a horizontal plate \textemdash\ the water pump moves the water from one side of the separation wall to the other. The regulation valve is used to modulate the flow velocity while the sponge diffuser decreases the flow velocity and ensures a uniform distribution of flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape are used in order to better visualize the water flow. 
 
-The bluff bodies were 3D printed with an overall length $\ell$ of $0.02$ meters – as described in \Cref{sec:bluffBody} – giving each shape a characteristic length $L$ of $0.02$ meters and a height of $0.04$ meters. Reference marks on the horizontal plate ensure the shape is positioned in the same position each trial. A GoPro is mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate. 
-
+The bluff bodies were 3D printed with an overall length $\ell$ of $0.02$ meters \textemdash\ as described in \Cref{sec:bluffBody} \textemdash\ giving each shape a characteristic length $L$ of $0.02$ meters and a height of $0.04$ meters. Reference marks on the horizontal plate ensure the shape is positioned in the same position each trial. A GoPro is mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate.
+ 
 
