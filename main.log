@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  20 JUL 2025 18:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  21 JUL 2025 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,7 +1431,8 @@ Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 37.
 \@quotelevel=\count510
 \@quotereset=\count511
- (main.aux (introduction.aux) (background.aux) (variables.aux) (equipment.aux))
+ (main.aux (introduction.aux) (background.aux) (variables.aux) (equipment.aux) 
+(method.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1445,7 +1446,8 @@ LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 7.
- (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+
+(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -1667,158 +1669,158 @@ File: images/vonKarmanStreet.png Graphic file (type bmp)
 \pgf@layerbox@foreground=\box104
 \pgf@layerboxsaved@foreground=\box105
 
-Overfull \hbox (0.5658pt too wide) in paragraph at lines 134--135
+Overfull \hbox (0.5658pt too wide) in paragraph at lines 137--138
  [] 
  []
 
 [4] [5] [6]
 \unitL=\skip126
 
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 407--408
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 411--412
  [] 
  []
 
 [7]
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 458--459
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 462--463
  [] 
  []
 
 [8]
 LaTeX Font Info:    Font shape `TU/LucidaConsole(0)/m/n' will be
-(Font)              scaled to size 10.12152pt on input line 515.
+(Font)              scaled to size 10.12152pt on input line 519.
  [9]
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 569.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 573.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []\TU/LucidaConsole(0)/m/n/12 para.foam\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 defines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []\TU/LucidaConsole(0)/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []\TU/LucidaConsole(0)/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 visualizes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 mesh of fluid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh \TU/TimesNewRoman(0)/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 569--569
+Underfull \hbox (badness 1237) in paragraph at lines 573--573
 []\TU/LucidaConsole(0)/m/n/12 para.foam \TU/TimesNewRoman(0)/m/n/12 visu-
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 569--569
+Underfull \hbox (badness 7869) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 adjusted to conform with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 & Malalasekera, []2007[],
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 569--569
+Underfull \hbox (badness 2393) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 merical stability (Caminha,
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 569--569
+Underfull \hbox (badness 3009) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 der to extract the lift co-
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 569--569
+Underfull \hbox (badness 1189) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 efficient $\OML/cmm/m/it/12 C[]$ \TU/TimesNewRoman(
 0)/m/n/12 (Codeynamics,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations are per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 569--569
+Underfull \hbox (badness 6477) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 569--569
+Underfull \hbox (badness 2334) in paragraph at lines 573--573
 []|\TU/TimesNewRoman(0)/m/n/12 Lift coefficient $\OML/cmm/m/it/12 C[]$ \TU/Time
 sNewRoman(0)/m/n/12 needed
  []
 
 [10]
-Underfull \hbox (badness 1881) in paragraph at lines 588--588
+Underfull \hbox (badness 1881) in paragraph at lines 592--592
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 588--588
+Underfull \hbox (badness 3098) in paragraph at lines 592--592
 \TU/TimesNewRoman(0)/m/n/12 water at 20°C is approxi-
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 588--588
+Underfull \hbox (badness 1997) in paragraph at lines 592--592
 \TU/TimesNewRoman(0)/m/n/12 of 100 using Equation []
  []
 
@@ -1832,62 +1834,65 @@ Underfull \hbox (badness 1997) in paragraph at lines 588--588
 ]
 \openout2 = `equipment.aux'.
 
- (equipment.tex) [14
+ (equipment.tex
+Underfull \hbox (badness 5578) in paragraph at lines 21--21
+[]\TU/TimesNewRoman(0)/m/n/12 ParaView (“ParaView - Open-source,
+ []
+
+) [14
 
 
 
 ]
-Overfull \hbox (11.05522pt too wide) in paragraph at lines 73--73
+\openout2 = `method.aux'.
+
+ (method.tex) [15
+
+
+
+]
+Overfull \hbox (11.05522pt too wide) in paragraph at lines 74--74
 [][]\TU/TimesNewRoman(0)/m/n/12 Alammar, A. (n.d.). \TU/TimesNewRoman(0)/m/it/1
 2 Wake of bodies (chapter 1) \TU/TimesNewRoman(0)/m/n/12 [Accessed: 2025-07-14]
 . []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (0.1107pt too wide) in paragraph at lines 73--73
+Overfull \hbox (0.1107pt too wide) in paragraph at lines 74--74
 [][]\TU/TimesNewRoman(0)/m/n/12 Embry-Riddle Aeronautical University. (n.d.). \
 TU/TimesNewRoman(0)/m/it/12 Introduction to boundary layers \TU/TimesNewRoman(0
 )/m/n/12 [Accessed: 2025-
  []
 
 
-Overfull \hbox (124.74461pt too wide) in paragraph at lines 73--73
+Overfull \hbox (124.74461pt too wide) in paragraph at lines 74--74
 \TU/TimesNewRoman(0)/m/n/12 05-22]. EaglePubs Open Educational Resources. []$[]
 [][][][] [] [] [] [][][][][][][][][] [] [][][][] [] [][][] [] [][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[15
+[16
 
 
-] [16] [17] (main.aux (introduction.aux) (background.aux) (variables.aux)
-(equipment.aux))
+] [17] [18] (main.aux (introduction.aux) (background.aux) (variables.aux)
+(equipment.aux) (method.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9ADE9F013D321F4EF896643FCFE6CB17;2525.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 31C160FAC0D47BB7F522BF9A6DC95B79;2791.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54371 strings out of 409617
- 1225870 string characters out of 5773608
- 2121033 words of memory out of 5000000
- 75863 multiletter control sequences out of 15000+600000
+ 54413 strings out of 409617
+ 1227155 string characters out of 5773608
+ 2123426 words of memory out of 5000000
+ 75898 multiletter control sequences out of 15000+600000
  566585 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  137i,19n,129p,2583b,5459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (18 pages).
+Output written on main.pdf (19 pages).

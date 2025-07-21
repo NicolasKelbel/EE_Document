@@ -1057,6 +1057,25 @@
       \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
+    \entry{noauthor_paraview_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources. It can be run on supercomputers to analyze datasets of petascale size as well as on laptops for smaller data.}
+      \field{langid}{american}
+      \field{title}{{ParaView} - Open-source, multi-platform data analysis and visualization application}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.paraview.org/
+      \endverb
+      \verb{url}
+      \verb https://www.paraview.org/
+      \endverb
+    \endentry
     \entry{noauthor_relationship_nodate}{online}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -1542,6 +1561,51 @@
       \endverb
       \verb{url}
       \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
+      \endverb
+    \endentry
+    \entry{noauthor_python_2025}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The official home of the Python Programming Language}
+      \field{day}{16}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Welcome to Python.org}
+      \field{titleaddon}{Python.org}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.python.org/
+      \endverb
+      \verb{url}
+      \verb https://www.python.org/
+      \endverb
+    \endentry
+    \entry{noauthor_windows_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Access the Ubuntu terminal on Windows with {WSL}. Develop cross-platform applications and manage {IT} infrastructure without leaving Windows.}
+      \field{langid}{english}
+      \field{title}{Windows Subsystem for Linux ({WSL})}
+      \field{titleaddon}{Ubuntu}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ubuntu.com/desktop/wsl
+      \endverb
+      \verb{url}
+      \verb https://ubuntu.com/desktop/wsl
       \endverb
     \endentry
     \entry{xu_experimental_2025}{article}{}
@@ -2650,6 +2714,25 @@
       \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
+    \entry{noauthor_paraview_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources. It can be run on supercomputers to analyze datasets of petascale size as well as on laptops for smaller data.}
+      \field{langid}{american}
+      \field{title}{{ParaView} - Open-source, multi-platform data analysis and visualization application}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.paraview.org/
+      \endverb
+      \verb{url}
+      \verb https://www.paraview.org/
+      \endverb
+    \endentry
     \entry{noauthor_relationship_nodate}{online}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -3135,6 +3218,51 @@
       \endverb
       \verb{url}
       \verb https://www.engineeringtoolbox.com/water-dynamic-kinematic-viscosity-d_596.html
+      \endverb
+    \endentry
+    \entry{noauthor_python_2025}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The official home of the Python Programming Language}
+      \field{day}{16}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Welcome to Python.org}
+      \field{titleaddon}{Python.org}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.python.org/
+      \endverb
+      \verb{url}
+      \verb https://www.python.org/
+      \endverb
+    \endentry
+    \entry{noauthor_windows_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Access the Ubuntu terminal on Windows with {WSL}. Develop cross-platform applications and manage {IT} infrastructure without leaving Windows.}
+      \field{langid}{english}
+      \field{title}{Windows Subsystem for Linux ({WSL})}
+      \field{titleaddon}{Ubuntu}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ubuntu.com/desktop/wsl
+      \endverb
+      \verb{url}
+      \verb https://ubuntu.com/desktop/wsl
       \endverb
     \endentry
     \entry{xu_experimental_2025}{article}{}

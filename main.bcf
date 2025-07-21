@@ -3120,6 +3120,11 @@
     <bcf:citekey order="69" intorder="1">noauthor_steady_nodate</bcf:citekey>
     <bcf:citekey order="70" intorder="1">noauthor_transient_nodate</bcf:citekey>
     <bcf:citekey order="71" intorder="1">noauthor_vortex_nodate</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">noauthor_ansys_nodate</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">noauthor_windows_nodate</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">noauthor_openfoam_2024</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">noauthor_paraview_nodate</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">noauthor_python_2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

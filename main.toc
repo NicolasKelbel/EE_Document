@@ -1,14 +1,16 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
 \contentsline {section}{\numberline {2}Background}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Fundamentals of Fluid Dynamics}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Vortex Shedding and the Kármán Vortex Street}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}The Mechanism of Vortex Shedding}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}The Bluff Body}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}The Theoretical Investigation}{7}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Ansys Workbench}{7}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}The OpenFoam Simulation}{9}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Simulation Settings}{9}{subsubsection.2.5.3}%
-\contentsline {subsubsection}{\numberline {2.5.4}FFT-based determination of the vortex shedding frequency}{12}{subsubsection.2.5.4}%
-\contentsline {subsection}{\numberline {2.6}The Practical Investigation}{12}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.1}Frequency and Time Period}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fundamentals of Fluid Dynamics}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Vortex Shedding and the Kármán Vortex Street}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}The Mechanism of Vortex Shedding}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}The Bluff Body}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}The Theoretical Investigation}{7}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Ansys Workbench}{7}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}The OpenFoam Simulation}{9}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Simulation Settings}{9}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}FFT-based determination of the vortex shedding frequency}{12}{subsubsection.2.6.4}%
+\contentsline {subsection}{\numberline {2.7}The Practical Investigation}{12}{subsection.2.7}%
 \contentsline {section}{\numberline {3}Variables}{13}{section.3}%
 \contentsline {section}{\numberline {4}Equipment}{14}{section.4}%
+\contentsline {section}{\numberline {5}Method}{15}{section.5}%
