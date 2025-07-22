@@ -435,6 +435,26 @@
       \verb https://www.youtube.com/watch?v=1gSHN99I7L4
       \endverb
     \endentry
+    \entry{noauthor_freecad_nodate}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{FreeCAD}, the open source 3D parametric modeler}
+      \field{langid}{german}
+      \field{shorttitle}{{FreeCAD}}
+      \field{title}{{FreeCAD}: Ihr parametrischer 3D-Modellierer}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.freecad.org/index.php?lang=de
+      \endverb
+      \verb{url}
+      \verb https://www.freecad.org/index.php?lang=de
+      \endverb
+    \endentry
     \entry{livescience_fluid_dynamics}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
@@ -468,6 +488,51 @@
       \endverb
       \verb{url}
       \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+    \endentry
+    \entry{goncalves1999strouhal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=df36d73f6cd701b8903a1576b482abe1}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={Herbert\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35bbd101b98008082ca9e09b3a195816}{%
+           family={Del\bibnamedelimb Rio\bibnamedelima Vieira},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Edson},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ilha Solteira, SP, Brazil}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira}%
+      }
+      \strng{namehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{fullhash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{bibnamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authorbibnamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authornamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authorfullhash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th Brazilian Congress of Mechanical Engineering (COBEM 1999)}
+      \field{note}{Accessed: 2025-07-22}
+      \field{title}{Strouhal Number Determination for Several Regular Polygon Cylinders for Reynolds Number up to 600}
+      \field{year}{1999}
+      \verb{urlraw}
+      \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
       \endverb
     \endentry
     \entry{govardhan2005karman}{article}{}
@@ -812,6 +877,23 @@
       \verb https://www.youtube.com/watch?v=ahohd8ceGR4
       \endverb
     \endentry
+    \entry{noauthor_lnicez_nodate}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Lnicez Schmutzwasser-Tauchpumpe(75 W, Ø19 mm,3.000L/H)}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.amazon.de/dp/B0987LCYMK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.de/dp/B0987LCYMK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+      \endverb
+    \endentry
     \entry{mohn2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8fc9ed2ed7f6d85f40500c6b50f1034}{%
@@ -1057,6 +1139,26 @@
       \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
+    \entry{noauthor_prusa_nodate}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse. Und jetzt ist er schneller als je zuvor, dank Input Shaper und Pressure Advance! Wir haben unser Bestes getan, um so viele Funktionen wie möglich in den niedrigsten Preis zu quetschen. Der {MINI}+ ist ein schneller und zuverlässiger Drucker, der sich sowohl für Anfänger als auch für fortgeschrittene Benutzer eignet, die eine Druckfarm aufbauen wollen. Das Paket enthält ein glattes {PEI} Druckblech. Wenn Sie sich für den teilmontierten {MINI}+ entscheiden, erhalten Sie außerdem kostenlosen Zugang zu unserem Online-Kurs: 3D-Drucken und Modellieren für Einsteiger.}
+      \field{langid}{ger}
+      \field{title}{Original Prusa {MINI}+ Halbmontiert {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
+      \field{titleaddon}{Prusa3D by Josef Prusa}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prusa3d.com/de/produkt/original-prusa-mini-halbmontiert-4/
+      \endverb
+      \verb{url}
+      \verb https://www.prusa3d.com/de/produkt/original-prusa-mini-halbmontiert-4/
+      \endverb
+    \endentry
     \entry{noauthor_paraview_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -1074,6 +1176,25 @@
       \endverb
       \verb{url}
       \verb https://www.paraview.org/
+      \endverb
+    \endentry
+    \entry{noauthor_prusaslicer_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{langid}{ger}
+      \field{title}{{PrusaSlicer} {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
+      \field{titleaddon}{Prusa3D by Josef Prusa}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prusa3d.com/de/page/prusaslicer_424/
+      \endverb
+      \verb{url}
+      \verb https://www.prusa3d.com/de/page/prusaslicer_424/
       \endverb
     \endentry
     \entry{noauthor_relationship_nodate}{online}{}
@@ -2092,6 +2213,26 @@
       \verb https://www.youtube.com/watch?v=1gSHN99I7L4
       \endverb
     \endentry
+    \entry{noauthor_freecad_nodate}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{FreeCAD}, the open source 3D parametric modeler}
+      \field{langid}{german}
+      \field{shorttitle}{{FreeCAD}}
+      \field{title}{{FreeCAD}: Ihr parametrischer 3D-Modellierer}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.freecad.org/index.php?lang=de
+      \endverb
+      \verb{url}
+      \verb https://www.freecad.org/index.php?lang=de
+      \endverb
+    \endentry
     \entry{livescience_fluid_dynamics}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
@@ -2125,6 +2266,51 @@
       \endverb
       \verb{url}
       \verb https://www.livescience.com/47446-fluid-dynamics.html
+      \endverb
+    \endentry
+    \entry{goncalves1999strouhal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=df36d73f6cd701b8903a1576b482abe1}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={Herbert\bibnamedelima C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35bbd101b98008082ca9e09b3a195816}{%
+           family={Del\bibnamedelimb Rio\bibnamedelima Vieira},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Edson},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ilha Solteira, SP, Brazil}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Estadual Paulista, Faculdade de Engenharia de Ilha Solteira}%
+      }
+      \strng{namehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{fullhash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{bibnamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authorbibnamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authornamehash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \strng{authorfullhash}{dc4c9b9587e2d21ad3f77630dd872410}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 15th Brazilian Congress of Mechanical Engineering (COBEM 1999)}
+      \field{note}{Accessed: 2025-07-22}
+      \field{title}{Strouhal Number Determination for Several Regular Polygon Cylinders for Reynolds Number up to 600}
+      \field{year}{1999}
+      \verb{urlraw}
+      \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
       \endverb
     \endentry
     \entry{govardhan2005karman}{article}{}
@@ -2469,6 +2655,23 @@
       \verb https://www.youtube.com/watch?v=ahohd8ceGR4
       \endverb
     \endentry
+    \entry{noauthor_lnicez_nodate}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Lnicez Schmutzwasser-Tauchpumpe(75 W, Ø19 mm,3.000L/H)}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.amazon.de/dp/B0987LCYMK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.de/dp/B0987LCYMK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+      \endverb
+    \endentry
     \entry{mohn2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c8fc9ed2ed7f6d85f40500c6b50f1034}{%
@@ -2714,6 +2917,26 @@
       \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
+    \entry{noauthor_prusa_nodate}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse. Und jetzt ist er schneller als je zuvor, dank Input Shaper und Pressure Advance! Wir haben unser Bestes getan, um so viele Funktionen wie möglich in den niedrigsten Preis zu quetschen. Der {MINI}+ ist ein schneller und zuverlässiger Drucker, der sich sowohl für Anfänger als auch für fortgeschrittene Benutzer eignet, die eine Druckfarm aufbauen wollen. Das Paket enthält ein glattes {PEI} Druckblech. Wenn Sie sich für den teilmontierten {MINI}+ entscheiden, erhalten Sie außerdem kostenlosen Zugang zu unserem Online-Kurs: 3D-Drucken und Modellieren für Einsteiger.}
+      \field{langid}{ger}
+      \field{title}{Original Prusa {MINI}+ Halbmontiert {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
+      \field{titleaddon}{Prusa3D by Josef Prusa}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prusa3d.com/de/produkt/original-prusa-mini-halbmontiert-4/
+      \endverb
+      \verb{url}
+      \verb https://www.prusa3d.com/de/produkt/original-prusa-mini-halbmontiert-4/
+      \endverb
+    \endentry
     \entry{noauthor_paraview_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -2731,6 +2954,25 @@
       \endverb
       \verb{url}
       \verb https://www.paraview.org/
+      \endverb
+    \endentry
+    \entry{noauthor_prusaslicer_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{langid}{ger}
+      \field{title}{{PrusaSlicer} {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
+      \field{titleaddon}{Prusa3D by Josef Prusa}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.prusa3d.com/de/page/prusaslicer_424/
+      \endverb
+      \verb{url}
+      \verb https://www.prusa3d.com/de/page/prusaslicer_424/
       \endverb
     \endentry
     \entry{noauthor_relationship_nodate}{online}{}

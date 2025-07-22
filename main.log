@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  21 JUL 2025 21:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  22 JUL 2025 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1066,15 +1066,6 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count465
 )
-Package biblatex Info: Trying to load natbib compatibility...
-Package biblatex Info: ... file 'blx-natbib.def' found.
-
-(C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.d
-ef
-File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-)
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
 
@@ -1431,8 +1422,8 @@ Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 37.
 \@quotelevel=\count510
 \@quotereset=\count511
- (main.aux (introduction.aux) (background.aux) (variables.aux) (equipment.aux) 
-(method.aux))
+ (main.aux (introduction.aux) (background.aux) (investigations.aux)
+(variables.aux) (equipment.aux) (method.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1669,165 +1660,181 @@ File: images/vonKarmanStreet.png Graphic file (type bmp)
 \pgf@layerbox@foreground=\box104
 \pgf@layerboxsaved@foreground=\box105
 
-Overfull \hbox (0.5658pt too wide) in paragraph at lines 137--138
+Overfull \hbox (0.5658pt too wide) in paragraph at lines 141--142
  [] 
  []
 
-[4] [5] [6]
+[4] [5] [6]) [7]
+\openout2 = `investigations.aux'.
+
+ (investigations.tex
 \unitL=\skip126
 
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 411--412
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 47--48
  [] 
  []
 
-[7]
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 462--463
+
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 98--99
  [] 
  []
 
-[8]
+[8
+
+
+
+]
 LaTeX Font Info:    Font shape `TU/LucidaConsole(0)/m/n' will be
-(Font)              scaled to size 10.12152pt on input line 519.
+(Font)              scaled to size 10.12152pt on input line 155.
  [9]
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 573.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 209.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []\TU/LucidaConsole(0)/m/n/12 para.foam\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 defines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []\TU/LucidaConsole(0)/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []\TU/LucidaConsole(0)/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 visualizes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 mesh of fluid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh \TU/TimesNewRoman(0)/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 573--573
+Underfull \hbox (badness 1237) in paragraph at lines 209--209
 []\TU/LucidaConsole(0)/m/n/12 para.foam \TU/TimesNewRoman(0)/m/n/12 visu-
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 573--573
+Underfull \hbox (badness 7869) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 adjusted to conform with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 & Malalasekera, []2007[],
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 573--573
+Underfull \hbox (badness 2393) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 merical stability (Caminha,
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 573--573
+Underfull \hbox (badness 3009) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 der to extract the lift co-
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 573--573
+Underfull \hbox (badness 1189) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 efficient $\OML/cmm/m/it/12 C[]$ \TU/TimesNewRoman(
 0)/m/n/12 (Codeynamics,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations are per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 573--573
+Underfull \hbox (badness 6477) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--573
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 573--573
+Underfull \hbox (badness 2334) in paragraph at lines 209--209
 []|\TU/TimesNewRoman(0)/m/n/12 Lift coefficient $\OML/cmm/m/it/12 C[]$ \TU/Time
 sNewRoman(0)/m/n/12 needed
  []
 
 [10]
-Underfull \hbox (badness 1881) in paragraph at lines 592--592
+Underfull \hbox (badness 1881) in paragraph at lines 228--228
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 592--592
+Underfull \hbox (badness 3098) in paragraph at lines 228--228
 \TU/TimesNewRoman(0)/m/n/12 water at 20°C is approxi-
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 592--592
+Underfull \hbox (badness 1997) in paragraph at lines 228--228
 \TU/TimesNewRoman(0)/m/n/12 of 100 using Equation []
  []
 
-[11]) [12]
+[11]
+File: images/overallSetup.jpg Graphic file (type bmp)
+<images/overallSetup.jpg>
+ [12]
+File: images/shapes.jpg Graphic file (type bmp)
+<images/shapes.jpg>
+ [13]
+File: images/shapeInTank.jpg Graphic file (type bmp)
+<images/shapeInTank.jpg>
+ [14]) [15] [16]
 \openout2 = `variables.aux'.
 
- (variables.tex) [13
+ (variables.tex) [17
 
 
 
@@ -1835,18 +1842,48 @@ Underfull \hbox (badness 1997) in paragraph at lines 592--592
 \openout2 = `equipment.aux'.
 
  (equipment.tex
-Underfull \hbox (badness 5578) in paragraph at lines 21--21
+Underfull \hbox (badness 5578) in paragraph at lines 39--39
 []\TU/TimesNewRoman(0)/m/n/12 ParaView (“ParaView - Open-source,
  []
 
-) [14
+
+Underfull \hbox (badness 1721) in paragraph at lines 39--39
+[]\TU/TimesNewRoman(0)/m/n/12 Original Prusa MINI 3D Printer with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\TU/TimesNewRoman(0)/m/n/12 Halbmontiert | Original Prusa 3D-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\TU/TimesNewRoman(0)/m/n/12 Slicer for Prusa MINI 3D Printer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\TU/TimesNewRoman(0)/m/n/12 (“PrusaSlicer | Original Prusa 3D-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\TU/TimesNewRoman(0)/m/n/12 75W Water pump (“Lnicez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+\TU/TimesNewRoman(0)/m/n/12 Schmutzwasser-Tauchpumpe(75 W,
+ []
+
+) [18
 
 
 
 ]
 \openout2 = `method.aux'.
 
- (method.tex) [15
+ (method.tex) [19
 
 
 
@@ -1871,28 +1908,34 @@ Overfull \hbox (124.74461pt too wide) in paragraph at lines 74--74
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[16
+[20
 
 
-] [17] [18] (main.aux (introduction.aux) (background.aux) (variables.aux)
-(equipment.aux) (method.aux))
+]
+Overfull \hbox (12.99612pt too wide) in paragraph at lines 74--74
+[][]\TU/TimesNewRoman(0)/m/it/12 Original Prusa MINI+ Halbmontiert | Original P
+rusa 3D-Drucker direkt von Josef Prusa \TU/TimesNewRoman(0)/m/n/12 [Prusa3D
+ []
+
+[21] [22] (main.aux (introduction.aux) (background.aux) (investigations.aux)
+(variables.aux) (equipment.aux) (method.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 31C160FAC0D47BB7F522BF9A6DC95B79;2791.
+(rerunfilecheck)             Checksum: C746176328CE834953982AD418B38632;2968.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54413 strings out of 409617
- 1227155 string characters out of 5773608
- 2123426 words of memory out of 5000000
- 75898 multiletter control sequences out of 15000+600000
+ 54465 strings out of 409617
+ 1229281 string characters out of 5773608
+ 2126069 words of memory out of 5000000
+ 75942 multiletter control sequences out of 15000+600000
  566585 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 137i,19n,129p,2583b,5459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,19n,129p,2583b,5444s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (19 pages).
+Output written on main.pdf (23 pages).
