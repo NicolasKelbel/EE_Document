@@ -1,1 +1,448 @@
 \section{Method}
+\subsection{The Bluff Body}
+\label{sec:bluffBody}
+In order to maintain a cylinder-like appearance, one of the most common bluff bodies investigated \parencite[475]{rocchi2002_vortex}, this investigation was conducted with bluff bodies which have a rectangular “tail”, in order to give each shape an equal overall length $\ell$ in both streamwise and transverse directions. The bluff body faces $n$ facing the inlet were of the same length within bluff body $n$.
+\begin{figure}[H]
+	\begin{center}
+		\begin{tikzpicture}[line join=round, line cap=round, scale=0.7]
+			\node at (9,6) {\large \textbf{Inlet}};
+			\draw[->, line width=1pt] (3,5) -- (3, 4);
+			\draw[->, line width=1pt] (6,5) -- (6, 4);
+			\draw[->, line width=1pt] (9,5) -- (9, 4);
+			\draw[->, line width=1pt] (12,5) -- (12, 4);
+			\draw[->, line width=1pt] (15,5) -- (15, 4);
+			
+			\draw (-1,0.8) -- (-1,2.8);     
+			\draw (-1,2.8) -- (-0.7,2.8);   
+			\draw (-1,0.8) -- (-0.7,0.8);
+			
+			\node[anchor=east] at (-1, 1.8) {$n$ faces};
+			
+			\draw (-1,-1.2) -- (-1,0.8);     
+			\draw (-1,0.8) -- (-0.7,0.8);   
+			\draw (-1,-1.2) -- (-0.7,-1.2);
+			
+			\node[anchor=east, align=right] at (-1, -0.2) {Rectangular \\ “tail”};
+			
+			
+			\begin{scope}[yshift=-35] 
+				% Base shape dimensions
+				\def\W{4}   % width of the base
+				\def\H{2}   % height of the base
+				\def\R{2}   % roof "radius"
+				
+				% --- LEFT: 2-sided roof (n=2) ---
+				\coordinate (A) at (0,0);
+				\coordinate (B) at (\W,0);
+				\draw (A) -- (B) -- (\W,\H)
+				-- (\W/2,\H+\R) -- (0,\H) -- cycle;
+				\node[below=8pt of $(A)!0.5!(B)$] {$n = 2$};
+				
+				% --- MIDDLE: 6-sided roof (n=6) ---
+				\begin{scope}[xshift=7cm]
+					\coordinate (A) at (0,0);
+					\coordinate (B) at (\W,0);
+					\draw (A) -- (B);
+					\draw (A) -- (0,\H);
+					\draw (B) -- (\W,\H);
+					
+					\foreach \k [evaluate=\k as \ang using {180 - 30*\k}] in {0,...,6}{
+						\coordinate (m\k) at ({\W/2 + \R*cos(\ang)},
+						{\H   + \R*sin(\ang)});
+					}
+					\draw (0,\H) -- (m0);
+					\foreach \k in {0,...,5}{
+						\pgfmathtruncatemacro\next{\k+1}
+						\draw (m\k) -- (m\next);
+					}
+					\draw (m6) -- (\W,\H);
+					\node[below=8pt of $(A)!0.5!(B)$] {$n = 6$};
+				\end{scope}
+				
+				% --- RIGHT: 12-sided roof (n=12) ---
+				\begin{scope}[xshift=14cm]
+					\coordinate (A) at (0,0);
+					\coordinate (B) at (\W,0);
+					\draw (A) -- (B);
+					\draw (A) -- (0,\H);
+					\draw (B) -- (\W,\H);
+					
+					\foreach \k [evaluate=\k as \ang using {180 - 15*\k}] in {0,...,12}{
+						\coordinate (r\k) at ({\W/2 + \R*cos(\ang)},
+						{\H   + \R*sin(\ang)});
+					}
+					\draw (0,\H) -- (r0);
+					\foreach \k in {0,...,11}{
+						\pgfmathtruncatemacro\next{\k+1}
+						\draw (r\k) -- (r\next);
+					}
+					\draw (r12) -- (\W,\H);
+					\node[below=8pt of $(A)!0.5!(B)$] {$n = 12$};
+				\end{scope}
+			\end{scope}
+		\end{tikzpicture}
+	\end{center}
+	\caption{Examples of bluff bodies}
+	\label{fig:bluffBodies}
+\end{figure}
+\subsection{The Theoretical Investigation}
+\subsubsection{Ansys Workbench}
+\label{sec:ansysWorkbench}
+The geometry and mesh preparation for the simulation was conducted using Ansys Workbench \parencite{noauthor_ansys_nodate}. The dimensions of the fluid domain are based on \ref{fig:fluidDomain} where l is the overall length of the bluff body.
+
+\newlength\unitL
+\setlength\unitL{0.2cm}
+
+\begin{figure}[H]
+	
+	\begin{center}
+		\begin{tikzpicture}[x=\unitL, y=\unitL, >=stealth, line width=1pt]
+			
+			% === Outer domain ===
+			\draw (0,0) rectangle (63,50);
+			
+			% === Square obstacle ===
+			\draw (22,24) rectangle (24,26);
+			\draw[<->] (25, 24) -- (25, 26);
+			\node at (27, 25) {$\ell$};  
+			
+			\draw[<->] (22, 23) -- (24, 23);
+			\node at (23, 21) {$\ell$};  
+			
+			% === Velocity inlet arrows (spaced + farther from wall) ===
+			\foreach \y in {12,20,28,36}
+			\draw[->] (-5,\y) -- (-1,\y);  % stop at x=0.3 to add gap
+			
+			% === Velocity inlet label (more horizontal distance) ===
+			\node[rotate=90] at (-7,25) {\large \textbf{Velocity Inlet}};
+			
+			% === Pressure outlet ===
+			\draw[<->] (65.5,0) -- (65.5,50);
+			\node[rotate=90] at (72,25) {\large \textbf{Pressure Outlet}};
+			\node[rotate=90] at (68,25) {$50\,\ell$};
+			
+			% === Bottom dimensions (same horizontal alignment) ===
+			\draw (23,0) -- (23,-0.8);  % tick at square center
+			
+			\draw[<->] (0,-3) -- (23,-3);  % from inlet to square center
+			\node at (11.5,-5.1) {$23\,\ell$};
+			
+			\draw[<->] (23,-3) -- (63,-3); % from square center to outlet
+			\node at (43,-5.1) {$40\,\ell$};
+			
+		\end{tikzpicture}
+	\end{center}
+	\caption{The fluid domain with dimensions. Inspired by \textcite{comflics_openfoam_2014}}
+	\label{fig:fluidDomain}
+\end{figure}
+
+Given the computational limitations of the computer the simulation was conducted on, an overall length $\ell$ of $1\times{10}^{-3}$ meters was chosen, therefore giving each bluff body a characteristic length $L$ of $1\times{10}^{-3}$ meters. 
+
+In order to create the mesh necessary for the simulation, the \textit{All Triangles Method} was utilized. A global unit size of $2.25\times{10}^{-3}$ meters was applied to the fluid domain to ensure a computationally inexpensive resolution in regions of negligible interest. Conversely, near the edge of the bluff body, a significantly smaller unit size of $2.0\times{10}^{-5}$ meters was used, constituting an accurate depiction of the interaction between the fluid flow and the bluff body \parencite{ansys_learning_best_2023}. Furthermore, eight inflation layers were employed in order to accurately capture the gradients associated with boundary layer formation at the edges of the bluff body \parencite{fluid_mechanics_101_cfd_2021}. Moreover, a body of influence (BOI) with a sizing of $2.0\times{10}^{-4}$ meters was used, positioned as shown in \ref{fig:fluidDomainWithBOI} below, in order to refine the mesh in the wake region, where the vortex shedding occurs, constituting for a more accurate simulation.  
+
+\begin{figure}[H]
+	
+	\begin{center}
+		\begin{tikzpicture}[x=\unitL, y=\unitL, >=stealth, line width=1pt]
+			
+			% === Outer domain ===
+			\draw (0,0) rectangle (63,50);
+			
+			% === BOI rectangle ===
+			\draw[dashed] (15,17) rectangle (63,33);  % Body of Influence
+			\node[anchor=south west] at (36,33) {\textbf{BOI}};
+			
+			% === Square obstacle ===
+			\draw (22,24) rectangle (24,26);
+			\draw[<->] (25, 24) -- (25, 26);
+			\node at (27, 25) {$\ell$};  
+			
+			\draw[<->] (22, 23) -- (24, 23);
+			\node at (23, 21) {$\ell$};  
+			
+			% === Velocity inlet arrows (spaced + farther from wall) ===
+			\foreach \y in {12,20,28,36}
+			\draw[->] (-5,\y) -- (-1,\y);  % stop at x=0.3 to add gap
+			
+			% === Velocity inlet label (more horizontal distance) ===
+			\node[rotate=90] at (-7,25) {\large \textbf{Velocity Inlet}};
+			
+			% === Pressure outlet ===
+			\draw[<->] (65.5,0) -- (65.5,50);
+			\node[rotate=90] at (72,25) {\large \textbf{Pressure Outlet}};
+			\node[rotate=90] at (68,25) {$50\,\ell$};
+			
+			% === Bottom dimensions (same horizontal alignment) ===
+			\draw (23,0) -- (23,-0.8);  % tick at square center
+			
+			\draw[<->] (0,-3) -- (23,-3);  % from inlet to square center
+			\node at (11.5,-5.1) {$23\,\ell$};
+			
+			\draw[<->] (23,-3) -- (63,-3); % from square center to outlet
+			\node at (43,-5.1) {$40\,\ell$};
+			
+		\end{tikzpicture}
+	\end{center}
+	\caption{The fluid domain with dimensions and the BOI. Inspired by \textcite{comflics_openfoam_2014}}
+	\label{fig:fluidDomainWithBOI}
+\end{figure}
+
+\subsubsection{The OpenFOAM Simulation}
+\label{sec:openFoam}
+The theoretical part of this EE was conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024}. Among the numerous solvers OpenFOAM provides, pimpleFOAM is a transient, pressure-based solver for incompressible, single-phase, also referred to as isothermal, flows. It combines the algorithms used in the pisoFOAM and simpleFOAM solvers, enabling robust handling of transient simulations with larger time steps, allowing for improved computational performance, hence why the solver was chosen. Moreover, its ability to model both laminar and turbulent flow ensures flow conditions are accurately reflected and given that the fluctuations of lift force in laminar flow are sinusoidal, one can verify the flow is laminar. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
+\subsubsection{Simulation Settings}
+To adhere to the scope of this essay, the simulation setup was adapted from a case study provided in the Udemy course OpenFOAM for Absolute Beginners by \textcite{jayaraj2024openfoam}. The tutorial case \textit{3vortexShedding}, discussed in lecture eight, served as a structural template and was modified to align with the specific requirements of this investigation.
+
+\begin{figure}[H]
+	\centering
+	\begin{forest}
+		for tree={
+			font=\ttfamily,
+			grow=east,
+			child anchor=west,
+			parent anchor=east,
+			anchor=west,
+			edge={draw,-stealth},
+			inner sep=2pt,
+			l sep=50pt,
+			s sep=20pt
+		}
+		[case/
+		[0/
+		[\textcolor{blue}{U}]
+		[p]
+		[nuTilda]
+		[nut]
+		]
+		[constant/
+		[turbulenceProperties]
+		[\textcolor{blue}{transportProperties}]
+		[g]
+		[\textcolor{green}{polyMesh/}
+		[\textcolor{green}{pointZones}]
+		[\textcolor{green}{points}]
+		[\textcolor{green}{owner}]
+		[\textcolor{green}{neighbor}]
+		[\textcolor{green}{faceZones}]
+		[\textcolor{green}{faces}]
+		[\textcolor{green}{cellZones}]
+		[\textcolor{green}{boundary}]
+		]
+		]
+		[system/
+		[fvSolution]
+		[fvSchemes]
+		[\textcolor{green}{forceCoeffs}]
+		[\textcolor{blue}{decomposeParDict}]
+		[\textcolor{blue}{controlDict}]
+		]
+		[\textcolor{blue}{para.foam}]
+		[\textcolor{blue}{mesh.msh}]
+		]
+	\end{forest}
+	\caption{Overview of the simulation directory structure. Modified files are highlighted blue. Created files and folders are highlighted green }
+\end{figure}
+
+
+\begin{table}[H]
+	\centering
+	\renewcommand{\arraystretch}{1.3}
+	\makebox[\linewidth][c]{
+		\begin{tabularx}{1.2\textwidth}{|p{3cm}|p{3.3cm}|p{2.8cm}|p{3cm}|X|}
+			\hline
+			\textbf{File} & \textbf{Parameter} & \textbf{Original} & \textbf{Modified} & \textbf{Justification} \\
+			\hline
+			\verb*|mesh.msh|, \verb*|para.foam|, 
+			\begin{tabular}[t]{@{}l@{}}
+				\verb|polyMesh/|\\[-0.3em]
+				\small\hspace{1.5em}\verb|boundary| \\[-0.3em]
+				\small\hspace{1.5em}\verb|cellZones| \\[-0.3em]
+				\small\hspace{1.5em}\verb|faces| \\[-0.3em]
+				\small\hspace{1.5em}\verb|faceZones| \\[-0.3em]
+				\small\hspace{1.5em}\verb|neighbor| \\[-0.3em]
+				\small\hspace{1.5em}\verb|owner| \\[-0.3em]
+				\small\hspace{1.5em}\verb|points| \\[-0.3em]
+				\small\hspace{1.5em}\verb|pointsZones|
+			\end{tabular} 
+			
+			& \textemdash & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes the mesh of fluid domain of tutorial case & \verb*|mesh.msh| defines, \verb*|polyMesh/| contains and \verb*|para.foam| visualizes the mesh of fluid domain with dimensions given in \Cref{sec:ansysWorkbench} & The fluid domain was adjusted to conform with the computational limits discussed in \Cref{sec:ansysWorkbench}, while achieving the Reynolds number required for this investigation\\
+			\hline
+			\verb*|controlDict| & \verb*|deltaT| & 0.0002 & 0.00001 &
+			Decreased in order to achieve a greater accuracy \parencite[289]{versteeg2007} while ensuring numerical stability \parencite{caminha_cfl_2017}. 
+			\\
+			
+			\rule{0pt}{5ex} & \verb*|functions| & \verb*|none| &
+			\begin{tabular}[t]{@{}l@{}}
+				\verb|#include| \\[-0.3em]
+				\verb*|"forceCoeffs"|
+			\end{tabular} &
+			Reporting function, defined in \verb*|forceCoeffs|, included in order to extract the lift coefficient $C_L$ \parencite{codeynamics_prism_2024}
+			\\ 
+			
+			\rule{0pt}{5ex} & {\small\verb*|adjustTimeStep|} & \verb*|yes| & \verb*|no| &
+			Removed as the simulation demonstrated stable behavior with the adjusted \verb*|deltaT| \parencite{jayaraj2024openfoam}
+			\\ 
+			
+			\hline
+			
+			{\footnotesize\verb*|decomposeParDict|} & {\footnotesize\verb*|numberOfSubdomains|} & 8 & 6 & The simulations were performed on a system with \verb*|6| processing cores \parencite{jayaraj2024openfoam} \\
+			\hline
+			
+			\verb*|forceCoeffs| & \textemdash & \textemdash & Created a reporting function which outputs the variation of the lift coefficient $C_L$ throughout the simulation & Lift coefficient $C_L$ is needed for subsequent calculation of vortex shedding frequency $f$\\
+			\hline
+			
+			
+		\end{tabularx}
+	}
+	\caption{Overview of the changes made to the simulation template.}
+	\label{tab:simulation_change1}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\renewcommand{\arraystretch}{1.3}
+	\makebox[\linewidth][c]{
+		\begin{tabularx}{1.2\textwidth}{|p{3cm}|p{3.3cm}|p{2.8cm}|p{3cm}|X|}
+			\hline
+			\textbf{File} & \textbf{Parameter} & \textbf{Original} & \textbf{Modified} & \textbf{Justification} \\
+			\hline
+			
+			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & $1\times 10^{5}$ & $1\times 10^{6}$ & The kinematic viscosity of water at 20°C is approximately $1\times 10^{6} \, m^2\,s^{-1}$ \parencite{noauthor_water_nodate}\\
+			\hline
+			\verb*|U|& \texttt{inlet value} \newline \texttt{(x, y, z)} & x = 10 & x = 0.1 & Adapted in order to achieve the target Reynolds number of 100 using Equation~\eqref{eq:reynoldsNumber} where $L=1\times 10^{-3} \, m$ and $\nu = 1\times10^{-6} \, m^2\,s^{-1}$ \\
+			\hline
+		\end{tabularx}
+	}
+	\caption*{Table 1 (continued): Overview of the changes made to the simulation template.}
+	\label{tab:simulation_changes2}
+	
+\end{table}
+
+
+
+\subsection{The Practical Investigation}
+Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE was conducted in a self-built flow tank, utilizing a water pump and a separation wall to create flow over a horizontal plate \textemdash\ the water pump moves the water from one side of the separation wall (1) to the other. A second separation wall (2) which fails to reach the bottom of the tank forces the flow of the horizontal wall towards the pump. The regulation valve is used to decrease the flow velocity while the sponge diffuser ensures a uniform distribution of flow \textemdash\ in an attempt to achieve laminar flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape \textemdash\ via a spatula \textemdash\ were used in order to better visualize the water flow. The thermal insulation foam ensured watertightness between the aquarium wall and the inside components. The outer scaffolding provides support for the lamp, the GoPro, 
+
+The bluff bodies were 3D printed with an overall length $\ell$ of $0.02$ meters \textemdash\ as described in \Cref{sec:bluffBody} \textemdash\ giving each shape a characteristic length $L$ of $0.02$ meters and a height of $0.04$ meters. Reference marks on the horizontal plate ensured the shape is positioned in the same position each trial. A GoPro was mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate.
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}
+		\path[use as bounding box] (-8, -7) rectangle (10, 7);
+		\node[inner sep=0pt] (img) at (0,0) {\includegraphics[width=\textwidth]{images/overallSetup1.jpg}};
+		
+		
+		%Right
+		\draw[->, line width=3pt, color=red] (6.5, 4.5) -- (4.2, 4.2);
+		\node[fill=white, anchor=west] at (6.6, 4.5) {Lamp};
+		
+		\draw[->, line width=3pt, color=red] (6.5, 3.25) -- (2, 3.3);
+		\node[fill=white, anchor=west, align=left] at (6.6, 3.25) {Hose (water \\ supply)};
+		
+		\draw[->, line width=3pt, color=red] (6.5, 2) -- (2.9, 2.5);
+		\node[fill=white, anchor=west] at (6.6, 2) {Clamp};
+		
+		\draw[->, line width=3pt, color=red] (6.5, 0) -- (3.9, 1);
+		\node[fill=white, anchor=west] at (6.6, 0) {Piping \diameter $0.017\,m$};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -1) -- (2, -0.2);
+		\node[fill=white, anchor=west, align=left] at (6.6, -1) {Separation wall (2)};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -2) -- (1.35, -1.6);
+		\node[fill=white, anchor=west, align=left] at (6.6, -2) {Separation wall (1)};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -4) -- (0.1, -1.8);
+		\node[fill=white, anchor=west, align=left] at (6.6, -4) {Sponge diffuser};
+		
+		
+		%Left
+		\draw[->, line width=3pt, color=red] (-6.5, -2) -- (-5, 0);
+		\node[fill=white, anchor=east, align=left] at (-6.6, -2) {Aquarium};
+		
+	\end{tikzpicture}
+	\caption{The setup for the practical investigation (angle 1)}
+	\label{fig:overallSetup1}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}
+		\path[use as bounding box] (-8, -7.5) rectangle (10, 7);
+		
+		\node[inner sep=0pt] (img) at (0,0) {\includegraphics[width=\textwidth]{images/overallSetup2.jpg}};
+		
+		%Right
+		\draw[->, line width=3pt, color=red] (6.5, 2) -- (4.9, 3.3);
+		\node[fill=white, anchor=west] at (6.6, 2) {Boss};
+		
+		\draw[->, line width=3pt, color=red] (6.5, 0) -- (4.4, 1);
+		\node[fill=white, anchor=west] at (6.6, 0) {Metal rod};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -1) -- (0.4, 0);
+		\node[fill=white, anchor=west] at (6.6, -1) {Clear acrylic glass};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -2) -- (1.3, -2);
+		\node[fill=white, anchor=west, align=left] at (6.6, -2) {75W Water pump};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -3) -- (1.5, -3);
+		\node[fill=white, anchor=west, align=left] at (6.6, -3) {Pipe corner piece};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -4) -- (3.8, -4.6);
+		\node[fill=white, anchor=west, align=left] at (6.6, -4) {Screw clamp};
+		
+		
+		%Left
+		\draw[->, line width=3pt, color=red] (-6.5, -4) -- (-5, -2.5);
+		\node[fill=white, anchor=east, align=left] at (-6.6, -4) {Table stand};
+		
+		\draw[->, line width=3pt, color=red] (-6.5, 1) -- (-2, 2.5);
+		\node[fill=white, anchor=east, align=left] at (-6.6, 1) {GoPro};
+		
+		\draw[->, line width=3pt, color=red] (-6.5, 4) -- (-3, 4);
+		\node[fill=white, anchor=east, align=left] at (-6.6, 4) {Regulation value};
+		
+	\end{tikzpicture}
+	\caption{The setup for the practical investigation (angle 2)}
+	\label{fig:overallSetup2}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}
+		\node[inner sep=0pt] at (0,0) {\includegraphics[width=\textwidth]{images/shapeInTank.jpg}};
+		
+		%Left
+		\draw[->, line width=3pt, color=red] (6.5, 4.5) -- (5, 4.2);
+		\node[fill=white, anchor=west, align=left] at (6.6, 4.5) {Thermal insulation \\ foam};
+		
+		\draw[->, line width=3pt, color=red] (6.5, 2) -- (3.7, 2.5);
+		\node[fill=white, anchor=west] at (6.6, 2) {White acrylic glass};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -1) -- (0.9, -2);
+		\node[fill=white, anchor=west, align=left] at (6.6, -1) {Reference Mark};
+		
+		\draw[->, line width=3pt, color=red] (6.5, -4) -- (0.8, -4);
+		\node[fill=white, anchor=west, align=left] at (6.6, -4) {Potassium \\ permanganate \\ crystals};
+		
+		
+	\end{tikzpicture}
+	\caption{A bluff body positioned in the flow tank with potassium permanganate crystals spread in front of it}
+	\label{fig:shapeInTank}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{images/shapes.jpg}
+	\caption{The 3D-printed bluff bodies}
+	\label{fig:shapes}
+\end{figure}
+
+
+\subsection{Determining the vortex shedding frequency}
+The inverse relationship given by Equation \eqref{eq:fAndT} in section \Cref{sec:fAndT} will be used to determine the vortex shedding frequency. By measuring the time interval between the formation of two consecutive vertices on one side of the bluff body, one can find the time period and therefore the frequency of vortex shedding. To obtain an accurate vortex shedding frequency, the determination of the time period was done multiple times and only in the steady-state phase, when the velocity and pressure at any given point in the system remain constant \parencite{noauthor_steady_nodate}, omitting the initial transient phase, when the velocity and pressure vary over time \parencite{noauthor_transient_nodate}. A Fast Fourier Transform approach was not chosen due to the lack of sufficient run time during the trials on either investigation \parencites[10--11]{shi2025vortex}[12]{xu_experimental_2025}.
+
+\subsubsection{Theoretical Investigation}
+As mentioned in \Cref{sec:openFoam}, the simulation outputs the fluctuations of lift force acting on the bluff body. By graphing this, one can calculate the time period of vortex shedding by identifying the time taken between two consecutive peaks or troughs. This determination was done for each peak and trough. An average time period was then calculated and the vortex shedding frequency found.
+
+\subsubsection{Practical Investigation}
+Due to a lack of an ability to measure the fluctuations of lift force on the bluff body, the time period of vortex shedding was found by measuring the time taken between two consecutive vortices being shed from one side of the bluff body using a digital stop watch. This was done ten times for each bluff body by reviewing the GoPro footage. An average was subsequently calculated and the vortex shedding frequency was determined.
