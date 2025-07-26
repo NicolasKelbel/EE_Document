@@ -30,6 +30,9 @@
 \usepackage{booktabs} % better tables
 \usepackage{siunitx} % math formatting in tables
 \usepackage{tcolorbox} % terminal like appearance
+\usepackage{pgffor} % loops
+\usepackage{subcaption} % images with loop
+\usepackage{listings} % code
 
 \addbibresource{references.bib}  
 % ----------- Settings -----------
@@ -37,6 +40,23 @@
 \setmonofont{Lucida Console}[Scale=MatchLowercase]
 
 \tcbuselibrary{listings}
+
+\lstset{
+	language=Python,
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue},
+	commentstyle=\color{gray},
+	stringstyle=\color{orange},
+	numbers=left,
+	numberstyle=\tiny,
+	stepnumber=1,
+	numbersep=5pt,
+	showstringspaces=false,
+	breaklines=true,
+	breakatwhitespace=false,
+	frame=single,
+	captionpos=b
+}
 
 % ----------- Title Page -----------
 
@@ -79,5 +99,13 @@
 \include{results}
 
 \printbibliography
+
+\clearpage
+
+\appendix
+\addcontentsline{toc}{section}{Appendices}
+
+\input{appendices/appendixA}
+\input{appendices/appendixB}
 	
 \end{document}

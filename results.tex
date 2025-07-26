@@ -196,7 +196,7 @@
 	\label{fig:12FaceGraph} 
 \end{figure}
 
-\subsubsection{Sample Calculation of Vortex Shedding Frequency for Bluff Body $n=2$ Using Python}
+\subsubsection{Sample Calculation of Vortex Shedding Frequency for Bluff Body $n=2$ using Python}
 
 \begin{figure}[H]
 	\centering
@@ -235,6 +235,64 @@ This represents the vortex shedding frequency of the bluff body with \( n = 2 \)
 \subsection{Results of Practical Investigation}
 After review of the footage it was found that the flow regime exhibited in the flow tank was not laminar. Despite many attempts to achieve laminar flow, the flow remained turbulent, as demonstrated by the irregular wake patterns. Nevertheless, the experiment yielded qualitative value. The use of potassium permanganate crystals allowed for a clear visualization of the boundary layer, flow separation and vortex shedding formation of the different bluff bodies.
 
+
+	
+\foreach \n in {2,...,12} {
+	\subsubsection*{Snapshots of the Practical Run of Bluff Body $n = \n$}
+	\begin{figure}[H]
+		\centering
+		
+		% === Row 1 ===
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_0s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 0 seconds}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_1s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 1 second}
+		\end{subfigure}
+		
+		\vspace{1em}
+		
+		% === Row 2 ===
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_2s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 2 seconds}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_3s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 3 seconds}
+		\end{subfigure}
+		
+		\vspace{1em}
+		
+		% === Row 3 ===
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_4s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 4 seconds}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.48\textwidth}
+			\centering
+			\includegraphics[width=\linewidth]{images/\n Face/\n Face_5s.jpg}
+			\caption{Snapshot of bluff body $n = \n$ at time 5 seconds}
+		\end{subfigure}
+		
+	\end{figure}
+}
+
+
+	
+	
+	
+	
 
 
 
