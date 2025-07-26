@@ -3134,6 +3134,9 @@
     <bcf:citekey order="101" intorder="1">noauthor_transient_nodate</bcf:citekey>
     <bcf:citekey order="102" intorder="1">shi2025vortex</bcf:citekey>
     <bcf:citekey order="103" intorder="1">xu_experimental_2025</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">goncalves1999strouhal</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">goncalves1999strouhal</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">city7565</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

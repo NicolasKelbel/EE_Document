@@ -1,1 +1,11 @@
 \section{Conclusion}
+The goal of this study was to investigate how the number of streamwise faces $n$ of a bluff body influence the vortex shedding frequency in laminar flow. Bluff bodies ranging from $n = 1 \text{\textendash\ } 12$ were analyzed both theoretically and practically. However, as stated in \Cref{sec:resultsPractical}, only the theoretical investigation yielded results of significance to fulfill the aim. 
+
+The research question was thoroughly explored by theoretical means using OpenFOAM simulations, allowing for precise measurements of the fluctuations of the lift coefficient, and, in turn, an accurate determination of the vortex shedding frequency, using a time step based approach. Although the practical component of this investigation failed to achieve laminar flow conditions, it provided beneficial visual insight into the mechanism of vortex shedding, enhancing the investigation's tangibility while aiding conceptual understanding.
+
+It was found that there is an overall decrease in vortex shedding frequency as the number of streamwise faces $n$ of a bluff body increases \textemdash\ confirming the previously mentioned hypothesis. This trend is exemplified by bluff body $n = 2$ which produced a vortex shedding frequency of $16.52346\, Hz$, while the bluff body $n = 12$ produced a vortex shedding frequency of $16.21797\, Hz$. The overall trend is in agreement with literature such as \textcite{goncalves1999strouhal} which concluded that a higher number of streamwise faces leads to a decreased Strouhal number and therefore a decreased vortex shedding frequency.
+
+A quadratic line of best fit produced an $R^2$ value of 0.70, indicating a moderate non-linear correlation between the number of streamwise faces $n$ and the vortex shedding frequency. The rather low $R^2$ value may be attributed to numerical uncertainties of the simulation due to various factors such as the mesh resolution \parencite{city7565}. However, quantifying these uncertainties is difficult due to potential mutually canceling effects. 
+
+
+

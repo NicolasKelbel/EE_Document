@@ -1197,6 +1197,42 @@
       \verb https://www.prusa3d.com/de/page/prusaslicer_424/
       \endverb
     \endentry
+    \entry{city7565}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4fbe71621668d29cc14fcc897eb99ed}{%
+           family={Przulj},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {City University London}%
+      }
+      \strng{namehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{fullhash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{bibnamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authorbibnamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authornamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authorfullhash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Unpublished}
+      \field{title}{Computational modelling of vortex shedding flows}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb https://openaccess.city.ac.uk/id/eprint/7565/
+      \endverb
+      \verb{url}
+      \verb https://openaccess.city.ac.uk/id/eprint/7565/
+      \endverb
+    \endentry
     \entry{noauthor_relationship_nodate}{online}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -2973,6 +3009,42 @@
       \endverb
       \verb{url}
       \verb https://www.prusa3d.com/de/page/prusaslicer_424/
+      \endverb
+    \endentry
+    \entry{city7565}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4fbe71621668d29cc14fcc897eb99ed}{%
+           family={Przulj},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {City University London}%
+      }
+      \strng{namehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{fullhash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{bibnamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authorbibnamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authornamehash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \strng{authorfullhash}{e4fbe71621668d29cc14fcc897eb99ed}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Unpublished}
+      \field{title}{Computational modelling of vortex shedding flows}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb https://openaccess.city.ac.uk/id/eprint/7565/
+      \endverb
+      \verb{url}
+      \verb https://openaccess.city.ac.uk/id/eprint/7565/
       \endverb
     \endentry
     \entry{noauthor_relationship_nodate}{online}{}
