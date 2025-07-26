@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  26 JUL 2025 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  26 JUL 2025 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2273,6 +2273,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: images/overall.pdf Graphic file (type pdf)
 <use images/overall.pdf>
+[31]
 File: images/2Face/2Face_0s.jpg Graphic file (type bmp)
 <images/2Face/2Face_0s.jpg>
 File: images/2Face/2Face_1s.jpg Graphic file (type bmp)
@@ -2285,7 +2286,6 @@ File: images/2Face/2Face_4s.jpg Graphic file (type bmp)
 <images/2Face/2Face_4s.jpg>
 File: images/2Face/2Face_5s.jpg Graphic file (type bmp)
 <images/2Face/2Face_5s.jpg>
-[31]
 File: images/3Face/3Face_0s.jpg Graphic file (type bmp)
 <images/3Face/3Face_0s.jpg>
 File: images/3Face/3Face_1s.jpg Graphic file (type bmp)
@@ -2458,7 +2458,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7B18FB036649C5567E19BC998ADA7B44;5571.
+(rerunfilecheck)             Checksum: DDE3999AA43F8C873C5A4EBBABC85326;5661.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -2466,7 +2466,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  69057 strings out of 409617
  1671258 string characters out of 5773608
- 2884684 words of memory out of 5000000
+ 2884846 words of memory out of 5000000
  90262 multiletter control sequences out of 15000+600000
  568135 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
