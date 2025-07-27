@@ -6,30 +6,30 @@
 	f = \frac{1}{T}
 	\label{eq:fAndT}
 \end{equation}
-where $f$ is frequency in $Hz$ and $T$ is time period in seconds. This relationship is later utilized to extrapolate the vortex shedding frequency in both the theoretical and the practical investigation.
+where $f$ is frequency in $Hz$ and $T$ is time period in seconds. This relationship is later utilized to extrapolate the vortex shedding frequency.
 \subsection{Fundamentals of Fluid Dynamics}
-The definition of vorticity, a vortex and a bluff body must be understood. \textbf{Vorticity} is the vector quantity representing the rotational motion in a velocity field \parencite[p.~2500]{holton2003_vorticity}. A \textbf{vortex} is the circular flow of a fluid around a central axis, characterized by the vorticity in the fluid \parencite[p.~390]{nitsche2006_vortex}. A \textbf{bluff body} is defined as an object that, due to its geometry, induces significant regions of separated flow \parencite[p.~561]{navalhydro1997}. 
+Firstly, the definition of vorticity, a vortex and a bluff body must be understood. \textbf{Vorticity} is the vector quantity representing the rotational motion in a velocity field \parencite[p.~2500]{holton2003_vorticity}. A \textbf{vortex} is the circular flow of a fluid around a central axis, characterized by the vorticity in the fluid \parencite[p.~390]{nitsche2006_vortex}. A \textbf{bluff body} is defined as an object that, due to its geometry, induces significant regions of separated flow \parencite[p.~561]{navalhydro1997}. 
 
-Furthermore, one must distinguish between a Newtonian and a non-Newtonian fluid. A \textbf{Newtonian fluid} is a fluid in which the viscosity \textemdash\ a measure of internal friction \textemdash\ remains constant despite applied shear rate, whereas a \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
+Furthermore, one must distinguish between a Newtonian and a non-Newtonian fluid. A \textbf{Newtonian fluid} is a fluid in which the viscosity \textemdash\ a measure of internal friction \textemdash\ remains constant despite applied force. A \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
 
-Moreover, one must also consider the type of flow. There are two key factors of flow when investigating vortex shedding: laminar and turbulent flow, and compressible and incompressible flow. \textbf{Laminar flow} is characterized by the layered motion of fluid particles, with no significant disturbance between the parallel layers \parencite[pp.~40--41]{versteeg2007}. On the other hand, \textbf{turbulent flow} is known to have continuous, irregular fluctuations in velocity and pressure throughout the fluid \parencite[p.~40]{versteeg2007}. A \textbf{compressible flow} is a flow in which the fluid does not have a uniform density \parencite[p.~31]{oran2002}, conversely, an \textbf{incompressible flow} is a flow in which the fluid has a constant density \parencite[p.~12]{versteeg2007}. 
+When investigating vortex shedding, there are two key factors of flow which must be considered: laminar or turbulent flow, and compressible or incompressible flow. \textbf{Laminar flow} is characterized by the layered motion of fluid particles, with no significant disturbance between the parallel layers \parencite[pp.~40--41]{versteeg2007}. On the other hand, \textbf{turbulent flow} is known to have continuous, irregular fluctuations in velocity and pressure throughout the fluid \parencite[p.~40]{versteeg2007}. A \textbf{compressible flow} is a flow in which the fluid does not have a uniform density \parencite[p.~31]{oran2002}. Conversely, in an \textbf{incompressible flow} the fluid has a constant density \parencite[p.~12]{versteeg2007}. 
 
-Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal number. The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds, noauthor_relationship_nodate}. Given by the equation 
+Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal number. The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds}. Given by the equation 
 \begin{equation}
 	\mathrm{Re} = \frac{U L}{\nu}
 	\label{eq:reynoldsNumber}
 \end{equation}
-where $U$ is the free-stream velocity ($m\,s^{-1}$), $L$ is the characteristic length ($m$) and $\nu$ is the kinematic viscosity ($m^2\,s^{-1}$). This number allows one to classify if a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
+where $U$ is the free-stream velocity ($m\,s^{-1}$), $L$ is the characteristic length ($m$) and $\nu$ is the kinematic viscosity ($m^2\,s^{-1}$) \parencite{noauthor_relationship_nodate}. This number allows one to classify if a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
 \begin{equation}
 	\mathrm{St} = \frac{f L}{U}
 	\label{eq:strouhalNumber}
 \end{equation}
-where $f$ is the frequency of vortex shedding ($Hz$), $L$ is the characteristic length ($m$) and $U$ is the free-stream velocity ($m\,s^{-1}$). A high Strouhal number \textemdash\ assuming both $L$ and $U$ remain constant \textemdash\ indicates an increased vortex shedding frequency $f$, conversely a low Strouhal number indicates a lower $f$. Both the dimensions and geometry of the bluff body impacts the Strouhal number, and therefore the vortex shedding frequency \parencite[32]{ibrahim_peminggiran_nodate}.
+where $f$ is the frequency of vortex shedding ($Hz$), $L$ is the characteristic length ($m$) and $U$ is the free-stream velocity ($m\,s^{-1}$). A high Strouhal number \textemdash\ assuming both $L$ and $U$ remain constant \textemdash\ indicates an increased $f$, conversely a low Strouhal number indicates a lower $f$. Both the dimensions and geometry of the bluff body impacts the Strouhal number, and therefore the vortex shedding frequency \parencite[32]{ibrahim_peminggiran_nodate}.
 
-This essay will analyze vortex shedding in a Newtonian fluid \textemdash\ water \textemdash\ which exhibits laminar and incompressible flow. A Reynolds number of 100 was targeted in order to ensure laminar flow with periodic vortex shedding \parencite[2]{alammar_wake_nodate}; however, due to practical limitations, this was only fully realized theoretically and not in practice. Given the very limited research in three-dimensional vortex shedding \parencite[63]{buresti1998}, this paper concerns itself with vortex shedding in two-dimensions. While the simulation was conducted in a two-dimensional domain, the practical experiment could only approximate two-dimensional flow.
+This essay will analyze vortex shedding in a Newtonian fluid \textemdash\ water \textemdash\ which exhibits laminar and incompressible flow. A Reynolds number of 100 was targeted in order to ensure laminar flow with periodic vortex shedding \parencite[2]{alammar_wake_nodate}; however, due to practical limitations, this was only fully realized theoretically and not in practice. Given the very limited research in three-dimensional vortex shedding \parencite[63]{buresti1998}, this paper concerns itself with vortex shedding in two dimensions. While the simulation was conducted in a two-dimensional domain, the practical experiment could only approximate two-dimensional flow.
 
 \subsection{Vortex Shedding and the Kármán Vortex Street}
-Vortex shedding in a two-dimensional plane can be defined as the phenomenon in which localized regions of high vorticity are periodically released into the wake from alternating sides of a bluff body, each exhibiting an opposite rotational direction \parencite[156]{green1995fluid}. Whereas vortex shedding is the process by which vortices are formed, Kármán Vortex Street refers to the flow pattern created, a repeated structure of counter-rotating vortices \parencite[26]{govardhan2005karman}.
+Vortex shedding in a two-dimensional plane can be defined as the phenomenon in which localized regions of high vorticity are periodically released into the wake from alternating sides of a bluff body, each exhibiting an opposite rotational direction \parencite[156]{green1995fluid}. The Kármán Vortex Street refers to the distinct flow pattern created, a repeated structure of counter-rotating vortices \parencite[26]{govardhan2005karman}.
 
 \begin{figure}[htbp]
 	\centering
@@ -38,7 +38,7 @@ Vortex shedding in a two-dimensional plane can be defined as the phenomenon in w
 	\label{fig:vonKarmanStreet}
 \end{figure}
 \subsection{The Mechanism of Vortex Shedding}
-Due to the fiction between a given fluid and a bluff body, there is no relative motion between them \parencite{boundaryLayerTheory_2018, jeff_defoe_bluff_2020}. Consequently, if the velocity of the bluff body is zero, the velocity of the fluid at the wall of the bluff body, with respect to the reference frame of the bluff body, is also zero: a no-slip condition. This causes a variation in velocities with distance, from zero at the bluff body surface to the free stream velocity U at a certain distance from the bluff body. The region in which this velocity gradient occurs is referred to as the boundary layer.
+Due to the friction between a given fluid and a bluff body, there is no relative motion between them \parencite{boundaryLayerTheory_2018, jeff_defoe_bluff_2020}. Consequently, if the velocity of the bluff body is zero, the velocity of the fluid at the wall of the bluff body, with respect to the reference frame of the bluff body, is also zero: a no-slip condition. This causes a variation in velocities with distance, from zero at the bluff body surface to the free stream velocity U at a certain distance from the bluff body. The region in which this velocity gradient occurs is referred to as the boundary layer.
 
 \pgfdeclarelayer{background}
 \pgfdeclarelayer{foreground}
@@ -61,6 +61,7 @@ Due to the fiction between a given fluid and a bluff body, there is no relative 
 				\end{pgfonlayer}
 				
 				\begin{scope}[shift={(-3.8,0)}, scale=0.7]
+					
 					% Axes
 					\draw[->, ultra thick] (0,0) -- (0,7) node[above] {$y$};
 					\draw[->, ultra thick] (0,0) -- (5.5,0) node[above right] {$u$};
@@ -144,14 +145,16 @@ Due to the fiction between a given fluid and a bluff body, there is no relative 
 	\label{fig:boundaryLayer}
 \end{figure}
 
-When a flow moves past a bluff body in a two-dimensional plane, a boundary layer develops, with increasing thickness $\delta$ from the stagnation point \parencite{fitzpatrick2016_reynolds}, the point on the leading edge of the bluff body at which the local fluid velocity is zero (with respect to the bluff body), to the back of the bluff body \parencite{learneng2022_boundarylayer}. At a certain point, the boundary layer separates from the bluff body, forming a shear layer. Under steady flow conditions, this separation occurs in a periodic and alternating manner, creating two separate, out-of-phase shear layers on either side of the bluff body. 
+When a flow moves past a bluff body in a two-dimensional plane, a boundary layer develops, with increasing thickness $\delta$ from the \textit{stagnation point} \parencite{fitzpatrick2016_reynolds} \textemdash\ the point on the leading edge of the bluff body at which the local fluid velocity is zero (with respect to the bluff body) \textemdash\ to the back of the bluff body \parencite{learneng2022_boundarylayer}. 
+
+At a certain point, the boundary layer separates from the bluff body, forming a shear layer. Under steady flow conditions, this separation occurs in a periodic and alternating manner, creating two separate, out-of-phase shear layers on either side of the bluff body. 
 
 \begin{figure}[H]
 	\begin{center}
 		\begin{tikzpicture}[scale=0.2, >=Stealth]
 			
 			% Main vertical flow arrow
-			\draw[->, thick] (0,39) -- (0,36) node[midway, right] {Flow};
+			\draw[->, thick] (0,39) -- (0,36) node[midway, right] {Flow with velocity $U$};
 			
 			% Obstacle rectangle
 			\draw[pattern=north east lines, pattern color=black!50] (-4,33) rectangle (4,30);
@@ -262,7 +265,7 @@ When a flow moves past a bluff body in a two-dimensional plane, a boundary layer
 			\node[anchor=west] at (6.9,26) {Flow C};
 			\draw[->] (6.9, 26) -- (2.5, 23);
 			
-			\node[anchor=west] at (9,32) {Formation Region};
+			\node[anchor=west] at (9,32) {Formation region};
 			\draw[->] (9, 32) -- (3, 28.5);
 			
 			\node[anchor=west] at (8,13.5) {Flow B};
@@ -291,14 +294,14 @@ When a flow moves past a bluff body in a two-dimensional plane, a boundary layer
 	\label{fig:mechanismOfVortexShedding}
 \end{figure}
 
-For simplification, assume the first shear layer is generated at the right of the bluff body ($SL_{1}$). Due to its vorticity, the shear layer tends to curl up, forming a vortex. As the vortex forms, the pressure in the core of the vortex decreases, acting as a sink, inducing inflow towards its center. The fluid initially present at the bottom of the backside of the bluff body is drawn into the vortex, creating space, allowing for the formation of the left shear layer ($SL_{2}$) in the \textit{formation region}. This newly created shear layer splits into three distinct flows: a flow (\textit{Flow C}) which recirculates behind the bluff body, a flow (\textit{Flow B}) which mixes with the top shear layer and a flow (\textit{Flow A}) which is drawn into the vortex ($V_{1}$).
+For simplification, assume the first shear layer is generated at the right of the bluff body ($SL_{1}$). Due to its vorticity, the shear layer tends to curl up, forming a vortex. As the vortex forms, the pressure in the core of the vortex decreases, acting as a sink, inducing inflow towards its center. The fluid initially present at the backside of the bluff body is drawn into the vortex, creating space, allowing for the formation of the left shear layer ($SL_{2}$) in the \textit{formation region}. This newly created shear layer splits into three distinct flows: a flow (\textit{Flow C}) which recirculates behind the bluff body, a flow (\textit{Flow B}) which mixes with the right shear layer ($SL_1$) and a flow (\textit{Flow A}) which is drawn into the vortex ($V_{1}$).
 
-There is a decrease in strength of the vortex being created due to \textit{Flow A} having an opposite vorticity to the vorticity of the vortex. Moreover, the opposite vorticity of \textit{Flow B} and the right shear layer effectively nullifies each other, leading to the right shear layer being interrupted and the vortex becoming detached, causing it to travel with the main flow. The vortex has been “shed”. Since the vortex moves away from the bluff body, its low-pressure influence on the area near the bluff body decreases, allowing the left shear layer to more freely develop. Now, due to the periodic nature of vortex formation, the process recurs with the shear layers switching roles. 
+There is a decrease in strength of the vortex being created due to \textit{Flow A} having an opposite vorticity to the vorticity of the vortex. Moreover, the opposite vorticity of \textit{Flow B} and the right shear layer effectively nullifies each other, leading to the right shear layer being interrupted and the vortex becoming detached, causing it to travel with the main flow. The vortex has been “shed”. Since the vortex moves away from the bluff body, its low-pressure influence on the area near the bluff body decreases, allowing the left shear layer to develop more freely. Now, due to the periodic nature of vortex formation, the process recurs with the shear layers switching roles. 
 
-When considering the vortex being created from the top shear layer, the fluid at the top of the vortex will have the same velocity as the free stream velocity U, whereas the velocity at the bottom of the vortex will be of a smaller magnitude and in the opposite direction of the main flow. According to Bernoulli’s equation, a region of higher velocity must have a lower pressure and vice versa. Therefore, the bottom region of the vortex will have a higher pressure than the top region, causing a lift force which acts on the bluff body normal to the flow. The oscillation of this lift force coincides with the vortex shedding frequency $f$, the frequency at which the vortices are alternately shed from opposite sides of the bluff body. 
+When considering the vortex being created from the right shear layer ($SL_1$), the fluid on the right of the vortex will have the same velocity as the free stream velocity $U$, whereas the velocity on the left of the vortex will be of a smaller magnitude and in the opposite direction of the main flow. According to Bernoulli’s equation, a region of higher velocity must have a lower pressure and vice versa. Therefore, the left region of the vortex will have a higher pressure than the right region, causing a lift force which acts on the bluff body normal to the flow. The oscillation of this lift force coincides with the vortex shedding frequency $f$.
 
 \subsection{Hypothesis}
-It is hypothesized that as the number of streamwise faces of the bluff body increases from 2 to 12, the vortex shedding frequency in laminar flow will decrease. This trend is attributed to a decrease in the Strouhal number, as shown by \textcite{goncalves1999strouhal}, which is directly proportional to the vortex shedding frequency, as seen in Equation \eqref{eq:strouhalNumber}. 
+It was hypothesized that as the number of streamwise faces of the bluff body increases from 2 to 12, the vortex shedding frequency in laminar flow will decrease. This trend is attributed to a decrease in the Strouhal number \textemdash\ as shown by \textcite{goncalves1999strouhal} \textemdash\ which is directly proportional to the vortex shedding frequency, as seen in Equation \eqref{eq:strouhalNumber}. 
 
 
 

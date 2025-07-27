@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  27 JUL 2025 15:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  27 JUL 2025 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1894,7 +1894,7 @@ File: images/vonKarmanStreet.png Graphic file (type bmp)
 \pgf@layerbox@foreground=\box115
 \pgf@layerboxsaved@foreground=\box116
 
-Overfull \hbox (0.5658pt too wide) in paragraph at lines 141--142
+Overfull \hbox (0.5658pt too wide) in paragraph at lines 142--143
  [] 
  []
 
@@ -2474,28 +2474,19 @@ nt.aux) (method.aux) (results.aux) (conclusion.aux)
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6257C92986844C4D87556A9383338E57;6406.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69139 strings out of 409617
- 1673325 string characters out of 5773608
- 2893165 words of memory out of 5000000
- 90329 multiletter control sequences out of 15000+600000
+ 69134 strings out of 409617
+ 1673070 string characters out of 5773608
+ 2892079 words of memory out of 5000000
+ 90324 multiletter control sequences out of 15000+600000
  568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 137i,19n,129p,2583b,5450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,19n,129p,2583b,5451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (51 pages).

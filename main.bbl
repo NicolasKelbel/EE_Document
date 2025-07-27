@@ -455,41 +455,6 @@
       \verb https://www.freecad.org/index.php?lang=de
       \endverb
     \endentry
-    \entry{livescience_fluid_dynamics}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
-           family={Ghose},
-           familyi={G\bibinitperiod},
-           given={Tia},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{organization}{1}{%
-        {LiveScience}%
-      }
-      \strng{namehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{fullhash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{bibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authorbibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authornamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authorfullhash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-03-12}
-      \field{title}{What is fluid dynamics?}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb https://www.livescience.com/47446-fluid-dynamics.html
-      \endverb
-      \verb{url}
-      \verb https://www.livescience.com/47446-fluid-dynamics.html
-      \endverb
-    \endentry
     \entry{goncalves1999strouhal}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=df36d73f6cd701b8903a1576b482abe1}{%
@@ -698,7 +663,8 @@
       \strng{authorfullhash}{16d4941b1b3612daf05a8e295f70a9a5}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
@@ -707,6 +673,7 @@
       \field{urlday}{22}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
+      \field{year}{2022}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
@@ -2303,41 +2270,6 @@
       \verb https://www.freecad.org/index.php?lang=de
       \endverb
     \endentry
-    \entry{livescience_fluid_dynamics}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=81b8f7b3cc075a2c2599c8955272dda9}{%
-           family={Ghose},
-           familyi={G\bibinitperiod},
-           given={Tia},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{organization}{1}{%
-        {LiveScience}%
-      }
-      \strng{namehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{fullhash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{bibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authorbibnamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authornamehash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \strng{authorfullhash}{81b8f7b3cc075a2c2599c8955272dda9}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-03-12}
-      \field{title}{What is fluid dynamics?}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb https://www.livescience.com/47446-fluid-dynamics.html
-      \endverb
-      \verb{url}
-      \verb https://www.livescience.com/47446-fluid-dynamics.html
-      \endverb
-    \endentry
     \entry{goncalves1999strouhal}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=df36d73f6cd701b8903a1576b482abe1}{%
@@ -2546,7 +2478,8 @@
       \strng{authorfullhash}{16d4941b1b3612daf05a8e295f70a9a5}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
@@ -2555,6 +2488,7 @@
       \field{urlday}{22}
       \field{urlmonth}{7}
       \field{urlyear}{2025}
+      \field{year}{2022}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1

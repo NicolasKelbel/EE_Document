@@ -3059,24 +3059,23 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">livescience_fluid_dynamics</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">buresti1998</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">jurado2012</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">tacoma_bridge_vibrations</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">ib_physics_2025</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">buresti1998</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">jurado2012</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">tacoma_bridge_vibrations</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">ib_physics_2025</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">allum2023</bcf:citekey>
     <bcf:citekey order="6" intorder="1">allum2023</bcf:citekey>
     <bcf:citekey order="7" intorder="1">allum2023</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">allum2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">holton2003_vorticity</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">nitsche2006_vortex</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">navalhydro1997</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">mohn2024</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">holton2003_vorticity</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">nitsche2006_vortex</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">navalhydro1997</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">mohn2024</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">versteeg2007</bcf:citekey>
     <bcf:citekey order="13" intorder="1">versteeg2007</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">versteeg2007</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">oran2002</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">versteeg2007</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">nasa_reynolds</bcf:citekey>
-    <bcf:citekey order="17" intorder="2">noauthor_relationship_nodate</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">oran2002</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">versteeg2007</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">nasa_reynolds</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">noauthor_relationship_nodate</bcf:citekey>
     <bcf:citekey order="18" intorder="1">saldana2024_reynolds</bcf:citekey>
     <bcf:citekey order="19" intorder="1">choi2000strouhal</bcf:citekey>
     <bcf:citekey order="20" intorder="1">ibrahim_peminggiran_nodate</bcf:citekey>
