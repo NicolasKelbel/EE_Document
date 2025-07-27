@@ -681,6 +681,40 @@
       \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
       \endverb
     \endentry
+    \entry{ibrahim_peminggiran_nodate}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16d4941b1b3612daf05a8e295f70a9a5}{%
+           family={Ibrahim},
+           familyi={I\bibinitperiod},
+           given={Nabisah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{fullhash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{bibnamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authorbibnamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authornamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authorfullhash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Peminggiran sosial dalam kalangan warga emas}
+      \field{title}{Peminggiran sosial dalam kalangan warga emas: Intervensi ke arah penuaan sihat}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+      \endverb
+      \verb{url}
+      \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+      \endverb
+    \endentry
     \entry{ilieva2017turbulence}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5838bd14dae4ddfaff41109c1436283c}{%
@@ -2493,6 +2527,40 @@
       \endverb
       \verb{url}
       \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
+      \endverb
+    \endentry
+    \entry{ibrahim_peminggiran_nodate}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16d4941b1b3612daf05a8e295f70a9a5}{%
+           family={Ibrahim},
+           familyi={I\bibinitperiod},
+           given={Nabisah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{fullhash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{bibnamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authorbibnamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authornamehash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \strng{authorfullhash}{16d4941b1b3612daf05a8e295f70a9a5}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Peminggiran sosial dalam kalangan warga emas}
+      \field{title}{Peminggiran sosial dalam kalangan warga emas: Intervensi ke arah penuaan sihat}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+      \endverb
+      \verb{url}
+      \verb https://core.ac.uk/outputs/42956006/?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
       \endverb
     \endentry
     \entry{ilieva2017turbulence}{inbook}{}

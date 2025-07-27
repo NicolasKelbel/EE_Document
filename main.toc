@@ -25,4 +25,7 @@
 \contentsline {subsubsection}{\numberline {6.1.4}A Comparison of Vortex Shedding Frequency with Increasing $n$ from 2 \textendash \ 12}{31}{subsubsection.6.1.4}%
 \contentsline {subsection}{\numberline {6.2}Results of Practical Investigation}{32}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Conclusion}{44}{section.7}%
-\contentsline {section}{Appendices}{48}{section.7}%
+\contentsline {section}{\numberline {8}Evaluation}{45}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Evaluation of the Theoretical Investigation}{45}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Evaluation of the Practical Investigation}{45}{subsection.8.2}%
+\contentsline {section}{Appendices}{49}{subsection.8.2}%
