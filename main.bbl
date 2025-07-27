@@ -1589,43 +1589,6 @@
       \verb 10.1017/jfm.2022.748
       \endverb
     \endentry
-    \entry{noauthor_steady_nodate}{online}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{title}{Steady State Flow - Fluid Flow Hydraulic and Pneumatic,}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
-      \endverb
-      \verb{url}
-      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
-      \endverb
-    \endentry
-    \entry{noauthor_transient_nodate}{online}{}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Transient flow, is flow where the flow velocity and pressure are changing with time. When changes occur to a fluid systems such as the starting or stopping of a pump, closing or opening a valve, or changes in tank levels, then transient flow conditions exist: otherwise the system is steady state. Often transient flow conditions […]}
-      \field{langid}{british}
-      \field{title}{Transient flow}
-      \field{titleaddon}{Fluid Mechanics Ltd}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
-      \endverb
-      \verb{url}
-      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
-      \endverb
-    \endentry
     \entry{boundaryLayerTheory_2018}{video}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=02bb701746a2e79501c61d749787e4a0}{%
@@ -3419,43 +3382,6 @@
       \range{pages}{-1}
       \verb{doi}
       \verb 10.1017/jfm.2022.748
-      \endverb
-    \endentry
-    \entry{noauthor_steady_nodate}{online}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{title}{Steady State Flow - Fluid Flow Hydraulic and Pneumatic,}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
-      \endverb
-      \verb{url}
-      \verb https://www.engineersedge.com/fluid_flow/steady_state_flow.htm
-      \endverb
-    \endentry
-    \entry{noauthor_transient_nodate}{online}{}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Transient flow, is flow where the flow velocity and pressure are changing with time. When changes occur to a fluid systems such as the starting or stopping of a pump, closing or opening a valve, or changes in tank levels, then transient flow conditions exist: otherwise the system is steady state. Often transient flow conditions […]}
-      \field{langid}{british}
-      \field{title}{Transient flow}
-      \field{titleaddon}{Fluid Mechanics Ltd}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
-      \endverb
-      \verb{url}
-      \verb https://www.fluidmechanics.co.uk/hydraulic-calculations/transient-flow/
       \endverb
     \endentry
     \entry{boundaryLayerTheory_2018}{video}{}

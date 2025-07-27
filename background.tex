@@ -50,9 +50,16 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 			\path[use as bounding box] (-7.1,0) rectangle (10.7,13);
 			
 			\begin{scope}[shift={(0, 2)}]
+				
+				% Red dotted line
+				\draw[dashed, color=red] (-7,0)
+				.. controls (-7, 3.7) and (2.4, 5.3) .. (10.7, 5.4);
+				
+				
+				% Axis
 				\draw[->, ultra thick] (-7,0) -- (-7,8) node[above, align=center] {\small Distance \\ \small  from \\ \small  bluff body, \\ \small  $y$};
 				\draw[dashed, thick] (-7,0) -- (-7, -2);
-				\draw[->, ultra thick] (-7, -1.7) -- (1, -1.7) node[right] {\small  Distance from leading edge, $x$};
+				\draw[->, ultra thick] (-7, -1.7) -- (1, -1.7) node[right] {\small  Distance from stagnation point, $x$};
 				
 				% Wall
 				\begin{pgfonlayer}{background}
@@ -60,7 +67,9 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 					\node[anchor=north west] at (7, -0.3) {Face of bluff body};
 				\end{pgfonlayer}
 				
-				\begin{scope}[shift={(-3.8,0)}, scale=0.7]
+				
+				\begin{scope}[shift={(-3,0)}, scale=0.7]
+					
 					
 					% Axes
 					\draw[->, ultra thick] (0,0) -- (0,7) node[above] {$y$};
@@ -72,12 +81,12 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 					% Boundary layer thickness
 					\draw[dashed] (-1,5) -- (2.5,5);
 					\draw[<->, thick] (-0.4,0) -- (-0.4,5);
-					\node[anchor=east, align=center] at (-0.5,2.5) {\footnotesize Boundary\\[-0.2em] \footnotesize layer\\[-0.2em] \footnotesize thickness,\\[-0.2em] {\footnotesize$\delta$}};
+					\node[anchor=east, align=center] at (-0.5,2) {\footnotesize Boundary\\[-0.2em] \footnotesize layer\\[-0.2em] \footnotesize thickness,\\[-0.2em] {\footnotesize$\delta$}};
 					
 					
 					% External flow
 					\draw[->, thick, blue] (0,5) -- (2.5,5);
-					\node[blue, anchor=west, align=center] at (2.8,5) {\footnotesize Free flow\\[-0.2em] \footnotesize velocity,\\[-0.2em] \footnotesize$U$};
+					\node[blue, anchor=west, align=center] at (2.7,4.8) {\footnotesize Free flow\\[-0.2em] \footnotesize velocity,\\[-0.2em] \footnotesize$U$};
 					
 					% Curve
 					\draw[thick](0,0)
@@ -100,7 +109,7 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 					\draw[->, anchor=east] (3.5, 2.3) -- (2.5, 2.8);
 				\end{scope}
 				
-				\begin{scope}[shift={(3.3,0)}]
+				\begin{scope}[shift={(4,0)}]
 					% Axes
 					\draw[->, ultra thick] (0,0) -- (0,6.5) node[above] {$y$};
 					\begin{pgfonlayer}{foreground}
@@ -115,7 +124,7 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 					
 					% External flow
 					\draw[->, thick, blue] (0,5) -- (2.5,5);
-					\node[blue] at (2.8,5) {$U$};
+					\node[blue] at (2.9,4.9) {$U$};
 					
 					% Curve
 					\draw[thick](0,0)
@@ -141,7 +150,7 @@ Due to the friction between a given fluid and a bluff body, there is no relative
 			
 		\end{tikzpicture}
 	\end{center}
-	\caption{Depiction of boundary layer and the velocity gradient formed. Inspired by \textcite{erau_boundarylayer}}
+	\caption{Depiction of boundary layer and the velocity gradient formed. The red dotted line depicts the outline of the bluff body. Inspired by \textcite{erau_boundarylayer}.} 
 	\label{fig:boundaryLayer}
 \end{figure}
 
@@ -266,7 +275,7 @@ At a certain point, the boundary layer separates from the bluff body, forming a 
 			\draw[->] (6.9, 26) -- (2.5, 23);
 			
 			\node[anchor=west] at (9,32) {Formation region};
-			\draw[->] (9, 32) -- (3, 28.5);
+			\draw[->] (9, 32) -- (1, 29.2);
 			
 			\node[anchor=west] at (8,13.5) {Flow B};
 			\draw[->] (8, 13.5) -- (2.5, 15.5);

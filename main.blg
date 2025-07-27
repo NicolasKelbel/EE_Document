@@ -1,27 +1,27 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[119] biber-MSWIN64:340> INFO - === 
-[161] Biber.pm:419> INFO - Reading 'main.bcf'
-[321] Biber.pm:979> INFO - Found 51 citekeys in bib section 0
-[344] Biber.pm:4419> INFO - Processing section 0
-[358] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[440] bibtex.pm:1713> INFO - LaTeX decoding ...
-[547] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[831] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[832] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[832] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[832] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[913] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[913] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[913] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[913] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[975] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1025] bbl.pm:763> INFO - Output to main.bbl
-[1032] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'alammar_wake_nodate' is not an integer - this will probably not sort properly.
-[1032] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'erau_boundarylayer' is not an integer - this will probably not sort properly.
-[1032] Biber.pm:131> WARN - legacy month field 'mar' in entry 'fitzpatrick2016_reynolds' is not an integer - this will probably not sort properly.
-[1032] Biber.pm:131> WARN - legacy month field 'aug' in entry 'learneng2022_boundarylayer' is not an integer - this will probably not sort properly.
-[1032] Biber.pm:131> WARN - legacy month field 'oct' in entry 'shen2010_vortexmeter' is not an integer - this will probably not sort properly.
-[1032] Biber.pm:131> WARN - legacy month field 'July' in entry 'city7565' is not an integer - this will probably not sort properly.
-[1033] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Nicolas\AppData\Local\Temp\biber_tmp_I_eC\33e59b5ca9ec342068223d604c3f8d55_36512.utf8, line 213, warning: 1 characters of junk seen at toplevel
-[1033] Biber.pm:133> INFO - WARNINGS: 7
+[124] biber-MSWIN64:340> INFO - === 
+[169] Biber.pm:419> INFO - Reading 'main.bcf'
+[330] Biber.pm:979> INFO - Found 49 citekeys in bib section 0
+[353] Biber.pm:4419> INFO - Processing section 0
+[367] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[450] bibtex.pm:1713> INFO - LaTeX decoding ...
+[565] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[838] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[839] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[839] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[839] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[918] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[918] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[918] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[918] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[972] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1024] bbl.pm:763> INFO - Output to main.bbl
+[1031] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'alammar_wake_nodate' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'erau_boundarylayer' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - legacy month field 'mar' in entry 'fitzpatrick2016_reynolds' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - legacy month field 'aug' in entry 'learneng2022_boundarylayer' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - legacy month field 'oct' in entry 'shen2010_vortexmeter' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - legacy month field 'July' in entry 'city7565' is not an integer - this will probably not sort properly.
+[1031] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Nicolas\AppData\Local\Temp\biber_tmp_Idgy\33e59b5ca9ec342068223d604c3f8d55_17184.utf8, line 213, warning: 1 characters of junk seen at toplevel
+[1031] Biber.pm:133> INFO - WARNINGS: 7
