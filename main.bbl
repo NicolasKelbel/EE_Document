@@ -1179,6 +1179,23 @@
       \verb https://www.paraview.org/
       \endverb
     \endentry
+    \entry{noauthor_pimplefoam_nodate}{online}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{pimpleFoam} - {OpenFOAM} Solver - {SimFlow} {CFD} Software}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://help.sim-flow.com/solvers/pimple-foam
+      \endverb
+      \verb{url}
+      \verb https://help.sim-flow.com/solvers/pimple-foam
+      \endverb
+    \endentry
     \entry{noauthor_prusaslicer_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -2992,6 +3009,23 @@
       \endverb
       \verb{url}
       \verb https://www.paraview.org/
+      \endverb
+    \endentry
+    \entry{noauthor_pimplefoam_nodate}{online}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{pimpleFoam} - {OpenFOAM} Solver - {SimFlow} {CFD} Software}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://help.sim-flow.com/solvers/pimple-foam
+      \endverb
+      \verb{url}
+      \verb https://help.sim-flow.com/solvers/pimple-foam
       \endverb
     \endentry
     \entry{noauthor_prusaslicer_nodate}{online}{}

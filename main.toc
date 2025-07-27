@@ -13,19 +13,19 @@
 \contentsline {subsubsection}{\numberline {5.2.1}Ansys Workbench}{11}{subsubsection.5.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.2}The OpenFOAM Simulation}{13}{subsubsection.5.2.2}%
 \contentsline {subsubsection}{\numberline {5.2.3}Simulation Settings}{13}{subsubsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.3}The Practical Investigation}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.3}The Practical Investigation}{17}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Determining the vortex shedding frequency}{21}{subsection.5.4}%
 \contentsline {subsubsection}{\numberline {5.4.1}Theoretical Investigation}{21}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Practical Investigation}{21}{subsubsection.5.4.2}%
-\contentsline {section}{\numberline {6}Results}{22}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Results of the Theoretical Investigation}{22}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}Sample Tables of Time vs. Lift Coefficient ($C_L$) for Bluff Body $n=2,\,6\,\text {and}\,12$}{22}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Lift Coefficient ($C_L$) Over Time for each Bluff Body}{25}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Sample Calculation of Vortex Shedding Frequency for Bluff Body $n=2$ using Python}{30}{subsubsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.4}A Comparison of Vortex Shedding Frequency with Increasing $n$ from 2 \textendash \ 12}{31}{subsubsection.6.1.4}%
-\contentsline {subsection}{\numberline {6.2}Results of Practical Investigation}{32}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Conclusion}{44}{section.7}%
-\contentsline {section}{\numberline {8}Evaluation}{45}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Evaluation of the Theoretical Investigation}{45}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Evaluation of the Practical Investigation}{45}{subsection.8.2}%
-\contentsline {section}{Appendices}{49}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {5.4.2}Practical Investigation}{22}{subsubsection.5.4.2}%
+\contentsline {section}{\numberline {6}Results}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Results of the Theoretical Investigation}{23}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Sample Tables of Time vs. Lift Coefficient ($C_L$) for Bluff Body $n=2,\,6\,\text {and}\,12$}{23}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Lift Coefficient ($C_L$) Over Time for each Bluff Body}{26}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Sample Calculation of Vortex Shedding Frequency for Bluff Body $n=2$ using Python}{31}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}A Comparison of Vortex Shedding Frequency with Increasing $n$ from 2 \textendash \ 12}{32}{subsubsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.2}Results of Practical Investigation}{33}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Conclusion}{45}{section.7}%
+\contentsline {section}{\numberline {8}Evaluation}{46}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Evaluation of the Theoretical Investigation}{46}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Evaluation of the Practical Investigation}{46}{subsection.8.2}%
+\contentsline {section}{Appendices}{50}{subsection.8.2}%
