@@ -206,6 +206,8 @@ The theoretical part of this EE was conducted using the open-source CFD software
 \subsubsection{Simulation Settings}
 To adhere to the scope of this essay, the simulation setup was adapted from a case study provided in the Udemy course \textit{OpenFOAM for Absolute Beginners} by \textcite{jayaraj2024openfoam}. The tutorial case \textit{3vortexShedding}, discussed in lecture eight, served as a structural template and was modified to align with the specific requirements of this investigation.
 
+\vspace{1em}
+
 \begin{figure}[H]
 	\centering
 	\begin{forest}
@@ -259,7 +261,6 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 
 \begin{table}[H]
 	\centering
-	\renewcommand{\arraystretch}{1.3}
 	\makebox[\linewidth][c]{
 		\begin{tabularx}{1.2\textwidth}{|p{3cm}|p{3.3cm}|p{2.8cm}|p{3cm}|X|}
 			\hline
@@ -298,12 +299,6 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 			
 			\hline
 			
-			{\footnotesize\verb*|decomposeParDict|} & {\footnotesize\verb*|numberOfSubdomains|} & 8 & 6 & The simulations were performed on a system with \verb*|6| processing cores \parencite{jayaraj2024openfoam} \\
-			\hline
-			
-			\verb*|forceCoeffs| & \textemdash & \textemdash & Created a reporting function which outputs the variation of the lift coefficient $C_L$ throughout the simulation & Lift coefficient $C_L$ is needed for subsequent calculation of vortex shedding frequency $f$\\
-			\hline
-			
 			
 		\end{tabularx}
 	}
@@ -318,6 +313,12 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 		\begin{tabularx}{1.2\textwidth}{|p{3cm}|p{3.3cm}|p{2.8cm}|p{3cm}|X|}
 			\hline
 			\textbf{File} & \textbf{Parameter} & \textbf{Original} & \textbf{Modified} & \textbf{Justification} \\
+			\hline
+			
+			{\footnotesize\verb*|decomposeParDict|} & {\footnotesize\verb*|numberOfSubdomains|} & 8 & 6 & The simulations were performed on a system with \verb*|6| processing cores \parencite{jayaraj2024openfoam} \\
+			\hline
+			
+			\verb*|forceCoeffs| & \textemdash & \textemdash & Created a reporting function which outputs the variation of the lift coefficient $C_L$ throughout the simulation & Lift coefficient $C_L$ is needed for subsequent calculation of vortex shedding frequency $f$\\
 			\hline
 			
 			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & $1\times 10^{5}$ & $1\times 10^{6}$ & The kinematic viscosity of water at 20°C is approximately $1\times 10^{6} \, m^2\,s^{-1}$ \parencite{noauthor_water_nodate}\\

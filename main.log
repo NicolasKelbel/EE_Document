@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  28 JUL 2025 00:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  29 JUL 2025 17:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1638,39 +1638,39 @@ Library (tcolorbox): 'tcbprocessing.code.tex' version '6.2.0'
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 65.
+h' as default language. on input line 66.
 \@quotelevel=\count535
 \@quotereset=\count536
  (main.aux (introduction.aux) (background.aux) (variables.aux) (equipment.aux) 
 (method.aux) (results.aux) (conclusion.aux) (evaluation.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-5.
+6.
 
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1724,13 +1724,13 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 65.
+or `english'. on input line 66.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 65.
+Package hyperref Info: Link coloring OFF on input line 66.
  (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -1776,79 +1776,79 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 65.
-Package biblatex Info: Reference segment=0 on input line 65.
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 65.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 65.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 65.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 65.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 65.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 65.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 65.
-LaTeX Font Info:    Redeclaring math accent \check on input line 65.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 65.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 65.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 65.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 65.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 66.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 66.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 66.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 66.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 66.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 66.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 66.
+LaTeX Font Info:    Redeclaring math accent \check on input line 66.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 66.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 66.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 65.
+(Font)              `operators' in the math version `normal' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 6
-5.
+6.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 65.
+(Font)              `operators' in the math version `bold' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-65.
+66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 65.
+input line 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 65.
+ 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-65.
+66.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 65.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/LucidaConsole(0)/m/n on input line 
-65.
+66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 65.
+input line 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 65.
+e 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 65.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 66.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LucidaConsole(0)/b/n on input line 
-65.
+66.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 65.
+ on input line 66.
 
 \c@lstlisting=\count537
 [1
@@ -1869,28 +1869,28 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 1.
 
 (C:\Users\Nicolas\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-))
+)
+[1])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-
-[1] (main.lof)
+ [2] (main.lof [3])
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [2]
+ [4]
 \openout2 = `introduction.aux'.
 
- (introduction.tex) [3
+ (introduction.tex) [5
 
 ]
 \openout2 = `background.aux'.
 
- (background.tex [4
+ (background.tex [6
 
 
 
-]
+] [7]
 File: images/vonKarmanStreet.png Graphic file (type bmp)
 <images/vonKarmanStreet.png>
 \pgf@layerbox@background=\box113
@@ -1902,10 +1902,10 @@ Overfull \hbox (0.5658pt too wide) in paragraph at lines 151--152
  [] 
  []
 
-[5] [6] [7]) [8]
+[8] [9] [10]) [11]
 \openout2 = `variables.aux'.
 
- (variables.tex) [9
+ (variables.tex) [12
 
 
 
@@ -1957,11 +1957,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []\TU/TimesNewRoman(0)/m/n/12 Pipe corner pieces with diameter
  []
 
-) [10
+[13
 
 
 
-] [11]
+]
+Overfull \vbox (253.8775pt too high) has occurred while \output is active []
+
+
+[14]) [15]
 \openout2 = `method.aux'.
 
  (method.tex
@@ -1971,7 +1975,7 @@ Overfull \hbox (13.72011pt too wide) in paragraph at lines 144--145
  [] 
  []
 
-[12
+[16
 
 
 
@@ -1980,177 +1984,177 @@ Overfull \hbox (13.72011pt too wide) in paragraph at lines 197--198
  [] 
  []
 
-[13]
+[17] [18]
 LaTeX Font Info:    Font shape `TU/LucidaConsole(0)/m/n' will be
-(Font)              scaled to size 10.12152pt on input line 255.
- [14]
-
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 309.
+(Font)              scaled to size 10.12152pt on input line 257.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\TU/LucidaConsole(0)/m/n/12 para.foam\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 defines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\TU/LucidaConsole(0)/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\TU/LucidaConsole(0)/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 visualizes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 mesh of fluid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh \TU/TimesNewRoman(0)/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 309--309
+Underfull \hbox (badness 1237) in paragraph at lines 304--304
 []\TU/LucidaConsole(0)/m/n/12 para.foam \TU/TimesNewRoman(0)/m/n/12 visu-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 309--309
+Underfull \hbox (badness 2005) in paragraph at lines 304--304
 []|\TU/TimesNewRoman(0)/m/n/12 The fluid domain was ad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 justed to conform with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 the computational limits
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 309--309
+Underfull \hbox (badness 2035) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 discussed in []Section 5.2.1[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 & Malalasekera, []2007[],
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 309--309
+Underfull \hbox (badness 2393) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 merical stability (Caminha,
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 309--309
+Underfull \hbox (badness 1189) in paragraph at lines 304--304
 \TU/TimesNewRoman(0)/m/n/12 efficient $\OML/cmm/m/it/12 C[]$ \TU/TimesNewRoman(
 0)/m/n/12 (Codeynamics,
  []
 
-
-Underfull \hbox (badness 3158) in paragraph at lines 309--309
+[19]
+Underfull \hbox (badness 3158) in paragraph at lines 329--329
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations were per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 309--309
+Underfull \hbox (badness 6477) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
-[15]
-Underfull \hbox (badness 1881) in paragraph at lines 328--328
+
+Underfull \hbox (badness 1881) in paragraph at lines 329--329
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 328--328
+Underfull \hbox (badness 3098) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 water at 20°C is approxi-
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 328--328
+Underfull \hbox (badness 1997) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 of 100 using Equation []
  []
 
-[16]
+[20]
 File: images/overallSetup1.jpg Graphic file (type bmp)
 <images/overallSetup1.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 374--375
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 375--376
  [][] 
  []
 
-[17]
+[21]
 File: images/overallSetup2.jpg Graphic file (type bmp)
 <images/overallSetup2.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 416--417
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 417--418
  [][] 
  []
 
-[18]
+[22]
 File: images/shapeInTank.jpg Graphic file (type bmp)
 <images/shapeInTank.jpg>
 
-Overfull \hbox (60.32825pt too wide) in paragraph at lines 440--441
+Overfull \hbox (60.32825pt too wide) in paragraph at lines 441--442
  [][] 
  []
 
-[19]
+[23]
 File: images/shapes.jpg Graphic file (type bmp)
 <images/shapes.jpg>
- [20] [21] [22]) [23]
+ [24] [25] [26]) [27]
 \openout2 = `results.aux'.
 
  (results.tex
@@ -2201,83 +2205,84 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 4.
 
-[24
+[28
 
 
 
-] [25]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 120.
-
+] [29]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 120.
+(hyperref)                removing `math shift' on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 120.
+(hyperref)                removing `subscript' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 159.
 
 File: images/2face_graph.pdf Graphic file (type pdf)
 <use images/2face_graph.pdf>
-[26]
+[30]
 File: images/3face_graph.pdf Graphic file (type pdf)
 <use images/3face_graph.pdf>
 File: images/4face_graph.pdf Graphic file (type pdf)
 <use images/4face_graph.pdf>
- [27]
+ [31]
 File: images/5face_graph.pdf Graphic file (type pdf)
 <use images/5face_graph.pdf>
 File: images/6face_graph.pdf Graphic file (type pdf)
 <use images/6face_graph.pdf>
- [28]
+ [32]
 File: images/7face_graph.pdf Graphic file (type pdf)
 <use images/7face_graph.pdf>
 File: images/8face_graph.pdf Graphic file (type pdf)
 <use images/8face_graph.pdf>
- [29]
+ [33]
 File: images/9face_graph.pdf Graphic file (type pdf)
 <use images/9face_graph.pdf>
 File: images/10face_graph.pdf Graphic file (type pdf)
 <use images/10face_graph.pdf>
- [30]
+ [34]
 File: images/11face_graph.pdf Graphic file (type pdf)
 <use images/11face_graph.pdf>
 File: images/12face_graph.pdf Graphic file (type pdf)
 <use images/12face_graph.pdf>
- [31]
+ [35]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 239.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 239.
 
 File: images/2face_graph_sample_Calc.pdf Graphic file (type pdf)
 <use images/2face_graph_sample_Calc.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
-[32]
+[36]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 226.
+(hyperref)                removing `math shift' on input line 265.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 226.
+(hyperref)                removing `math shift' on input line 265.
 
+[37]
 File: images/overall.pdf Graphic file (type pdf)
 <use images/overall.pdf>
-[33]
+ [38]
 File: images/2Face/2Face_0s.jpg Graphic file (type bmp)
 <images/2Face/2Face_0s.jpg>
 File: images/2Face/2Face_1s.jpg Graphic file (type bmp)
@@ -2290,7 +2295,7 @@ File: images/2Face/2Face_4s.jpg Graphic file (type bmp)
 <images/2Face/2Face_4s.jpg>
 File: images/2Face/2Face_5s.jpg Graphic file (type bmp)
 <images/2Face/2Face_5s.jpg>
- [34]
+ [39]
 File: images/3Face/3Face_0s.jpg Graphic file (type bmp)
 <images/3Face/3Face_0s.jpg>
 File: images/3Face/3Face_1s.jpg Graphic file (type bmp)
@@ -2303,7 +2308,7 @@ File: images/3Face/3Face_4s.jpg Graphic file (type bmp)
 <images/3Face/3Face_4s.jpg>
 File: images/3Face/3Face_5s.jpg Graphic file (type bmp)
 <images/3Face/3Face_5s.jpg>
- [35]
+ [40]
 File: images/4Face/4Face_0s.jpg Graphic file (type bmp)
 <images/4Face/4Face_0s.jpg>
 File: images/4Face/4Face_1s.jpg Graphic file (type bmp)
@@ -2316,7 +2321,7 @@ File: images/4Face/4Face_4s.jpg Graphic file (type bmp)
 <images/4Face/4Face_4s.jpg>
 File: images/4Face/4Face_5s.jpg Graphic file (type bmp)
 <images/4Face/4Face_5s.jpg>
- [36]
+ [41]
 File: images/5Face/5Face_0s.jpg Graphic file (type bmp)
 <images/5Face/5Face_0s.jpg>
 File: images/5Face/5Face_1s.jpg Graphic file (type bmp)
@@ -2329,7 +2334,7 @@ File: images/5Face/5Face_4s.jpg Graphic file (type bmp)
 <images/5Face/5Face_4s.jpg>
 File: images/5Face/5Face_5s.jpg Graphic file (type bmp)
 <images/5Face/5Face_5s.jpg>
- [37]
+ [42]
 File: images/6Face/6Face_0s.jpg Graphic file (type bmp)
 <images/6Face/6Face_0s.jpg>
 File: images/6Face/6Face_1s.jpg Graphic file (type bmp)
@@ -2342,7 +2347,7 @@ File: images/6Face/6Face_4s.jpg Graphic file (type bmp)
 <images/6Face/6Face_4s.jpg>
 File: images/6Face/6Face_5s.jpg Graphic file (type bmp)
 <images/6Face/6Face_5s.jpg>
- [38]
+ [43]
 File: images/7Face/7Face_0s.jpg Graphic file (type bmp)
 <images/7Face/7Face_0s.jpg>
 File: images/7Face/7Face_1s.jpg Graphic file (type bmp)
@@ -2355,7 +2360,7 @@ File: images/7Face/7Face_4s.jpg Graphic file (type bmp)
 <images/7Face/7Face_4s.jpg>
 File: images/7Face/7Face_5s.jpg Graphic file (type bmp)
 <images/7Face/7Face_5s.jpg>
- [39]
+ [44]
 File: images/8Face/8Face_0s.jpg Graphic file (type bmp)
 <images/8Face/8Face_0s.jpg>
 File: images/8Face/8Face_1s.jpg Graphic file (type bmp)
@@ -2368,7 +2373,7 @@ File: images/8Face/8Face_4s.jpg Graphic file (type bmp)
 <images/8Face/8Face_4s.jpg>
 File: images/8Face/8Face_5s.jpg Graphic file (type bmp)
 <images/8Face/8Face_5s.jpg>
- [40]
+ [45]
 File: images/9Face/9Face_0s.jpg Graphic file (type bmp)
 <images/9Face/9Face_0s.jpg>
 File: images/9Face/9Face_1s.jpg Graphic file (type bmp)
@@ -2381,7 +2386,7 @@ File: images/9Face/9Face_4s.jpg Graphic file (type bmp)
 <images/9Face/9Face_4s.jpg>
 File: images/9Face/9Face_5s.jpg Graphic file (type bmp)
 <images/9Face/9Face_5s.jpg>
- [41]
+ [46]
 File: images/10Face/10Face_0s.jpg Graphic file (type bmp)
 <images/10Face/10Face_0s.jpg>
 File: images/10Face/10Face_1s.jpg Graphic file (type bmp)
@@ -2394,7 +2399,7 @@ File: images/10Face/10Face_4s.jpg Graphic file (type bmp)
 <images/10Face/10Face_4s.jpg>
 File: images/10Face/10Face_5s.jpg Graphic file (type bmp)
 <images/10Face/10Face_5s.jpg>
- [42]
+ [47]
 File: images/11Face/11Face_0s.jpg Graphic file (type bmp)
 <images/11Face/11Face_0s.jpg>
 File: images/11Face/11Face_1s.jpg Graphic file (type bmp)
@@ -2407,7 +2412,7 @@ File: images/11Face/11Face_4s.jpg Graphic file (type bmp)
 <images/11Face/11Face_4s.jpg>
 File: images/11Face/11Face_5s.jpg Graphic file (type bmp)
 <images/11Face/11Face_5s.jpg>
- [43]
+ [48]
 File: images/12Face/12Face_0s.jpg Graphic file (type bmp)
 <images/12Face/12Face_0s.jpg>
 File: images/12Face/12Face_1s.jpg Graphic file (type bmp)
@@ -2420,60 +2425,60 @@ File: images/12Face/12Face_4s.jpg Graphic file (type bmp)
 <images/12Face/12Face_4s.jpg>
 File: images/12Face/12Face_5s.jpg Graphic file (type bmp)
 <images/12Face/12Face_5s.jpg>
- [44]) [45]
+ [49]) [50]
 \openout2 = `conclusion.aux'.
 
 
-(conclusion.tex) [46
+(conclusion.tex [51
 
 
 
-]
+]) [52]
 \openout2 = `evaluation.aux'.
 
- (evaluation.tex) [47
+ (evaluation.tex [53
 
 
 
-]
-Overfull \hbox (11.05522pt too wide) in paragraph at lines 106--106
+]) [54]
+Overfull \hbox (11.05522pt too wide) in paragraph at lines 109--109
 [][]\TU/TimesNewRoman(0)/m/n/12 Alammar, A. (n.d.). \TU/TimesNewRoman(0)/m/it/1
 2 Wake of bodies (chapter 1) \TU/TimesNewRoman(0)/m/n/12 [Accessed: 2025-07-14]
 . []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (0.1107pt too wide) in paragraph at lines 106--106
+Overfull \hbox (0.1107pt too wide) in paragraph at lines 109--109
 [][]\TU/TimesNewRoman(0)/m/n/12 Embry-Riddle Aeronautical University. (n.d.). \
 TU/TimesNewRoman(0)/m/it/12 Introduction to boundary layers \TU/TimesNewRoman(0
 )/m/n/12 [Accessed: 2025-
  []
 
 
-Overfull \hbox (124.74461pt too wide) in paragraph at lines 106--106
+Overfull \hbox (124.74461pt too wide) in paragraph at lines 109--109
 \TU/TimesNewRoman(0)/m/n/12 05-22]. EaglePubs Open Educational Resources. []$[]
 [][][][] [] [] [] [][][][][][][][][] [] [][][][] [] [][][] [] [][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[48
+[55
 
 
-]
-Overfull \hbox (12.99612pt too wide) in paragraph at lines 106--106
+] [56]
+Overfull \hbox (12.99612pt too wide) in paragraph at lines 109--109
 [][]\TU/TimesNewRoman(0)/m/it/12 Original Prusa MINI+ Halbmontiert | Original P
 rusa 3D-Drucker direkt von Josef Prusa \TU/TimesNewRoman(0)/m/n/12 [Prusa3D
  []
 
-[49] [50] (appendices/appendixA.tex) (appendices/appendixB.tex
+[57] [58] [59] (appendices/appendixA.tex) (appendices/appendixB.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 4.
 
-(code/dataAnalysis.py [51
+(code/dataAnalysis.py [60
 
-])) [52] (main.aux (introduction.aux) (background.aux) (variables.aux) (equipme
-nt.aux) (method.aux) (results.aux) (conclusion.aux)
-(evaluation.aux))
+] [61] [62])) [63] (main.aux (introduction.aux)
+(background.aux) (variables.aux) (equipment.aux) (method.aux) (results.aux)
+(conclusion.aux) (evaluation.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -2485,12 +2490,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69134 strings out of 409617
- 1672899 string characters out of 5773608
- 2893138 words of memory out of 5000000
- 90321 multiletter control sequences out of 15000+600000
+ 69133 strings out of 409617
+ 1672880 string characters out of 5773608
+ 2831148 words of memory out of 5000000
+ 90320 multiletter control sequences out of 15000+600000
  568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 137i,19n,129p,2583b,5451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,19n,129p,2583b,5459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (53 pages).
+Output written on main.pdf (64 pages).
