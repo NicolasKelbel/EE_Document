@@ -22,7 +22,7 @@ In order to maintain a cylinder-like appearance, one of the most common bluff bo
 			\draw (-1,0.8) -- (-0.7,0.8);   
 			\draw (-1,-1.2) -- (-0.7,-1.2);
 			
-			\node[anchor=east, align=right] at (-1, -0.2) {Rectangular \\ “tail”};
+			\node[anchor=east, align=right] at (-1, -0.2) {Rectangular \\[-0.7em] “tail”};
 			
 			
 			\begin{scope}[yshift=-35] 
@@ -160,8 +160,15 @@ In order to create the mesh necessary for the simulation, the \textit{All Triang
 			\draw (0,0) rectangle (63,50);
 			
 			% === BOI rectangle ===
-			\draw[dashed] (15,17) rectangle (63,33);  % Body of Influence
-			\node[anchor=south west] at (36,33) {\textbf{BOI}};
+			\draw[dashed] (10,11) rectangle (63,39);  % Body of Influence
+			\node[anchor=south] at (36,39) {\textbf{BOI}};
+			
+			
+			\draw[<->] (10.1,10) -- (62.8, 10);
+			\node [anchor=north] at (36, 9) {$27 \ell$};
+			
+			\draw[<->] (9,11) -- (9,39);
+			\node[anchor=east] at (8,25) {$14\,\ell$};
 			
 			% === Bluff Body ===
 			\draw (22, 25) -- (23, 24);
@@ -196,8 +203,15 @@ In order to create the mesh necessary for the simulation, the \textit{All Triang
 			
 		\end{tikzpicture}
 	\end{center}
-	\caption{The fluid domain with dimensions. Example with bluff body $n = 2$. Inspired by \textcite{comflics_openfoam_2014}}
+	\caption{The fluid domain with dimensions  and the BOI. Example with bluff body $n = 2$. Inspired by \textcite{comflics_openfoam_2014}}
 	\label{fig:fluidDomainWithBOI}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{images/2FaceMesh}
+	\caption{Example of mesh of fluid domain with bluff body $n = 2$. Visualized in ParaView}
+	\label{fig:2FaceMesh}
 \end{figure}
 
 \subsubsection{The OpenFOAM Simulation}
