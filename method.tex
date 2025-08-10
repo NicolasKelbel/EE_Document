@@ -218,6 +218,7 @@ In order to create the mesh necessary for the simulation, the \textit{All Triang
 \label{sec:openFoam}
 The theoretical part of this EE was conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024} in Windows Subsystem for Linux (WSL) \parencite{noauthor_windows_nodate}. Among the numerous solvers OpenFOAM provides, pimpleFOAM is a transient, pressure-based solver for incompressible, single-phase flows \parencite{noauthor_pimplefoam_nodate}. It facilitates robust handling of transient simulations with larger time steps, allowing for improved computational performance. Moreover, its ability to model both laminar and turbulent flow ensures flow conditions are accurately reflected and given that the fluctuations of lift force in laminar flow are sinusoidal, one can verify the flow is laminar. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
 \subsubsection{Simulation Settings}
+\label{sec:simulationSettings}
 To adhere to the scope of this essay, the simulation setup was adapted from a case study provided in the Udemy course \textit{OpenFOAM for Absolute Beginners} by \textcite{jayaraj2024openfoam}. The tutorial case \textit{3vortexShedding}, discussed in lecture eight, served as a structural template and was modified to align with the specific requirements of this investigation.
 
 \vspace{1em}

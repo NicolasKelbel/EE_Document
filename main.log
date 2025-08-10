@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  9 AUG 2025 11:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  10 AUG 2025 12:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1985,144 +1985,144 @@ File: images/2FaceMesh.png Graphic file (type bmp)
 <images/2FaceMesh.png>
  [17] [18]
 LaTeX Font Info:    Font shape `TU/LucidaConsole(0)/m/n' will be
-(Font)              scaled to size 10.12152pt on input line 271.
+(Font)              scaled to size 10.12152pt on input line 272.
 
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 318.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 319.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []\TU/LucidaConsole(0)/m/n/12 para.foam\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 defines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []\TU/LucidaConsole(0)/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []\TU/LucidaConsole(0)/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 visualizes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 mesh of fluid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh \TU/TimesNewRoman(0)/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 318--318
+Underfull \hbox (badness 1237) in paragraph at lines 319--319
 []\TU/LucidaConsole(0)/m/n/12 para.foam \TU/TimesNewRoman(0)/m/n/12 visu-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 318--318
+Underfull \hbox (badness 2005) in paragraph at lines 319--319
 []|\TU/TimesNewRoman(0)/m/n/12 The fluid domain was ad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 justed to conform with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 the computational limits
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 318--318
+Underfull \hbox (badness 2035) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 discussed in []Section 5.2.1[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 & Malalasekera, []2007[],
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 318--318
+Underfull \hbox (badness 2393) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 merical stability (Caminha,
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 318--318
+Underfull \hbox (badness 1189) in paragraph at lines 319--319
 \TU/TimesNewRoman(0)/m/n/12 efficient $\OML/cmm/m/it/12 C[]$ \TU/TimesNewRoman(
 0)/m/n/12 (Codeynamics,
  []
 
 [19]
-Underfull \hbox (badness 3158) in paragraph at lines 343--343
+Underfull \hbox (badness 3158) in paragraph at lines 344--344
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations were per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 343--343
+Underfull \hbox (badness 6477) in paragraph at lines 344--344
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 343--343
+Underfull \hbox (badness 1881) in paragraph at lines 344--344
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 343--343
+Underfull \hbox (badness 3098) in paragraph at lines 344--344
 \TU/TimesNewRoman(0)/m/n/12 water at 20°C is approxi-
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 343--343
+Underfull \hbox (badness 1997) in paragraph at lines 344--344
 \TU/TimesNewRoman(0)/m/n/12 of 100 using Equation []
  []
 
@@ -2130,7 +2130,7 @@ Underfull \hbox (badness 1997) in paragraph at lines 343--343
 File: images/overallSetup1.jpg Graphic file (type bmp)
 <images/overallSetup1.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 389--390
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 390--391
  [][] 
  []
 
@@ -2138,7 +2138,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 389--390
 File: images/overallSetup2.jpg Graphic file (type bmp)
 <images/overallSetup2.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 431--432
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 432--433
  [][] 
  []
 
@@ -2146,7 +2146,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 431--432
 File: images/shapeInTank.jpg Graphic file (type bmp)
 <images/shapeInTank.jpg>
 
-Overfull \hbox (60.32825pt too wide) in paragraph at lines 455--456
+Overfull \hbox (60.32825pt too wide) in paragraph at lines 456--457
  [][] 
  []
 
@@ -2489,10 +2489,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69154 strings out of 409617
- 1673384 string characters out of 5773608
- 2831312 words of memory out of 5000000
- 90340 multiletter control sequences out of 15000+600000
+ 69156 strings out of 409617
+ 1673437 string characters out of 5773608
+ 2831414 words of memory out of 5000000
+ 90342 multiletter control sequences out of 15000+600000
  568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  137i,19n,129p,2583b,5459s stack positions out of 10000i,1000n,20000p,200000b,200000s
