@@ -9,10 +9,10 @@ cutoff = 1.0  # Seconds
 prominence_threshold = 0.3
 
 # Load C_L data 
-filename = rf"D:\EE_DataAnalysis\{number_of_faces_of_bluff_body}Face\{number_of_faces_of_bluff_body}Face_run1_coefficient.dat"
+filename = rf"..."
 time, Cl = [], []
 
-os.chdir(r"D:\EE_DataAnalysis")
+os.chdir(r"...")
 
 with open(filename, "r") as f:
     for line in f:

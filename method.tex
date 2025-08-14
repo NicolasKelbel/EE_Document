@@ -147,9 +147,11 @@ The geometry and mesh preparation for the simulation was conducted using Ansys W
 	\label{fig:fluidDomain}
 \end{figure}
 
-Given the computational limitations of the computer the simulation was conducted on, an overall length $\ell$ of $1\times{10}^{-3}\,m$ was chosen \textemdash\ therefore $L = 1\times{10}^{-3}\,m$. 
+Given the computational limitations of the computer the simulation was conducted on, an overall length $\ell$ of $\SI{1e-3}{\meter}$ was chosen \textemdash\ therefore $L = \SI{1e-3}{\meter}$.
 
-In order to create the mesh necessary for the simulation, the \textit{All Triangles Method} was utilized. A global unit size of $2.25\times{10}^{-3}\,m$ was applied to the fluid domain to ensure a computationally inexpensive resolution in regions of negligible interest. Conversely, near the edge of the bluff body, a significantly smaller unit size of $2.0\times{10}^{-5}\,m$ was used, constituting an accurate depiction of the interaction between the fluid flow and the bluff body \parencite{ansys_learning_best_2023}. Furthermore, eight inflation layers were employed in order to precisely capture the gradients associated with boundary layer formation at the edges of the bluff body \parencite{fluid_mechanics_101_cfd_2021}. Moreover, a body of influence (BOI) with a sizing of $2.0\times{10}^{-4}\,m$ was used \textemdash\ positioned as shown in Figure \ref{fig:fluidDomainWithBOI} \textemdash\ refining the mesh around the bluff body and also in the wake region (where the vortex shedding occurs), constituting for a more exact simulation.  
+
+In order to create the mesh necessary for the simulation, the \textit{All Triangles Method} was utilized. A global unit size of \SI{2.25e-3}{\meter} was applied to the fluid domain to ensure a computationally inexpensive resolution in regions of negligible interest. Conversely, near the edge of the bluff body, a significantly smaller unit size of \SI{2.0e-5}{\meter} was used, constituting an accurate depiction of the interaction between the fluid flow and the bluff body \parencite{ansys_learning_best_2023}. Furthermore, eight inflation layers were employed in order to precisely capture the gradients associated with boundary layer formation at the edges of the bluff body \parencite{fluid_mechanics_101_cfd_2021}. Moreover, a body of influence (BOI) with a sizing of \SI{2.0e-4}{\meter} was used \textemdash\ positioned as shown in \Cref{fig:fluidDomainWithBOI} \textemdash\ refining the mesh around the bluff body and also in the wake region (where the vortex shedding occurs), constituting for a more exact simulation.
+
 
 \begin{figure}[H]
 	
@@ -336,9 +338,10 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 			\verb*|forceCoeffs| & \textemdash & \textemdash & Created a reporting function which outputs the variation of the lift coefficient $C_L$ throughout the simulation & Lift coefficient $C_L$ is needed for subsequent calculation of vortex shedding frequency $f$\\
 			\hline
 			
-			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & $1\times 10^{5}$ & $1\times 10^{6}$ & The kinematic viscosity of water at 20°C is approximately $1\times 10^{6} \, m^2\,s^{-1}$ \parencite{noauthor_water_nodate}\\
+			{\scriptsize\verb*|transportProperties|} & \verb*|nu| & \SI{1e5}{} & \SI{1e6}{} & The kinematic viscosity of water at 20\si{\celsius} is approximately \SI{1e6}{\meter\squared\per\second} \parencite{noauthor_water_nodate}\\
 			\hline
-			\verb*|U|& \texttt{inlet value} \newline \texttt{(x, y, z)} & x = 10 & x = 0.1 & Adapted in order to achieve the target Reynolds number of 100 using Equation~\eqref{eq:reynoldsNumber} where $L=1\times 10^{-3} \, m$, $\nu = 1\times10^{-6} \, m^2\,s^{-1}$ and $U = 0.1 \, m\, s^{-1}$ \\
+			\verb*|U|& \texttt{inlet value} \newline \texttt{(x, y, z)} & x = \num{10} & x = \num{0.1} & Adapted in order to achieve the target Reynolds number of \num{100} using \Cref{eq:reynoldsNumber} where $L=\SI{1e-3}{\meter}$, $\nu = \SI{1e-6}{\meter\squared\per\second}$ and $U = \SI{0.1}{\meter\per\second}$ \\
+			\hline
 			\hline
 		\end{tabularx}
 	}
@@ -371,7 +374,7 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 		\node[fill=white, anchor=west] at (6.6, 2) {Clamp};
 		
 		\draw[->, line width=3pt, color=red] (6.5, 0) -- (3.9, 1);
-		\node[fill=white, anchor=west] at (6.6, 0) {Piping \diameter $0.017\,m$};
+		\node[fill=white, anchor=west] at (6.6, 0) {Piping \diameter \SI{0.017}{\meter}};
 		
 		\draw[->, line width=3pt, color=red] (6.5, -1) -- (2, -0.2);
 		\node[fill=white, anchor=west, align=left] at (6.6, -1) {Separation wall (2)};
@@ -410,7 +413,7 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 		\node[fill=white, anchor=west] at (6.6, -1) {Clear acrylic glass};
 		
 		\draw[->, line width=3pt, color=red] (6.5, -2) -- (1.3, -2);
-		\node[fill=white, anchor=west, align=left] at (6.6, -2) {75W Water pump};
+		\node[fill=white, anchor=west, align=left] at (6.6, -2) {\SI{75}{\watt} Water pump};
 		
 		\draw[->, line width=3pt, color=red] (6.5, -3) -- (1.5, -3);
 		\node[fill=white, anchor=west, align=left] at (6.6, -3) {Pipe corner piece};
@@ -467,18 +470,18 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 
 \newpage
 
-Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE was conducted in a self-built flow tank. A water pump created a flow over a horizontal plate by moving water from one side of separation wall (1) to the other. Separation wall (2), which did not reach the bottom of the tank, forced the flow of the horizontal wall towards the pump. The aquarium was filled with water so that it reached $0.01\,m$ above the horizontal plate. The regulation valve was used to decrease the flow velocity while the sponge diffuser ensured a uniform distribution of flow \textemdash\ in an attempt to achieve laminar flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape were used in order to better visualize the water flow. The thermal insulation foam ensured watertightness between the aquarium wall and the inside components. 
+Inspired by the flow tank built by Harvard University’s Science Demonstrations Center \parencite{noauthor_vortex_nodate}, the practical part of this EE was conducted in a self-built flow tank. A water pump created a flow over a horizontal plate by moving water from one side of separation wall (1) to the other. Separation wall (2), which did not reach the bottom of the tank, forced the flow of the horizontal wall towards the pump. The aquarium was filled with water so that it reached \SI{0.01}{\meter} above the horizontal plate. The regulation valve was used to decrease the flow velocity while the sponge diffuser ensured a uniform distribution of flow \textemdash\ in an attempt to achieve laminar flow. Both a lamp and the addition of potassium permanganate crystals in front of the shape were used in order to better visualize the water flow. The thermal insulation foam ensured watertightness between the aquarium wall and the inside components. 
 
-The bluff bodies were 3D printed with an overall length $\ell$ of $0.02\,m$ \textemdash\ giving each shape a characteristic length $L$ of $0.02\,m$ \textemdash\ and a height of $0.04\,m$. Pre-tests showed that this overall length proved to be the optimal balance between the size of the bluff bodies and adequate identification of produced vortices, in an attempt to achieve a Reynolds number of $100$. Reference marks on the horizontal plate ensured the shape was positioned consistently each trial. A GoPro recording in 120 FPS was mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate. The outer scaffolding provided support for the lamp, the GoPro and the water supply hose. 
+The bluff bodies were 3D printed with an overall length $\ell$ of \SI{0.02}{\meter} \textemdash\ giving each shape a characteristic length $L$ of \SI{0.02}{\meter} \textemdash\ and a height of \SI{0.04}{\meter}. Pre-tests showed that this overall length proved to be the optimal balance between the size of the bluff bodies and adequate identification of produced vortices, in an attempt to achieve a Reynolds number of \num{100}. Reference marks on the horizontal plate ensured the shape was positioned consistently each trial. A GoPro recording in 120 FPS was mounted parallel to the horizontal plate, ensuring a continuous recording of the entire horizontal plate. The outer scaffolding provided support for the lamp, the GoPro and the water supply hose. 
 
 The flow velocity for the subsequent calculation of the Reynolds number was measured using a basic time-distance method, wherein a float was introduced and the time taken to travel the length of the horizontal plate was measured via a digital stopwatch. This was repeated ten times and an average was taken.
 
 \subsection{Determining the vortex shedding frequency}
-The inverse relationship given by Equation \eqref{eq:fAndT} in section \Cref{sec:fAndT} will be used to determine the vortex shedding frequency. By measuring the time interval between the formation of two consecutive vertices on one side of the bluff body, one can find the time period and therefore the frequency of vortex shedding. To obtain an accurate vortex shedding frequency, the determination of the time period was completed after periodic vortex shedding was achieved, omitting the initial startup phase in which the flow developed. A Fast Fourier Transform approach was not chosen due to the lack of sufficient runtime during the trials on either investigation and the absence of multiple different frequencies of vortex shedding \parencites[10--11]{shi2025vortex}[12]{xu_experimental_2025}.
+The inverse relationship given by \Cref{eq:fAndT} in section \Cref{sec:fAndT} will be used to determine the vortex shedding frequency. By measuring the time interval between the formation of two consecutive vertices on one side of the bluff body, one can find the time period and therefore the frequency of vortex shedding. To obtain an accurate vortex shedding frequency, the determination of the time period was completed after periodic vortex shedding was achieved, omitting the initial startup phase in which the flow developed. A Fast Fourier Transform approach was not chosen due to the lack of sufficient runtime during the trials on either investigation and the absence of multiple different frequencies of vortex shedding \parencites[10--11]{shi2025vortex}[12]{xu_experimental_2025}.
 
 \subsubsection{Theoretical Investigation}
 \label{sec:theoreticalMethod}
-The simulation was run five times for each bluff body. It was found that each iteration of a bluff body yielded the same results, therefore only the first run of each bluff body was considered. By graphing fluctuations of the lift coefficient \textemdash\ as can be seen in \Cref{sec:C_LvsTime} \textemdash\ one can calculate the time period of vortex shedding by identifying the time taken between two consecutive peaks or troughs. This determination was done for each peak and trough using python, removing the first second to omit the startup phase. An average time period was then calculated and the vortex shedding frequency was found. ParaView was used to visualize the simulation.
+The simulation was run five times for each bluff body. It was found that each iteration of a bluff body yielded the same results, therefore only the first run of each bluff body was considered. By graphing fluctuations of the lift coefficient \textemdash\ as can be seen in \Cref{sec:C_LvsTime} \textemdash\ one can calculate the time period of vortex shedding by identifying the time taken between two consecutive peaks or troughs. This determination was done for each peak and trough using Python \textemdash\ see Listing~A.\ref{lst:freqDetermination} \textemdash\ removing the first second to omit the startup phase. An average time period was then calculated and the vortex shedding frequency was found. ParaView was used to visualize the simulation.
 
 \subsubsection{Practical Investigation}
 The bluff bodies were placed into the flow tank at the position of the reference marks. Wearing gloves and goggles, minimal amounts of potassium permanganate were placed in front of them using a spatula \textemdash\ as shown in \Cref{fig:shapeInTank}. Once the flow fully developed, it was recorded for one minute each time. This minimized the number of water replacements \textemdash\ due to dissolving potassium permanganate turning the water purple \textemdash\ while ensuring that one could take multiple measurements of the time period. The water was reused for four shapes before the aquarium was emptied using a hand pump \textemdash\ disposing the solution in a properly assigned waste tank \textemdash\ and was refilled with fresh water. 
