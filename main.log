@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  15 AUG 2025 15:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  3 SEP 2025 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2088,42 +2088,42 @@ Underfull \hbox (badness 1189) in paragraph at lines 321--321
  []
 
 [19]
-Underfull \hbox (badness 3158) in paragraph at lines 347--347
+Underfull \hbox (badness 3158) in paragraph at lines 346--346
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations were per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 347--347
+Underfull \hbox (badness 6477) in paragraph at lines 346--346
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 347--347
+Underfull \hbox (badness 1881) in paragraph at lines 346--346
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 347--347
+Underfull \hbox (badness 3118) in paragraph at lines 346--346
 \TU/TimesNewRoman(0)/m/n/12 water at 20$[]$ is approxi-
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 347--347
+Underfull \hbox (badness 2142) in paragraph at lines 346--346
 \TU/TimesNewRoman(0)/m/n/12 of $\OT1/cmr/m/n/12 100$ \TU/TimesNewRoman(0)/m/n/1
 2 using []Equation (2)[]
  []
@@ -2132,7 +2132,7 @@ Underfull \hbox (badness 2142) in paragraph at lines 347--347
 File: images/overallSetup1.jpg Graphic file (type bmp)
 <images/overallSetup1.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 393--394
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 392--393
  [][] 
  []
 
@@ -2140,7 +2140,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 393--394
 File: images/overallSetup2.jpg Graphic file (type bmp)
 <images/overallSetup2.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 435--436
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 436--437
  [][] 
  []
 
@@ -2148,7 +2148,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 435--436
 File: images/shapeInTank.jpg Graphic file (type bmp)
 <images/shapeInTank.jpg>
 
-Overfull \hbox (60.32825pt too wide) in paragraph at lines 459--460
+Overfull \hbox (61.12825pt too wide) in paragraph at lines 462--463
  [][] 
  []
 
@@ -2463,11 +2463,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69150 strings out of 409617
- 1673209 string characters out of 5773608
- 2832036 words of memory out of 5000000
- 90338 multiletter control sequences out of 15000+600000
- 568288 words of font info for 110 fonts, out of 8000000 for 9000
+ 69154 strings out of 409617
+ 1673398 string characters out of 5773608
+ 2832082 words of memory out of 5000000
+ 90340 multiletter control sequences out of 15000+600000
+ 568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  137i,19n,129p,2583b,5459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
