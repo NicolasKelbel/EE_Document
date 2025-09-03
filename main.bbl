@@ -41,14 +41,17 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-07-14}
       \field{title}{Wake of Bodies (Chapter 1)}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{n.d.}
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.researchgate.net/profile/Ahmed-Alammar/post/How_do_I_ensure_20layers_in_Boundary_layer_during_meshing_FLUENT_OR_CFX/attachment/59d620d379197b807797f458/AS%3A292776961953792%401446814875823/download/wake+of+bodies+6248_chap01.pdf
+      \verb https://www.researchgate.net/profile/Ahmed-Alammar/.../wake+of+bodies+6248_chap01.pdf
       \endverb
       \verb{url}
-      \verb https://www.researchgate.net/profile/Ahmed-Alammar/post/How_do_I_ensure_20layers_in_Boundary_layer_during_meshing_FLUENT_OR_CFX/attachment/59d620d379197b807797f458/AS%3A292776961953792%401446814875823/download/wake+of+bodies+6248_chap01.pdf
+      \verb https://www.researchgate.net/profile/Ahmed-Alammar/.../wake+of+bodies+6248_chap01.pdf
       \endverb
     \endentry
     \entry{allum2023}{book}{}
@@ -87,7 +90,6 @@
       \field{labeltitlesource}{title}
       \field{edition}{3}
       \field{isbn}{9781398369917}
-      \field{note}{For the IB Diploma Programme}
       \field{title}{Physics}
       \field{year}{2023}
     \endentry
@@ -200,7 +202,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods that model convection or wave phenomena.}
+      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods...}
       \field{day}{29}
       \field{langid}{american}
       \field{month}{8}
@@ -251,8 +253,12 @@
       \field{journaltitle}{Wind and Structures: An International Journal}
       \field{number}{3}
       \field{title}{Determination of the Strouhal Number Based on the Aerodynamic Behavior of Rectangular Cylinders}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{3}
       \field{year}{2000}
+      \field{urldateera}{ce}
       \field{pages}{209\bibrangedash 220}
       \range{pages}{12}
       \verb{doi}
@@ -278,7 +284,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners: https://www.udemy.com/course/openfoam... Link for the previous video on the flow over a prism:    • 2D Flow over prism - {OpenFOAM} tutorial (si...}
+      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners...}
       \field{day}{21}
       \field{month}{1}
       \field{title}{Prism Drag and Lift Calculation and Plotting {|} Cd Cl {|} {OpenFOAM} {CFD} {|} {simpleFoam}}
@@ -353,9 +359,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-05-22}
       \field{title}{Introduction to Boundary Layers}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{n.d.}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
       \endverb
@@ -389,9 +398,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}
-      \field{note}{Accessed: 2025-05-20}
       \field{title}{Reynolds Number}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2016}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
       \endverb
@@ -490,9 +502,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the 15th Brazilian Congress of Mechanical Engineering (COBEM 1999)}
-      \field{note}{Accessed: 2025-07-22}
       \field{title}{Strouhal Number Determination for Several Regular Polygon Cylinders for Reynolds Number up to 600}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{1999}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
       \endverb
@@ -530,8 +545,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Resonance}
       \field{title}{A Stroll down Kármán Street}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{10}
       \field{year}{2005}
+      \field{urldateera}{ce}
       \field{pages}{25\bibrangedash 37}
       \range{pages}{13}
       \verb{doi}
@@ -567,7 +586,6 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{isbn}{978-94-010-4111-9}
-      \field{note}{Softcover reprint of the hardcover 1st edition, originally published in 1995}
       \field{series}{Fluid Mechanics and Its Applications}
       \field{title}{Fluid Vortices}
       \field{volume}{30}
@@ -614,7 +632,11 @@
       \field{booktitle}{Encyclopedia of Atmospheric Sciences}
       \field{isbn}{9780122270901}
       \field{title}{Vorticity}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2003}
+      \field{urldateera}{ce}
       \field{pages}{2500\bibrangedash 2504}
       \range{pages}{5}
       \verb{doi}
@@ -636,9 +658,12 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-02-27}
       \field{title}{IB Physics Guide 2025}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{year}{2023}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
       \endverb
@@ -710,7 +735,11 @@
       \field{booktitle}{Turbomachinery}
       \field{isbn}{978-953-51-3349-0}
       \field{title}{On Turbulence and its Effects on Aerodynamics of Flow through Turbine Stages}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2017}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.5772/intechopen.68205
       \endverb
@@ -740,9 +769,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{From the course "OpenFOAM for Absolute Beginners", Codeynamics on Udemy}
       \field{title}{Lecture: Introduction to vortex shedding simulation using OpenFOAM}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
       \endverb
@@ -838,9 +870,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the Seventh International Colloquium on Bluff Body Aerodynamics and Applications (BBAA7)}
-      \field{note}{Accessed: 2025-05-04}
       \field{title}{A review of cases of vortex shedding excitation in bridges: Sectional models testing}
+      \field{urlday}{4}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
       \endverb
@@ -868,9 +903,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{8}
-      \field{note}{Accessed: 2025-04-16}
       \field{title}{What is Boundary Layer in Fluid Mechanics}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.youtube.com/watch?v=ahohd8ceGR4
       \endverb
@@ -920,9 +958,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-04-30}
       \field{title}{Non-Newtonian Fluid}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
       \endverb
@@ -952,9 +993,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-05-13}
       \field{title}{Reynolds Number}
+      \field{urlday}{13}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
       \endverb
@@ -987,9 +1031,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Symposium held in Trondheim, Norway, June 24--28, 1996. Accessed: 2025-06-22}
       \field{title}{Twenty-First Symposium on Naval Hydrodynamics}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
       \field{year}{1997}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://doi.org/10.17226/5870
       \endverb
@@ -1045,7 +1092,11 @@
       \field{booktitle}{Encyclopedia of Mathematical Physics}
       \field{isbn}{9780125126663}
       \field{title}{Vortex Dynamics}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2006}
+      \field{urldateera}{ce}
       \field{pages}{390\bibrangedash 399}
       \range{pages}{10}
       \verb{doi}
@@ -1127,7 +1178,11 @@
       \field{edition}{3}
       \field{isbn}{9780122274107}
       \field{title}{Fluid Dynamics}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2002}
+      \field{urldateera}{ce}
       \field{pages}{31\bibrangedash 43}
       \range{pages}{13}
       \verb{doi}
@@ -1145,7 +1200,7 @@
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse. Und jetzt ist er schneller als je zuvor, dank Input Shaper und Pressure Advance! Wir haben unser Bestes getan, um so viele Funktionen wie möglich in den niedrigsten Preis zu quetschen. Der {MINI}+ ist ein schneller und zuverlässiger Drucker, der sich sowohl für Anfänger als auch für fortgeschrittene Benutzer eignet, die eine Druckfarm aufbauen wollen. Das Paket enthält ein glattes {PEI} Druckblech. Wenn Sie sich für den teilmontierten {MINI}+ entscheiden, erhalten Sie außerdem kostenlosen Zugang zu unserem Online-Kurs: 3D-Drucken und Modellieren für Einsteiger.}
+      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse...}
       \field{langid}{ger}
       \field{title}{Original Prusa {MINI}+ Halbmontiert {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
       \field{titleaddon}{Prusa3D by Josef Prusa}
@@ -1165,7 +1220,7 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources. It can be run on supercomputers to analyze datasets of petascale size as well as on laptops for smaller data.}
+      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources.}
       \field{langid}{american}
       \field{title}{{ParaView} - Open-source, multi-platform data analysis and visualization application}
       \field{urlday}{21}
@@ -1241,9 +1296,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
-      \field{note}{Unpublished}
       \field{title}{Computational modelling of vortex shedding flows}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{1998}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://openaccess.city.ac.uk/id/eprint/7565/
       \endverb
@@ -1302,8 +1360,12 @@
       \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
       \field{number}{4--5}
       \field{title}{Vortex shedding from a circular cylinder in a smooth and wired configuration: Comparison between 3D LES simulation and experimental analysis}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{volume}{90}
       \field{year}{2002}
+      \field{urldateera}{ce}
       \field{pages}{475\bibrangedash 489}
       \range{pages}{15}
       \verb{doi}
@@ -1389,8 +1451,12 @@
       \field{journaltitle}{Fluids}
       \field{number}{12}
       \field{title}{The Reynolds Number: A Journey from Its Origin to Modern Applications}
+      \field{urlday}{15}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{9}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \field{pages}{299}
       \range{pages}{1}
       \verb{doi}
@@ -1451,9 +1517,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the 15th International Flow Measurement Conference (FLOMEKO)}
       \field{month}{10}
-      \field{note}{Accessed: 2025-06-22}
       \field{title}{Development of a vortex flowmeter with good performance at low‐flowrate}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2010}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
       \verb{urlraw}
@@ -1525,8 +1594,12 @@
       \field{journaltitle}{Journal of Marine Science and Engineering}
       \field{number}{2}
       \field{title}{Numerical Study on Hydrodynamic Performance and Vortex Dynamics of Multiple Cylinders Under Forced Vibration at Low Reynolds Number}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{13}
       \field{year}{2025}
+      \field{urldateera}{ce}
       \field{pages}{214}
       \range{pages}{1}
       \verb{doi}
@@ -1581,8 +1654,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Fluid Mechanics}
       \field{title}{Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{949}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \field{pages}{A11}
       \range{pages}{-1}
       \verb{doi}
@@ -1668,7 +1745,7 @@
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Water moving around a cylindrical pendulum makes the cylinder swing at the vortex shedding frequency. What it Shows:When fluid flows around a cylindrical object, there is}
+      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
       \field{langid}{english}
       \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
       \field{urlday}{23}
@@ -1687,7 +1764,7 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Free online calculator - figures and tables with viscosity of water at temperatures ranging 0 to 360°C (32 to 675°F) - Imperial and {SI} Units.}
+      \field{abstract}{Free online calculator - figures and tables with viscosity of water...}
       \field{langid}{english}
       \field{title}{Water - Dynamic and Kinematic Viscosity at Various Temperatures and Pressures}
       \field{urlday}{13}
@@ -1786,7 +1863,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The airfoil {DU}91-W2-150 was investigated in the Low Speed Low Turbulence Tunnel at the Delft University of Technology to study unsteady aerodynamics. This experimental study tested the airfoil under a wide range of angles of attack ({AoA}) from 0° to 310° at three Reynolds numbers ({\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}) from {\textbackslash} 2{\textbackslash}times 10{\textasciicircum}5 {\textbackslash} to {\textbackslash} 8{\textbackslash}times 10{\textasciicircum}5 {\textbackslash}. Pressure on the airfoil surface was measured and particle image velocimetry ({PIV}) measurements were conducted to capture the flow field in the wake. By examining the force coefficient and comparing the wake contours, it shows that an upwind concave surface provides a higher load compared to a convex surface upwind case, highlighting the critical role of surface shape in aerodynamics. When comparing separation at specific locations along the chord for all three {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} values, it is observed that as {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} increases, separation tends to occur at lower {AoA}, both for positive stall and negative stall. The examination of the aerodynamic force variation indicates that, during reverse flow, fluctuations are more pronounced compared to forward flow. This is owing to separation occurring at the aerodynamic leading edge (geometric trailing edge) in reverse flow. In terms of vortex shedding frequency, the study found a nearly constant normalized Strouhal number ({\textbackslash} St {\textbackslash}) of 0.16 across various {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} and {AoA} values in fully separated regions, indicating a consistent pattern under these conditions. However, a slight increase in {\textbackslash} St {\textbackslash}, between 0.16 and 0.20, was observed for {AoA} values exceeding 180°, possibly due to the convex curvature of the airfoil in the upwind direction. In conclusion, this research not only corroborates previous findings for small {AoA} values but also adds new data on the aerodynamic behavior of the {DU}91-W2-150 airfoil under large {AoA} values, offering various perspectives on the effects of surface curvature, {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}, and flow conditions on key aerodynamic parameters.}
       \field{issn}{1099-1824}
       \field{journaltitle}{Wind Energy}
       \field{langid}{english}
@@ -1810,7 +1886,6 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
       \endverb
-      \keyw{airfoil Strouhal number,large angle of attack,particle image velocimetry ({PIV}),pressure measurement,unsteady aerodynamics,vortex shedding}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -1836,14 +1911,17 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-07-14}
       \field{title}{Wake of Bodies (Chapter 1)}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{n.d.}
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.researchgate.net/profile/Ahmed-Alammar/post/How_do_I_ensure_20layers_in_Boundary_layer_during_meshing_FLUENT_OR_CFX/attachment/59d620d379197b807797f458/AS%3A292776961953792%401446814875823/download/wake+of+bodies+6248_chap01.pdf
+      \verb https://www.researchgate.net/profile/Ahmed-Alammar/.../wake+of+bodies+6248_chap01.pdf
       \endverb
       \verb{url}
-      \verb https://www.researchgate.net/profile/Ahmed-Alammar/post/How_do_I_ensure_20layers_in_Boundary_layer_during_meshing_FLUENT_OR_CFX/attachment/59d620d379197b807797f458/AS%3A292776961953792%401446814875823/download/wake+of+bodies+6248_chap01.pdf
+      \verb https://www.researchgate.net/profile/Ahmed-Alammar/.../wake+of+bodies+6248_chap01.pdf
       \endverb
     \endentry
     \entry{allum2023}{book}{}
@@ -1882,7 +1960,6 @@
       \field{labeltitlesource}{title}
       \field{edition}{3}
       \field{isbn}{9781398369917}
-      \field{note}{For the IB Diploma Programme}
       \field{title}{Physics}
       \field{year}{2023}
     \endentry
@@ -1995,7 +2072,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods that model convection or wave phenomena.}
+      \field{abstract}{The {CFL} condition (Courant–Friedrichs–Lewy) is a condition for the stability of numerical methods...}
       \field{day}{29}
       \field{langid}{american}
       \field{month}{8}
@@ -2046,8 +2123,12 @@
       \field{journaltitle}{Wind and Structures: An International Journal}
       \field{number}{3}
       \field{title}{Determination of the Strouhal Number Based on the Aerodynamic Behavior of Rectangular Cylinders}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{3}
       \field{year}{2000}
+      \field{urldateera}{ce}
       \field{pages}{209\bibrangedash 220}
       \range{pages}{12}
       \verb{doi}
@@ -2073,7 +2154,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners: https://www.udemy.com/course/openfoam... Link for the previous video on the flow over a prism:    • 2D Flow over prism - {OpenFOAM} tutorial (si...}
+      \field{abstract}{Our Udemy course on {OpenFOAM} for Absolute Beginners...}
       \field{day}{21}
       \field{month}{1}
       \field{title}{Prism Drag and Lift Calculation and Plotting {|} Cd Cl {|} {OpenFOAM} {CFD} {|} {simpleFoam}}
@@ -2148,9 +2229,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-05-22}
       \field{title}{Introduction to Boundary Layers}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{n.d.}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/introduction-to-boundary-layers/
       \endverb
@@ -2184,9 +2268,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}
-      \field{note}{Accessed: 2025-05-20}
       \field{title}{Reynolds Number}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2016}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://farside.ph.utexas.edu/teaching/336L/Fluidhtml/node116.html
       \endverb
@@ -2285,9 +2372,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the 15th Brazilian Congress of Mechanical Engineering (COBEM 1999)}
-      \field{note}{Accessed: 2025-07-22}
       \field{title}{Strouhal Number Determination for Several Regular Polygon Cylinders for Reynolds Number up to 600}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{1999}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.abcm.org.br/anais/cobem/1999/pdf/AACFFE.pdf
       \endverb
@@ -2325,8 +2415,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Resonance}
       \field{title}{A Stroll down Kármán Street}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{10}
       \field{year}{2005}
+      \field{urldateera}{ce}
       \field{pages}{25\bibrangedash 37}
       \range{pages}{13}
       \verb{doi}
@@ -2362,7 +2456,6 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{isbn}{978-94-010-4111-9}
-      \field{note}{Softcover reprint of the hardcover 1st edition, originally published in 1995}
       \field{series}{Fluid Mechanics and Its Applications}
       \field{title}{Fluid Vortices}
       \field{volume}{30}
@@ -2409,7 +2502,11 @@
       \field{booktitle}{Encyclopedia of Atmospheric Sciences}
       \field{isbn}{9780122270901}
       \field{title}{Vorticity}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2003}
+      \field{urldateera}{ce}
       \field{pages}{2500\bibrangedash 2504}
       \range{pages}{5}
       \verb{doi}
@@ -2431,9 +2528,12 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-02-27}
       \field{title}{IB Physics Guide 2025}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
       \field{year}{2023}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://peda.net/kuopio/lukiot/lyseonlukio/ib/syllabukset/group-4-sciences/physics-2025.pdf:file/download/c56a8c8592e847bbb555540b087b0990d1ade5b0/Physics%2C%202025.pdf
       \endverb
@@ -2505,7 +2605,11 @@
       \field{booktitle}{Turbomachinery}
       \field{isbn}{978-953-51-3349-0}
       \field{title}{On Turbulence and its Effects on Aerodynamics of Flow through Turbine Stages}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2017}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.5772/intechopen.68205
       \endverb
@@ -2535,9 +2639,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{From the course "OpenFOAM for Absolute Beginners", Codeynamics on Udemy}
       \field{title}{Lecture: Introduction to vortex shedding simulation using OpenFOAM}
+      \field{urlday}{12}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.udemy.com/course/openfoam-for-absolute-beginners/learn/lecture/44356412
       \endverb
@@ -2633,9 +2740,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the Seventh International Colloquium on Bluff Body Aerodynamics and Applications (BBAA7)}
-      \field{note}{Accessed: 2025-05-04}
       \field{title}{A review of cases of vortex shedding excitation in bridges: Sectional models testing}
+      \field{urlday}{4}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://iawe.org/Proceedings/BBAA7/J.Jurado.pdf
       \endverb
@@ -2663,9 +2773,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{8}
-      \field{note}{Accessed: 2025-04-16}
       \field{title}{What is Boundary Layer in Fluid Mechanics}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.youtube.com/watch?v=ahohd8ceGR4
       \endverb
@@ -2715,9 +2828,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-04-30}
       \field{title}{Non-Newtonian Fluid}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.ebsco.com/research-starters/science/non-newtonian-fluid
       \endverb
@@ -2747,9 +2863,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2025-05-13}
       \field{title}{Reynolds Number}
+      \field{urlday}{13}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.grc.nasa.gov/www/k-12/airplane/reynolds.html
       \endverb
@@ -2782,9 +2901,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Symposium held in Trondheim, Norway, June 24--28, 1996. Accessed: 2025-06-22}
       \field{title}{Twenty-First Symposium on Naval Hydrodynamics}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
       \field{year}{1997}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://doi.org/10.17226/5870
       \endverb
@@ -2840,7 +2962,11 @@
       \field{booktitle}{Encyclopedia of Mathematical Physics}
       \field{isbn}{9780125126663}
       \field{title}{Vortex Dynamics}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2006}
+      \field{urldateera}{ce}
       \field{pages}{390\bibrangedash 399}
       \range{pages}{10}
       \verb{doi}
@@ -2922,7 +3048,11 @@
       \field{edition}{3}
       \field{isbn}{9780122274107}
       \field{title}{Fluid Dynamics}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{year}{2002}
+      \field{urldateera}{ce}
       \field{pages}{31\bibrangedash 43}
       \range{pages}{13}
       \verb{doi}
@@ -2940,7 +3070,7 @@
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse. Und jetzt ist er schneller als je zuvor, dank Input Shaper und Pressure Advance! Wir haben unser Bestes getan, um so viele Funktionen wie möglich in den niedrigsten Preis zu quetschen. Der {MINI}+ ist ein schneller und zuverlässiger Drucker, der sich sowohl für Anfänger als auch für fortgeschrittene Benutzer eignet, die eine Druckfarm aufbauen wollen. Das Paket enthält ein glattes {PEI} Druckblech. Wenn Sie sich für den teilmontierten {MINI}+ entscheiden, erhalten Sie außerdem kostenlosen Zugang zu unserem Online-Kurs: 3D-Drucken und Modellieren für Einsteiger.}
+      \field{abstract}{Der Original Prusa {MINI}+ ist ein großer Drucker in einem kompakten Gehäuse...}
       \field{langid}{ger}
       \field{title}{Original Prusa {MINI}+ Halbmontiert {|} Original Prusa 3D-Drucker direkt von Josef Prusa}
       \field{titleaddon}{Prusa3D by Josef Prusa}
@@ -2960,7 +3090,7 @@
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources. It can be run on supercomputers to analyze datasets of petascale size as well as on laptops for smaller data.}
+      \field{abstract}{{ParaView} was developed to analyze extremely large datasets using distributed memory computing resources.}
       \field{langid}{american}
       \field{title}{{ParaView} - Open-source, multi-platform data analysis and visualization application}
       \field{urlday}{21}
@@ -3036,9 +3166,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
-      \field{note}{Unpublished}
       \field{title}{Computational modelling of vortex shedding flows}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
       \field{year}{1998}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://openaccess.city.ac.uk/id/eprint/7565/
       \endverb
@@ -3097,8 +3230,12 @@
       \field{journaltitle}{Journal of Wind Engineering and Industrial Aerodynamics}
       \field{number}{4--5}
       \field{title}{Vortex shedding from a circular cylinder in a smooth and wired configuration: Comparison between 3D LES simulation and experimental analysis}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{volume}{90}
       \field{year}{2002}
+      \field{urldateera}{ce}
       \field{pages}{475\bibrangedash 489}
       \range{pages}{15}
       \verb{doi}
@@ -3184,8 +3321,12 @@
       \field{journaltitle}{Fluids}
       \field{number}{12}
       \field{title}{The Reynolds Number: A Journey from Its Origin to Modern Applications}
+      \field{urlday}{15}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{9}
       \field{year}{2024}
+      \field{urldateera}{ce}
       \field{pages}{299}
       \range{pages}{1}
       \verb{doi}
@@ -3246,9 +3387,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the 15th International Flow Measurement Conference (FLOMEKO)}
       \field{month}{10}
-      \field{note}{Accessed: 2025-06-22}
       \field{title}{Development of a vortex flowmeter with good performance at low‐flowrate}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
       \field{year}{2010}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
       \verb{urlraw}
@@ -3320,8 +3464,12 @@
       \field{journaltitle}{Journal of Marine Science and Engineering}
       \field{number}{2}
       \field{title}{Numerical Study on Hydrodynamic Performance and Vortex Dynamics of Multiple Cylinders Under Forced Vibration at Low Reynolds Number}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{13}
       \field{year}{2025}
+      \field{urldateera}{ce}
       \field{pages}{214}
       \range{pages}{1}
       \verb{doi}
@@ -3376,8 +3524,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Fluid Mechanics}
       \field{title}{Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
       \field{volume}{949}
       \field{year}{2022}
+      \field{urldateera}{ce}
       \field{pages}{A11}
       \range{pages}{-1}
       \verb{doi}
@@ -3463,7 +3615,7 @@
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Water moving around a cylindrical pendulum makes the cylinder swing at the vortex shedding frequency. What it Shows:When fluid flows around a cylindrical object, there is}
+      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
       \field{langid}{english}
       \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
       \field{urlday}{23}
@@ -3482,7 +3634,7 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
-      \field{abstract}{Free online calculator - figures and tables with viscosity of water at temperatures ranging 0 to 360°C (32 to 675°F) - Imperial and {SI} Units.}
+      \field{abstract}{Free online calculator - figures and tables with viscosity of water...}
       \field{langid}{english}
       \field{title}{Water - Dynamic and Kinematic Viscosity at Various Temperatures and Pressures}
       \field{urlday}{13}
@@ -3581,7 +3733,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The airfoil {DU}91-W2-150 was investigated in the Low Speed Low Turbulence Tunnel at the Delft University of Technology to study unsteady aerodynamics. This experimental study tested the airfoil under a wide range of angles of attack ({AoA}) from 0° to 310° at three Reynolds numbers ({\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}) from {\textbackslash} 2{\textbackslash}times 10{\textasciicircum}5 {\textbackslash} to {\textbackslash} 8{\textbackslash}times 10{\textasciicircum}5 {\textbackslash}. Pressure on the airfoil surface was measured and particle image velocimetry ({PIV}) measurements were conducted to capture the flow field in the wake. By examining the force coefficient and comparing the wake contours, it shows that an upwind concave surface provides a higher load compared to a convex surface upwind case, highlighting the critical role of surface shape in aerodynamics. When comparing separation at specific locations along the chord for all three {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} values, it is observed that as {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} increases, separation tends to occur at lower {AoA}, both for positive stall and negative stall. The examination of the aerodynamic force variation indicates that, during reverse flow, fluctuations are more pronounced compared to forward flow. This is owing to separation occurring at the aerodynamic leading edge (geometric trailing edge) in reverse flow. In terms of vortex shedding frequency, the study found a nearly constant normalized Strouhal number ({\textbackslash} St {\textbackslash}) of 0.16 across various {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash} and {AoA} values in fully separated regions, indicating a consistent pattern under these conditions. However, a slight increase in {\textbackslash} St {\textbackslash}, between 0.16 and 0.20, was observed for {AoA} values exceeding 180°, possibly due to the convex curvature of the airfoil in the upwind direction. In conclusion, this research not only corroborates previous findings for small {AoA} values but also adds new data on the aerodynamic behavior of the {DU}91-W2-150 airfoil under large {AoA} values, offering various perspectives on the effects of surface curvature, {\textbackslash} {\textbackslash}{mathitøperatornameRe} {\textbackslash}, and flow conditions on key aerodynamic parameters.}
       \field{issn}{1099-1824}
       \field{journaltitle}{Wind Energy}
       \field{langid}{english}
@@ -3605,7 +3756,6 @@
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/we.2974
       \endverb
-      \keyw{airfoil Strouhal number,large angle of attack,particle image velocimetry ({PIV}),pressure measurement,unsteady aerodynamics,vortex shedding}
     \endentry
   \enddatalist
 \endrefsection
