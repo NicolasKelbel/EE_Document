@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.13)  10 OCT 2025 17:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.13)  10 OCT 2025 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2416,7 +2416,7 @@ rusa 3D-Drucker direkt von Josef Prusa \TU/TimesNewRoman(0)/m/n/12 [Prusa3D
 
 [55] [56] [57] (appendices/appendixA.tex) (appendices/appendixB.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 4.
+nput line 5.
 
 (code/dataAnalysis.py [58
 
@@ -2428,7 +2428,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1716030890E0807E387522AFAE1893F8;6366.
+(rerunfilecheck)             Checksum: F985A970E7C483CA37480F486CDAE07E;6469.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -2436,7 +2436,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  69148 strings out of 409617
  1672702 string characters out of 5774013
- 2832101 words of memory out of 5000000
+ 2831086 words of memory out of 5000000
  90334 multiletter control sequences out of 15000+600000
  568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
