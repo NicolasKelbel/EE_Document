@@ -4,7 +4,7 @@
 \contentsline {figure}{\numberline {4}{\ignorespaces Examples of the bluff bodies}}{15}{figure.caption.7}%
 \contentsline {figure}{\numberline {5}{\ignorespaces The fluid domain with dimensions. Example with bluff body $n = 2$. Inspired by \blx@tocontentsinit {0}\textcite {comflics_openfoam_2014}}}{16}{figure.caption.8}%
 \contentsline {figure}{\numberline {6}{\ignorespaces The fluid domain with dimensions and the BOI. Example with bluff body $n = 2$. Inspired by \blx@tocontentsinit {0}\textcite {comflics_openfoam_2014}}}{17}{figure.caption.9}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Example of mesh of fluid domain with bluff body $n = 2$. Visualized in ParaView}}{18}{figure.caption.10}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Example of mesh of fluid domain with bluff body $n = 2$. Visualized in ParaView.}}{18}{figure.caption.10}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Overview of the simulation directory structure. Modified files are highlighted blue. Created files and folders are highlighted green }}{19}{figure.caption.11}%
 \contentsline {figure}{\numberline {9}{\ignorespaces The setup for the practical investigation (angle 1)}}{22}{figure.caption.14}%
 \contentsline {figure}{\numberline {10}{\ignorespaces The setup for the practical investigation (angle 2)}}{23}{figure.caption.15}%
