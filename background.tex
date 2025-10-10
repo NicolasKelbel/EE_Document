@@ -19,7 +19,7 @@ Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal 
 	\mathrm{Re} = \frac{U L}{\nu}
 	\label{eq:reynoldsNumber}
 \end{equation}
-where $U$ is the free-stream velocity (\si{\meter\per\second}), $L$ is the characteristic length (\si{\meter}), and $\nu$ is the kinematic viscosity (\si{\meter\squared\per\second}) \parencite{noauthor_relationship_nodate}. This number allows one to classify if a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
+where $U$ is the free-stream velocity (\si{\meter\per\second}), $L$ is the characteristic length (\si{\meter}), and $\nu$ is the kinematic viscosity (\si{\meter\squared\per\second}) \parencite{noauthor_relationship_nodate}. This number allows one to classify whether a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow, though the exact threshold values vary between sources \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
 \begin{equation}
 	\mathrm{St} = \frac{f L}{U}
 	\label{eq:strouhalNumber}
@@ -312,7 +312,7 @@ There is a decrease in strength of the vortex being created due to \textit{Flow 
 When considering the vortex being created from the right shear layer ($SL_1$), the fluid on the right of the vortex will have the same velocity as the free stream velocity $U$, whereas the velocity on the left of the vortex will be of a smaller magnitude and in the opposite direction of the main flow. According to Bernoulli’s equation, a region of higher velocity must have a lower pressure and vice versa. Therefore, the left region of the vortex will have a higher pressure than the right region, causing a lift force which acts on the bluff body normal to the flow. The oscillation of this lift force coincides with the vortex shedding frequency $f$.
 
 \subsection{Hypothesis}
-It was hypothesized that as the number of streamwise faces of the bluff body increases from 2 to 12, the vortex shedding frequency in laminar flow will decrease. This trend is attributed to a decrease in the Strouhal number \textemdash\ as shown by \textcite{goncalves1999strouhal} \textemdash\ which is directly proportional to the vortex shedding frequency, as seen in \Cref{eq:strouhalNumber}. 
+It was hypothesized that as the number of streamwise faces of the bluff body increases from 2 to 12, the vortex shedding frequency in laminar flow will decrease. This trend is attributed to a decrease in the Strouhal number \textemdash\ as shown by \textcite{goncalves1999strouhal} \textemdash\ which is directly proportional to the vortex shedding frequency (see \Cref{eq:strouhalNumber}). 
 
 
 

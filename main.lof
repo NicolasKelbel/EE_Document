@@ -1,7 +1,7 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Von Kármán Street behind a cylinder in a non-rotating 2D flow for Re = 140, fluorescein visualization \blx@tocontentsinit {0}\parencite [144]{ilieva2017turbulence}}}{8}{figure.caption.1}%
 \contentsline {figure}{\numberline {2}{\ignorespaces Depiction of boundary layer and the velocity gradient formed. The red dotted line depicts the outline of the boundary layer. Inspired by \blx@tocontentsinit {0}\textcite {erau_boundarylayer}.}}{9}{figure.caption.2}%
 \contentsline {figure}{\numberline {3}{\ignorespaces The mechanism of vortex shedding. Inspired by \blx@tocontentsinit {0}\textcite [3]{shen2010_vortexmeter}}}{10}{figure.caption.3}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Examples of bluff bodies}}{15}{figure.caption.7}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Examples of the bluff bodies}}{15}{figure.caption.7}%
 \contentsline {figure}{\numberline {5}{\ignorespaces The fluid domain with dimensions. Example with bluff body $n = 2$. Inspired by \blx@tocontentsinit {0}\textcite {comflics_openfoam_2014}}}{16}{figure.caption.8}%
 \contentsline {figure}{\numberline {6}{\ignorespaces The fluid domain with dimensions and the BOI. Example with bluff body $n = 2$. Inspired by \blx@tocontentsinit {0}\textcite {comflics_openfoam_2014}}}{17}{figure.caption.9}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Example of mesh of fluid domain with bluff body $n = 2$. Visualized in ParaView}}{18}{figure.caption.10}%
@@ -9,7 +9,7 @@
 \contentsline {figure}{\numberline {9}{\ignorespaces The setup for the practical investigation (angle 1)}}{22}{figure.caption.14}%
 \contentsline {figure}{\numberline {10}{\ignorespaces The setup for the practical investigation (angle 2)}}{23}{figure.caption.15}%
 \contentsline {figure}{\numberline {11}{\ignorespaces A bluff body positioned in the flow tank with potassium permanganate crystals spread in front of it}}{24}{figure.caption.16}%
-\contentsline {figure}{\numberline {12}{\ignorespaces The 3D-printed bluff bodies. The numbers correspond to the number of inlet-facing sides}}{25}{figure.caption.17}%
+\contentsline {figure}{\numberline {12}{\ignorespaces The 3D-printed bluff bodies of same height. The numbers correspond to the number of inlet-facing sides}}{25}{figure.caption.17}%
 \contentsline {figure}{\numberline {13}{\ignorespaces Lift coefficient $C_L$ over time for the bluff body $n=2$. The red dashed line indicates the start of periodic vortex shedding at $t = \SI {1}{\second }$.}}{29}{figure.caption.19}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Lift coefficient $C_L$ over time for the bluff body $n=3$. The red dashed line indicates the start of periodic vortex shedding at $t = \SI {1}{\second }$.}}{30}{figure.caption.20}%
 \contentsline {figure}{\numberline {15}{\ignorespaces Lift coefficient $C_L$ over time for the bluff body $n=4$. The red dashed line indicates the start of periodic vortex shedding at $t = \SI {1}{\second }$.}}{30}{figure.caption.21}%
