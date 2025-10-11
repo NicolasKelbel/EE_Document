@@ -8,18 +8,22 @@
 \end{equation}
 where $f$ is frequency in \si{\hertz} and $T$ is time period (\si{\second}). This relationship is later utilized to extrapolate the vortex shedding frequency.
 \subsection{Fundamentals of Fluid Dynamics}
-Firstly, the definition of vorticity, a vortex and a bluff body must be understood. \textbf{Vorticity} is the vector quantity representing the rotational motion in a velocity field \parencite[p.~2500]{holton2003_vorticity}. A \textbf{vortex} is the circular flow of a fluid around a central axis, characterized by the vorticity in the fluid \parencite[p.~390]{nitsche2006_vortex}. A \textbf{bluff body} is defined as an object that, due to its geometry, induces significant regions of separated flow \parencite[p.~561]{navalhydro1997}. 
+\textbf{Vorticity} is the vector quantity representing the rotational motion in a velocity field \parencite[p.~2500]{holton2003_vorticity}. A \textbf{vortex} is the circular flow of a fluid around a central axis, characterized by the vorticity in the fluid \parencite[p.~390]{nitsche2006_vortex}. A \textbf{bluff body} is defined as an object that, due to its geometry, induces significant regions of separated flow \parencite[p.~561]{navalhydro1997}. 
 
-Furthermore, one must distinguish between a Newtonian and a non-Newtonian fluid. A \textbf{Newtonian fluid} is a fluid in which the viscosity \textemdash\ a measure of internal friction \textemdash\ remains constant despite applied force. A \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
+A \textbf{Newtonian fluid} is a fluid in which the viscosity \textemdash\ a measure of internal friction \textemdash\ remains constant despite applied force. A \textbf{non-Newtonian} fluid exhibits a viscosity which varies with the applied force \parencite{mohn2024}. 
 
-When investigating vortex shedding, there are two key factors of flow which must be considered: laminar or turbulent flow, and compressible or incompressible flow. \textbf{Laminar flow} is characterized by the layered motion of fluid particles, with no significant disturbance between the parallel layers \parencite[pp.~40--41]{versteeg2007}. On the other hand, \textbf{turbulent flow} is known to have continuous, irregular fluctuations in velocity and pressure throughout the fluid \parencite[p.~40]{versteeg2007}. A \textbf{compressible flow} is a flow in which the fluid does not have a uniform density \parencite[p.~31]{oran2002}. Conversely, in an \textbf{incompressible flow} the fluid has a constant density \parencite[p.~12]{versteeg2007}. 
+\textbf{Laminar flow} is characterized by the layered motion of fluid particles, with no significant disturbance between the parallel layers \parencite[pp.~40--41]{versteeg2007}. On the other hand, \textbf{turbulent flow} is known to have continuous, irregular fluctuations in velocity and pressure throughout the fluid \parencite[p.~40]{versteeg2007}. A \textbf{compressible flow} is a flow in which the fluid does not have a uniform density \parencite[p.~31]{oran2002}. Conversely, in an \textbf{incompressible flow} the fluid has a constant density \parencite[p.~12]{versteeg2007}. 
 
-Lastly, two dimensionless numbers must be considered: the Reynolds and Strouhal number. The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds}. Given by the equation 
+\clearpage
+
+The \textbf{Reynolds number} expresses the “ratio between inertial and viscous forces” \parencite{nasa_reynolds}. Given by the equation 
 \begin{equation}
 	\mathrm{Re} = \frac{U L}{\nu}
 	\label{eq:reynoldsNumber}
 \end{equation}
-where $U$ is the free-stream velocity (\si{\meter\per\second}), $L$ is the characteristic length (\si{\meter}), and $\nu$ is the kinematic viscosity (\si{\meter\squared\per\second}) \parencite{noauthor_relationship_nodate}. This number allows one to classify whether a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow, though the exact threshold values vary between sources \parencite{saldana2024_reynolds}. The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
+where $U$ is the free-stream velocity (\si{\meter\per\second}), $L$ is the characteristic length (\si{\meter}), and $\nu$ is the kinematic viscosity (\si{\meter\squared\per\second}) \parencite{noauthor_relationship_nodate}. This number allows one to classify whether a flow is laminar or turbulent, with low Reynolds numbers signifying laminar flow and high Reynolds number indicating turbulent flow, though the exact threshold values vary between sources \parencite{saldana2024_reynolds}. 
+
+The \textbf{Strouhal number} is a dimensionless parameter used to describe the periodicity of vortex shedding \parencite[p.~211]{choi2000strouhal}. It is given by the equation 
 \begin{equation}
 	\mathrm{St} = \frac{f L}{U}
 	\label{eq:strouhalNumber}
@@ -27,6 +31,8 @@ where $U$ is the free-stream velocity (\si{\meter\per\second}), $L$ is the chara
 where $f$ is the frequency of vortex shedding (\si{\hertz}), $L$ is the characteristic length (\si{\meter}), and $U$ is the free-stream velocity (\si{\meter\per\second}). A high Strouhal number \textemdash\ assuming both $L$ and $U$ remain constant \textemdash\ indicates an increased $f$, conversely a low Strouhal number indicates a lower $f$. Both the dimensions and geometry of the bluff body impacts the Strouhal number, and therefore the vortex shedding frequency \parencite[32]{ibrahim_peminggiran_nodate}.
 
 This essay will analyze vortex shedding in a Newtonian fluid \textemdash\ water \textemdash\ which exhibits laminar and incompressible flow. A Reynolds number of 100 was targeted in order to ensure laminar flow with periodic vortex shedding \parencite[2]{alammar_wake_nodate}; however, due to practical limitations, this was only fully realized theoretically and not in practice. Given the very limited research in three-dimensional vortex shedding \parencite[63]{buresti1998}, this paper concerns itself with vortex shedding in two dimensions. While the simulation was conducted in a two-dimensional domain, the practical experiment could only approximate two-dimensional flow.
+
+\clearpage
 
 \subsection{Vortex Shedding and the Kármán Vortex Street}
 Vortex shedding in a two-dimensional plane can be defined as the phenomenon in which localized regions of high vorticity are periodically released into the wake from alternating sides of a bluff body, each exhibiting an opposite rotational direction \parencite[156]{green1995fluid}. The Kármán Vortex Street refers to the distinct flow pattern created, a repeated structure of counter-rotating vortices \parencite[26]{govardhan2005karman}.
