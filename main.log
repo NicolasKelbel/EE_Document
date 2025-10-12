@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  12 OCT 2025 12:33
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  12 OCT 2025 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1970,14 +1970,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 ]
 \unitL=\skip126
 
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 149--150
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 152--153
  [] 
  []
 
 [16
 
 ]
-Overfull \hbox (13.72011pt too wide) in paragraph at lines 211--212
+Overfull \hbox (13.72011pt too wide) in paragraph at lines 214--215
  [] 
  []
 
@@ -1985,144 +1985,144 @@ File: images/2FaceMesh.png Graphic file (type bmp)
 <images/2FaceMesh.png>
 [17] [18]
 LaTeX Font Info:    Font shape `TU/LucidaConsole(0)/m/n' will be
-(Font)              scaled to size 10.12152pt on input line 279.
+(Font)              scaled to size 10.12152pt on input line 282.
 
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 326.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 329.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []\TU/LucidaConsole(0)/m/n/12 para.foam\TU/TimesNewRoman(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 defines,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []\TU/LucidaConsole(0)/m/n/12 polyMesh/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []\TU/LucidaConsole(0)/m/n/12 para.foam
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 visualizes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 mesh of fluid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|[]\TU/LucidaConsole(0)/m/n/12 mesh.msh \TU/TimesNewRoman(0)/m/n/12 de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 contains and
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 326--326
+Underfull \hbox (badness 1237) in paragraph at lines 329--329
 []\TU/LucidaConsole(0)/m/n/12 para.foam \TU/TimesNewRoman(0)/m/n/12 visu-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 326--326
+Underfull \hbox (badness 2005) in paragraph at lines 329--329
 []|\TU/TimesNewRoman(0)/m/n/12 The fluid domain was ad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 justed to conform with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 the computational limits
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 326--326
+Underfull \hbox (badness 2035) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 discussed in []Section 5.2.1[],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 & Malalasekera, []2007[],
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 326--326
+Underfull \hbox (badness 2393) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 merical stability (Caminha,
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 326--326
+Underfull \hbox (badness 1189) in paragraph at lines 329--329
 \TU/TimesNewRoman(0)/m/n/12 efficient $\OML/cmm/m/it/12 C[]$ \TU/TimesNewRoman(
 0)/m/n/12 (Codeynamics,
  []
 
 [19]
-Underfull \hbox (badness 3158) in paragraph at lines 351--351
+Underfull \hbox (badness 3158) in paragraph at lines 354--354
 []|\TU/TimesNewRoman(0)/m/n/12 The simulations were per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []|\TU/TimesNewRoman(0)/m/n/12 Created a re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \TU/TimesNewRoman(0)/m/n/12 porting function
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 351--351
+Underfull \hbox (badness 6477) in paragraph at lines 354--354
 \TU/TimesNewRoman(0)/m/n/12 variation of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
 \TU/TimesNewRoman(0)/m/n/12 throughout the
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 351--351
+Underfull \hbox (badness 1881) in paragraph at lines 354--354
 []|\TU/TimesNewRoman(0)/m/n/12 The kinematic viscosity of
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 351--351
+Underfull \hbox (badness 3118) in paragraph at lines 354--354
 \TU/TimesNewRoman(0)/m/n/12 water at 20$[]$ is approxi-
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 351--351
+Underfull \hbox (badness 2142) in paragraph at lines 354--354
 \TU/TimesNewRoman(0)/m/n/12 of $\OT1/cmr/m/n/12 100$ \TU/TimesNewRoman(0)/m/n/1
 2 using []Equation (2)[]
  []
@@ -2131,7 +2131,7 @@ Underfull \hbox (badness 2142) in paragraph at lines 351--351
 File: images/overallSetup1.jpg Graphic file (type bmp)
 <images/overallSetup1.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 397--398
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 400--401
  [][] 
  []
 
@@ -2139,7 +2139,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 397--398
 File: images/overallSetup2.jpg Graphic file (type bmp)
 <images/overallSetup2.jpg>
 
-Overfull \hbox (56.90527pt too wide) in paragraph at lines 441--442
+Overfull \hbox (56.90527pt too wide) in paragraph at lines 444--445
  [][] 
  []
 
@@ -2147,7 +2147,7 @@ Overfull \hbox (56.90527pt too wide) in paragraph at lines 441--442
 File: images/shapeInTank.jpg Graphic file (type bmp)
 <images/shapeInTank.jpg>
 
-Overfull \hbox (61.12825pt too wide) in paragraph at lines 467--468
+Overfull \hbox (61.12825pt too wide) in paragraph at lines 470--471
  [][] 
  []
 
@@ -2182,79 +2182,82 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-]
+] [29]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 64.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 64.
+(hyperref)                removing `math shift' on input line 66.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 64.
+(hyperref)                removing `subscript' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 66.
 
 File: images/2face_graph.pdf Graphic file (type pdf)
 <use images/2face_graph.pdf>
 File: images/3face_graph.pdf Graphic file (type pdf)
 <use images/3face_graph.pdf>
-[29]
 File: images/4face_graph.pdf Graphic file (type pdf)
 <use images/4face_graph.pdf>
+[30
+
+]
 File: images/5face_graph.pdf Graphic file (type pdf)
 <use images/5face_graph.pdf>
- [30]
 File: images/6face_graph.pdf Graphic file (type pdf)
 <use images/6face_graph.pdf>
+ [31]
 File: images/7face_graph.pdf Graphic file (type pdf)
 <use images/7face_graph.pdf>
- [31]
 File: images/8face_graph.pdf Graphic file (type pdf)
 <use images/8face_graph.pdf>
+ [32]
 File: images/9face_graph.pdf Graphic file (type pdf)
 <use images/9face_graph.pdf>
- [32]
 File: images/10face_graph.pdf Graphic file (type pdf)
 <use images/10face_graph.pdf>
+ [33]
 File: images/11face_graph.pdf Graphic file (type pdf)
 <use images/11face_graph.pdf>
- [33]
 File: images/12face_graph.pdf Graphic file (type pdf)
 <use images/12face_graph.pdf>
+ [34] [35]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 148.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 145.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 145.
+(hyperref)                removing `math shift' on input line 148.
 
 File: images/2face_graph_sample_Calc.pdf Graphic file (type pdf)
 <use images/2face_graph_sample_Calc.pdf>
-[34]
-Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 171.
+(hyperref)                removing `math shift' on input line 174.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 171.
+(hyperref)                removing `math shift' on input line 174.
 
-[35]
+[36
+
+]
 File: images/overall.pdf Graphic file (type pdf)
 <use images/overall.pdf>
- [36]
+ [37]
 File: images/2Face/2Face_0s.jpg Graphic file (type bmp)
 <images/2Face/2Face_0s.jpg>
 File: images/2Face/2Face_1s.jpg Graphic file (type bmp)
@@ -2267,7 +2270,7 @@ File: images/2Face/2Face_4s.jpg Graphic file (type bmp)
 <images/2Face/2Face_4s.jpg>
 File: images/2Face/2Face_5s.jpg Graphic file (type bmp)
 <images/2Face/2Face_5s.jpg>
- [37]
+ [38]
 File: images/3Face/3Face_0s.jpg Graphic file (type bmp)
 <images/3Face/3Face_0s.jpg>
 File: images/3Face/3Face_1s.jpg Graphic file (type bmp)
@@ -2280,7 +2283,7 @@ File: images/3Face/3Face_4s.jpg Graphic file (type bmp)
 <images/3Face/3Face_4s.jpg>
 File: images/3Face/3Face_5s.jpg Graphic file (type bmp)
 <images/3Face/3Face_5s.jpg>
- [38]
+ [39]
 File: images/4Face/4Face_0s.jpg Graphic file (type bmp)
 <images/4Face/4Face_0s.jpg>
 File: images/4Face/4Face_1s.jpg Graphic file (type bmp)
@@ -2293,7 +2296,7 @@ File: images/4Face/4Face_4s.jpg Graphic file (type bmp)
 <images/4Face/4Face_4s.jpg>
 File: images/4Face/4Face_5s.jpg Graphic file (type bmp)
 <images/4Face/4Face_5s.jpg>
- [39]
+ [40]
 File: images/5Face/5Face_0s.jpg Graphic file (type bmp)
 <images/5Face/5Face_0s.jpg>
 File: images/5Face/5Face_1s.jpg Graphic file (type bmp)
@@ -2306,7 +2309,7 @@ File: images/5Face/5Face_4s.jpg Graphic file (type bmp)
 <images/5Face/5Face_4s.jpg>
 File: images/5Face/5Face_5s.jpg Graphic file (type bmp)
 <images/5Face/5Face_5s.jpg>
- [40]
+ [41]
 File: images/6Face/6Face_0s.jpg Graphic file (type bmp)
 <images/6Face/6Face_0s.jpg>
 File: images/6Face/6Face_1s.jpg Graphic file (type bmp)
@@ -2319,7 +2322,7 @@ File: images/6Face/6Face_4s.jpg Graphic file (type bmp)
 <images/6Face/6Face_4s.jpg>
 File: images/6Face/6Face_5s.jpg Graphic file (type bmp)
 <images/6Face/6Face_5s.jpg>
- [41]
+ [42]
 File: images/7Face/7Face_0s.jpg Graphic file (type bmp)
 <images/7Face/7Face_0s.jpg>
 File: images/7Face/7Face_1s.jpg Graphic file (type bmp)
@@ -2332,7 +2335,7 @@ File: images/7Face/7Face_4s.jpg Graphic file (type bmp)
 <images/7Face/7Face_4s.jpg>
 File: images/7Face/7Face_5s.jpg Graphic file (type bmp)
 <images/7Face/7Face_5s.jpg>
- [42]
+ [43]
 File: images/8Face/8Face_0s.jpg Graphic file (type bmp)
 <images/8Face/8Face_0s.jpg>
 File: images/8Face/8Face_1s.jpg Graphic file (type bmp)
@@ -2345,7 +2348,7 @@ File: images/8Face/8Face_4s.jpg Graphic file (type bmp)
 <images/8Face/8Face_4s.jpg>
 File: images/8Face/8Face_5s.jpg Graphic file (type bmp)
 <images/8Face/8Face_5s.jpg>
- [43]
+ [44]
 File: images/9Face/9Face_0s.jpg Graphic file (type bmp)
 <images/9Face/9Face_0s.jpg>
 File: images/9Face/9Face_1s.jpg Graphic file (type bmp)
@@ -2358,7 +2361,7 @@ File: images/9Face/9Face_4s.jpg Graphic file (type bmp)
 <images/9Face/9Face_4s.jpg>
 File: images/9Face/9Face_5s.jpg Graphic file (type bmp)
 <images/9Face/9Face_5s.jpg>
- [44]
+ [45]
 File: images/10Face/10Face_0s.jpg Graphic file (type bmp)
 <images/10Face/10Face_0s.jpg>
 File: images/10Face/10Face_1s.jpg Graphic file (type bmp)
@@ -2371,7 +2374,7 @@ File: images/10Face/10Face_4s.jpg Graphic file (type bmp)
 <images/10Face/10Face_4s.jpg>
 File: images/10Face/10Face_5s.jpg Graphic file (type bmp)
 <images/10Face/10Face_5s.jpg>
- [45]
+ [46]
 File: images/11Face/11Face_0s.jpg Graphic file (type bmp)
 <images/11Face/11Face_0s.jpg>
 File: images/11Face/11Face_1s.jpg Graphic file (type bmp)
@@ -2384,7 +2387,7 @@ File: images/11Face/11Face_4s.jpg Graphic file (type bmp)
 <images/11Face/11Face_4s.jpg>
 File: images/11Face/11Face_5s.jpg Graphic file (type bmp)
 <images/11Face/11Face_5s.jpg>
- [46]
+ [47]
 File: images/12Face/12Face_0s.jpg Graphic file (type bmp)
 <images/12Face/12Face_0s.jpg>
 File: images/12Face/12Face_1s.jpg Graphic file (type bmp)
@@ -2397,22 +2400,22 @@ File: images/12Face/12Face_4s.jpg Graphic file (type bmp)
 <images/12Face/12Face_4s.jpg>
 File: images/12Face/12Face_5s.jpg Graphic file (type bmp)
 <images/12Face/12Face_5s.jpg>
- [47]) [48]
+ [48]) [49]
 \openout2 = `conclusion.aux'.
 
 
-(conclusion.tex [49
+(conclusion.tex [50
 
 
 
-]) [50]
+]) [51]
 \openout2 = `evaluation.aux'.
 
- (evaluation.tex [51
+ (evaluation.tex [52
 
 
 
-]) [52] [53
+]) [53] [54
 
 
 ]
@@ -2429,19 +2432,19 @@ Overfull \hbox (4.71342pt too wide) in paragraph at lines 114--114
 NewRoman(0)/m/n/12 . Udemy.
  []
 
-[54]
+[55]
 Overfull \hbox (12.99612pt too wide) in paragraph at lines 114--114
 [][]\TU/TimesNewRoman(0)/m/it/12 Original Prusa MINI+ Halbmontiert | Original P
 rusa 3D-Drucker direkt von Josef Prusa \TU/TimesNewRoman(0)/m/n/12 [Prusa3D
  []
 
-[55] [56] [57] (appendices/appendixA.tex) (appendices/appendixB.tex
+[56] [57] [58] (appendices/appendixA.tex) (appendices/appendixB.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 5.
 
-(code/dataAnalysis.py [58
+(code/dataAnalysis.py [59
 
-] [59] [60])) [61] (main.aux (introduction.aux)
+] [60] [61])) [62] (main.aux (introduction.aux)
 (background.aux) (variables.aux) (equipment.aux) (method.aux) (results.aux)
 (conclusion.aux) (evaluation.aux))
  ***********
@@ -2457,10 +2460,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  69156 strings out of 409617
  1673567 string characters out of 5773608
- 2832112 words of memory out of 5000000
+ 2832128 words of memory out of 5000000
  90345 multiletter control sequences out of 15000+600000
  568304 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  137i,19n,129p,1612b,5461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (62 pages).
+Output written on main.pdf (63 pages).
