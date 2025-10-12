@@ -152,7 +152,7 @@ The geometry and mesh preparation for the simulation was conducted using Ansys W
 	\label{fig:fluidDomain}
 \end{figure}
 
-Given the computational limitations of the computer the simulation was conducted on, $\ell = \SI{1e-3}{\meter}$ was chosen \textemdash\ therefore $L = \SI{1e-3}{\meter}$.
+Given the computational limitations of the computer the simulation was conducted on, \newline $\ell = \SI{1e-3}{\meter}$ was chosen \textemdash\ therefore $L = \SI{1e-3}{\meter}$.
 
 
 In order to create the mesh necessary for the simulation, the \textit{All Triangles Method} was utilized. A global unit size of \SI{2.25e-3}{\meter} was applied to the fluid domain to ensure a computationally inexpensive resolution in regions of negligible interest. Conversely, near the edge of the bluff body, a significantly smaller unit size of \SI{2.0e-5}{\meter} was used, constituting an accurate depiction of the interaction between the fluid flow and the bluff body \parencite{ansys_learning_best_2023}. Furthermore, eight inflation layers were employed in order to precisely capture the gradients associated with boundary layer formation at the edges of the bluff body \parencite{fluid_mechanics_101_cfd_2021}. Moreover, a body of influence (BOI) with a sizing of \SI{2.0e-4}{\meter} was used \textemdash\ positioned as shown in \Cref{fig:fluidDomainWithBOI} \textemdash\ refining the mesh around the bluff body and also in the wake region (where the vortex shedding occurs), constituting for a more exact simulation.
