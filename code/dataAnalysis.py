@@ -26,7 +26,7 @@ with open(filename, "r") as f:
 time = np.array(time)
 Cl = np.array(Cl)
 
-# Remove transient startup
+# Remove startup phase
 mask = time > cutoff
 time = time[mask]
 Cl = Cl[mask]
@@ -78,16 +78,3 @@ print(f"Number of peaks:    {len(peak_indices)}")
 print(f"Number of troughs:  {len(trough_indices)}")
 print(f"\nAverage full period: {avg_full_period:.5f} s")
 
-# Plot 
-plt.figure(figsize=(10, 5.5))
-plt.plot(time, Cl_norm, label="$C_L$", linewidth=1)
-plt.plot(time[peak_indices], Cl_norm[peak_indices], 'ro', label="Peaks")
-plt.plot(time[trough_indices], Cl_norm[trough_indices], 'go', label="Troughs")
-plt.axvline(x=cutoff, color='red', linestyle='--', label="Start of steady-state phase")
-plt.xlabel("Time (s)")
-plt.ylabel("$C_L$ (normalized)")
-plt.title(f"Lift Coefficient Fluctuations for Bluff Body n={number_of_faces_of_bluff_body}")
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.show()

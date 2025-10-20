@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  12 OCT 2025 12:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  20 OCT 2025 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2444,7 +2444,7 @@ nput line 5.
 
 (code/dataAnalysis.py [59
 
-] [60] [61])) [62] (main.aux (introduction.aux)
+] [60])) [61] (main.aux (introduction.aux)
 (background.aux) (variables.aux) (equipment.aux) (method.aux) (results.aux)
 (conclusion.aux) (evaluation.aux))
  ***********
@@ -2458,12 +2458,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 69156 strings out of 409617
- 1673567 string characters out of 5773608
- 2832128 words of memory out of 5000000
- 90345 multiletter control sequences out of 15000+600000
- 568304 words of font info for 112 fonts, out of 8000000 for 9000
+ 69147 strings out of 409617
+ 1673736 string characters out of 5773608
+ 2799213 words of memory out of 5000000
+ 90335 multiletter control sequences out of 15000+600000
+ 568312 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 137i,19n,129p,1612b,5461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 137i,19n,129p,1612b,5549s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (63 pages).
+Output written on main.pdf (62 pages).
