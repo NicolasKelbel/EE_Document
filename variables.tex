@@ -1,37 +1,50 @@
 \section{Variables}
 
+\textbf{Independent Variable}: Number of streamwise faces $n$ of the bluff body (ranging from 2 to 12) 
+
+\vspace{1em}
+
+\noindent \textbf{Dependent Variable}: The vortex shedding frequency (\si{\hertz}) (see \Cref{sec:vortexSheddingFreq})
+
+\subsection{Constant Variables of Theoretical Investigation}
+
 \begin{table}[H]
 	\centering
-	\renewcommand{\arraystretch}{1.3}
-	\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{5.2cm}|X|}
-		\hline
-		\textbf{Independent Variable} & Number of streamwise faces $n$ of the bluff body (ranging from 2 to 12) \\
-		\hline
-		\textbf{Dependent Variable} & The vortex shedding frequency (\si{\hertz}) \\
-		\hline
-		\textbf{Constant Variables (Theoretical Investigation)} &
-		\begin{itemize}[leftmargin=1.5em, itemsep=2pt, topsep=0pt, label=--]
-			\item Overall length of bluff body i.e. the characteristic length (\si{\meter})
-			\item Simulation settings (detailed in \Cref{sec:simulationSettings})
-			\item Fluid domain dimensions (\si{\meter})
-			\item Mesh resolution (\si{\meter})
-		\end{itemize} \\
-		\hline
-		\textbf{Constant Variables (Practical Investigation)} &
-		\begin{itemize}[leftmargin=1.5em, itemsep=2pt, topsep=0pt, label=--]
-			\item Overall length of bluff body i.e. the characteristic length (\si{\meter})
-			\item Fluid used (water)
-			\item Water temperature (\si{\celsius})
-			\item Flow velocity (\si{\meter\per\second})
-			\item Position of bluff body
-			\item Lighting conditions
-			\item Camera setup and settings
-			\item Measurement duration (\si{\minute})
-			\item Material and surface finish of bluff bodies
-		\end{itemize} \\
-		\hline
-	\end{tabularx}
-	\caption{Overview of variables in the investigation.}
-	\label{tab:variables}
+	\makebox[\linewidth][c]{
+		\begin{tabularx}{1.2\textwidth}{|X|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Constant Variables} & \textbf{How it is kept constant} & \textbf{Justification} \\ \hline
+			Overall length of bluff body i.e. the characteristic length (\si{\meter}) & The bluff bodies were constructed in Ansys Workbench with identical overall lengths & Impacts the Strouhal number and in turn the vortex shedding frequency (see \Cref{eq:strouhalNumber}) \\\hline
+			Simulation settings & Identical simulation settings were used for each trial & Various parameters could impact the vortex shedding frequency outside the intended variation due to the independent variable (detailed in \Cref{sec:simulationSettings}) \\\hline
+			Fluid domain dimensions (\si{\meter}) & The fluid domains were established with the same dimensions & Impacts the development of the flow and therefore the vortex shedding frequency\\\hline
+			Mesh resolution (\si{\meter}) & The meshes were made using identical parameters & Standardizes numerical uncertainties across all trials \parencite{city7565}\\\hline
+		\end{tabularx}
+	}
 \end{table}
+
+
+\subsection{Constant Variables of Practical Investigation}
+
+\begin{table}[H]
+	\centering
+	\makebox[\linewidth][c]{
+		\begin{tabularx}{1.2\textwidth}{|X|p{6cm}|p{6cm}|}
+			\hline
+			\textbf{Constant Variables} & \textbf{How it is kept constant} & \textbf{Justification} \\ \hline
+			Overall length of bluff body i.e. the characteristic length (\si{\meter}) & Bluff bodies constructed and 3D-printed with equal overall lengths & Impacts the Strouhal number and in turn the vortex shedding frequency (see \Cref{eq:strouhalNumber}) \\\hline
+			Fluid used (water) & Flow tank filled with water & Different fluids have varied kinematic viscosities, altering the Reynolds number \\\hline
+			Water temperature (\si{\celsius}) & The trials were conducted in one setting with constant room temperature & Temperature impacts kinematic viscosities, altering the Reynolds number \parencite{noauthor_relationship_nodate} \\\hline
+			Flow velocity (\si{\meter\per\second}) & The setting of the water pump and regulation value were kept constant & Flow velocity impacts the Reynolds number which should be kept constant to ensure identical flow conditions\\\hline
+			Material and surface finish of bluff bodies & The bodies were 3D-printed utilizing the same material & Material inconsistencies disrupt the flow, impacting the vortex shedding frequency \\\hline
+			Measurement duration (\si{\minute}) & Each bluff body was recorded for an equal duration & Ensuring consistency when determining the vortex shedding frequency \\\hline
+			Lighting conditions
+			Camera setup and lighting conditions & Camera settings and the lamp positioning and brightness remain unchanged & The vortices are equally identifiable \\\hline
+		\end{tabularx}
+	}
+\end{table}
+
+
+
+
+
 

@@ -594,6 +594,38 @@
       \verb 10.1007/978-94-011-0249-0
       \endverb
     \endentry
+    \entry{noauthor_vortex_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=612d99487a2d1f6400032250f8be631a}{%
+           family={{Harvard Natural Sciences Lecture Demonstrations}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{fullhash}{612d99487a2d1f6400032250f8be631a}
+      \strng{bibnamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authorbibnamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authornamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authorfullhash}{612d99487a2d1f6400032250f8be631a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
+      \field{langid}{english}
+      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+      \verb{url}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
     \entry{holton2003_vorticity}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a535308fa0a5f96fe3976cc0f0748aeb}{%
@@ -1772,25 +1804,6 @@
       \field{isbn}{9780131274983}
       \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
       \field{year}{2007}
-    \endentry
-    \entry{noauthor_vortex_nodate}{online}{}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
-      \field{langid}{english}
-      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
-      \endverb
-      \verb{url}
-      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
-      \endverb
     \endentry
     \entry{noauthor_water_nodate}{online}{}
       \field{sortinit}{W}
@@ -2497,6 +2510,38 @@
       \verb 10.1007/978-94-011-0249-0
       \endverb
     \endentry
+    \entry{noauthor_vortex_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=612d99487a2d1f6400032250f8be631a}{%
+           family={{Harvard Natural Sciences Lecture Demonstrations}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{fullhash}{612d99487a2d1f6400032250f8be631a}
+      \strng{bibnamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authorbibnamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authornamehash}{612d99487a2d1f6400032250f8be631a}
+      \strng{authorfullhash}{612d99487a2d1f6400032250f8be631a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
+      \field{langid}{english}
+      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+      \verb{url}
+      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
+      \endverb
+    \endentry
     \entry{holton2003_vorticity}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a535308fa0a5f96fe3976cc0f0748aeb}{%
@@ -3675,25 +3720,6 @@
       \field{isbn}{9780131274983}
       \field{title}{An Introduction to Computational Fluid Dynamics: The Finite Volume Method}
       \field{year}{2007}
-    \endentry
-    \entry{noauthor_vortex_nodate}{online}{}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Water moving around a cylindrical object makes the cylinder swing at the vortex shedding frequency.}
-      \field{langid}{english}
-      \field{title}{Vortex Shedding in Water {|} Harvard Natural Sciences Lecture Demonstrations}
-      \field{urlday}{23}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
-      \endverb
-      \verb{url}
-      \verb https://sciencedemonstrations.fas.harvard.edu/presentations/vortex-shedding
-      \endverb
     \endentry
     \entry{noauthor_water_nodate}{online}{}
       \field{sortinit}{W}
