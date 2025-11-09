@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 12:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1930,8 +1930,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/12 Reynolds Number and Kinematic
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\TU/TimesNewRoman(0)/m/n/12 Temperature impacts kinematic
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 43--43
+\TU/TimesNewRoman(0)/m/n/12 viscosities, varying the Reynolds
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 43--43
+\TU/TimesNewRoman(0)/m/n/12 number$[]$ (“The Relationship Be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+\TU/TimesNewRoman(0)/m/n/12 tween Reynolds Number and
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 43--43
+\TU/TimesNewRoman(0)/m/n/12 pacting the vortex shedding fre-
  []
 
 
