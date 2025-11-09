@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 12:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1910,52 +1910,52 @@ Overfull \hbox (0.5658pt too wide) in paragraph at lines 157--158
 \openout2 = `variables.aux'.
 
  (variables.tex
-Underfull \hbox (badness 2460) in paragraph at lines 22--22
+Underfull \hbox (badness 2460) in paragraph at lines 31--31
 []|\TU/TimesNewRoman(0)/m/n/12 Various parameters could impact
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 22--22
+Underfull \hbox (badness 3386) in paragraph at lines 31--31
 []|\TU/TimesNewRoman(0)/m/n/12 Impacts the development of the
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 22--22
+Underfull \hbox (badness 1158) in paragraph at lines 31--31
 []|\TU/TimesNewRoman(0)/m/n/12 Standardizes numerical uncertain-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 matic viscosities, altering the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 []|\TU/TimesNewRoman(0)/m/n/12 Temperature impacts kinematic
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 43--43
+Underfull \hbox (badness 1515) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 viscosities, varying the Reynolds
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 43--43
+Underfull \hbox (badness 3407) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 number$[]$ (“The Relationship Be-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 tween Reynolds Number and
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 43--43
+Underfull \hbox (badness 2452) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 pacting the vortex shedding fre-
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 43--43
+Underfull \hbox (badness 3049) in paragraph at lines 52--52
 \TU/TimesNewRoman(0)/m/n/12 mining the vortex shedding fre-
  []
 
@@ -2209,7 +2209,9 @@ Overfull \hbox (61.12825pt too wide) in paragraph at lines 471--472
 [25]
 File: images/shapes.jpg Graphic file (type bmp)
 <images/shapes.jpg>
- [26] [27] [28]) [29]
+ [26] [27] [28]) [29
+
+] [30]
 \openout2 = `results.aux'.
 
  (results.tex
@@ -2233,11 +2235,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 4.
 
-[30
+[31
 
 
 
-] [31]
+] [32]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 68.
@@ -2256,29 +2258,29 @@ File: images/3face_graph.pdf Graphic file (type pdf)
 <use images/3face_graph.pdf>
 File: images/4face_graph.pdf Graphic file (type pdf)
 <use images/4face_graph.pdf>
-[32
+[33
 
 ]
 File: images/5face_graph.pdf Graphic file (type pdf)
 <use images/5face_graph.pdf>
 File: images/6face_graph.pdf Graphic file (type pdf)
 <use images/6face_graph.pdf>
- [33]
+ [34]
 File: images/7face_graph.pdf Graphic file (type pdf)
 <use images/7face_graph.pdf>
 File: images/8face_graph.pdf Graphic file (type pdf)
 <use images/8face_graph.pdf>
- [34]
+ [35]
 File: images/9face_graph.pdf Graphic file (type pdf)
 <use images/9face_graph.pdf>
 File: images/10face_graph.pdf Graphic file (type pdf)
 <use images/10face_graph.pdf>
- [35]
+ [36]
 File: images/11face_graph.pdf Graphic file (type pdf)
 <use images/11face_graph.pdf>
 File: images/12face_graph.pdf Graphic file (type pdf)
 <use images/12face_graph.pdf>
- [36] [37]
+ [37] [38]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 152.
@@ -2307,34 +2309,34 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 178.
 
-[38
+[39
 
 ]
 File: images/overall.pdf Graphic file (type pdf)
 <use images/overall.pdf>
- [39] [40]) [41
+ [40] [41]) [42
 
 ]
 \openout2 = `conclusion.aux'.
 
- (conclusion.tex [42
+ (conclusion.tex [43
 
 
 
-]) [43]
+]) [44]
 \openout2 = `evaluation.aux'.
 
- (evaluation.tex [44
+ (evaluation.tex [45
 
 
 
-]) [45]
+]) [46]
 Overfull \hbox (5.57947pt too wide) in paragraph at lines 114--114
 [][]\TU/TimesNewRoman(0)/m/n/12 Awbi, H. B. (1981). An assessment of the univer
 sal strouhal number concepts for two-dimensional
  []
 
-[46
+[47
 
 
 ]
@@ -2358,18 +2360,18 @@ Overfull \hbox (4.71342pt too wide) in paragraph at lines 114--114
 NewRoman(0)/m/n/12 . Udemy.
  []
 
-[47]
+[48]
 Overfull \hbox (12.99612pt too wide) in paragraph at lines 114--114
 [][]\TU/TimesNewRoman(0)/m/it/12 Original Prusa MINI+ Halbmontiert | Original P
 rusa 3D-Drucker direkt von Josef Prusa \TU/TimesNewRoman(0)/m/n/12 [Prusa3D
  []
 
-[48] [49] [50] (appendices/appendixA.tex
+[49] [50] [51] (appendices/appendixA.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 5.
- (code/dataAnalysis.py [51
+ (code/dataAnalysis.py [52
 
-] [52]))
+] [53]))
 (appendices/appendixB.tex
 File: images/2Face/2Face_0s.jpg Graphic file (type bmp)
 <images/2Face/2Face_0s.jpg>
@@ -2383,7 +2385,7 @@ File: images/2Face/2Face_4s.jpg Graphic file (type bmp)
 <images/2Face/2Face_4s.jpg>
 File: images/2Face/2Face_5s.jpg Graphic file (type bmp)
 <images/2Face/2Face_5s.jpg>
- [53]
+ [54]
 File: images/3Face/3Face_0s.jpg Graphic file (type bmp)
 <images/3Face/3Face_0s.jpg>
 File: images/3Face/3Face_1s.jpg Graphic file (type bmp)
@@ -2396,7 +2398,7 @@ File: images/3Face/3Face_4s.jpg Graphic file (type bmp)
 <images/3Face/3Face_4s.jpg>
 File: images/3Face/3Face_5s.jpg Graphic file (type bmp)
 <images/3Face/3Face_5s.jpg>
- [54]
+ [55]
 File: images/4Face/4Face_0s.jpg Graphic file (type bmp)
 <images/4Face/4Face_0s.jpg>
 File: images/4Face/4Face_1s.jpg Graphic file (type bmp)
@@ -2409,7 +2411,7 @@ File: images/4Face/4Face_4s.jpg Graphic file (type bmp)
 <images/4Face/4Face_4s.jpg>
 File: images/4Face/4Face_5s.jpg Graphic file (type bmp)
 <images/4Face/4Face_5s.jpg>
- [55]
+ [56]
 File: images/5Face/5Face_0s.jpg Graphic file (type bmp)
 <images/5Face/5Face_0s.jpg>
 File: images/5Face/5Face_1s.jpg Graphic file (type bmp)
@@ -2422,7 +2424,7 @@ File: images/5Face/5Face_4s.jpg Graphic file (type bmp)
 <images/5Face/5Face_4s.jpg>
 File: images/5Face/5Face_5s.jpg Graphic file (type bmp)
 <images/5Face/5Face_5s.jpg>
- [56]
+ [57]
 File: images/6Face/6Face_0s.jpg Graphic file (type bmp)
 <images/6Face/6Face_0s.jpg>
 File: images/6Face/6Face_1s.jpg Graphic file (type bmp)
@@ -2435,7 +2437,7 @@ File: images/6Face/6Face_4s.jpg Graphic file (type bmp)
 <images/6Face/6Face_4s.jpg>
 File: images/6Face/6Face_5s.jpg Graphic file (type bmp)
 <images/6Face/6Face_5s.jpg>
- [57]
+ [58]
 File: images/7Face/7Face_0s.jpg Graphic file (type bmp)
 <images/7Face/7Face_0s.jpg>
 File: images/7Face/7Face_1s.jpg Graphic file (type bmp)
@@ -2448,7 +2450,7 @@ File: images/7Face/7Face_4s.jpg Graphic file (type bmp)
 <images/7Face/7Face_4s.jpg>
 File: images/7Face/7Face_5s.jpg Graphic file (type bmp)
 <images/7Face/7Face_5s.jpg>
- [58]
+ [59]
 File: images/8Face/8Face_0s.jpg Graphic file (type bmp)
 <images/8Face/8Face_0s.jpg>
 File: images/8Face/8Face_1s.jpg Graphic file (type bmp)
@@ -2461,7 +2463,7 @@ File: images/8Face/8Face_4s.jpg Graphic file (type bmp)
 <images/8Face/8Face_4s.jpg>
 File: images/8Face/8Face_5s.jpg Graphic file (type bmp)
 <images/8Face/8Face_5s.jpg>
- [59]
+ [60]
 File: images/9Face/9Face_0s.jpg Graphic file (type bmp)
 <images/9Face/9Face_0s.jpg>
 File: images/9Face/9Face_1s.jpg Graphic file (type bmp)
@@ -2474,7 +2476,7 @@ File: images/9Face/9Face_4s.jpg Graphic file (type bmp)
 <images/9Face/9Face_4s.jpg>
 File: images/9Face/9Face_5s.jpg Graphic file (type bmp)
 <images/9Face/9Face_5s.jpg>
- [60]
+ [61]
 File: images/10Face/10Face_0s.jpg Graphic file (type bmp)
 <images/10Face/10Face_0s.jpg>
 File: images/10Face/10Face_1s.jpg Graphic file (type bmp)
@@ -2487,7 +2489,7 @@ File: images/10Face/10Face_4s.jpg Graphic file (type bmp)
 <images/10Face/10Face_4s.jpg>
 File: images/10Face/10Face_5s.jpg Graphic file (type bmp)
 <images/10Face/10Face_5s.jpg>
- [61]
+ [62]
 File: images/11Face/11Face_0s.jpg Graphic file (type bmp)
 <images/11Face/11Face_0s.jpg>
 File: images/11Face/11Face_1s.jpg Graphic file (type bmp)
@@ -2500,7 +2502,7 @@ File: images/11Face/11Face_4s.jpg Graphic file (type bmp)
 <images/11Face/11Face_4s.jpg>
 File: images/11Face/11Face_5s.jpg Graphic file (type bmp)
 <images/11Face/11Face_5s.jpg>
- [62]
+ [63]
 File: images/12Face/12Face_0s.jpg Graphic file (type bmp)
 <images/12Face/12Face_0s.jpg>
 File: images/12Face/12Face_1s.jpg Graphic file (type bmp)
@@ -2514,7 +2516,7 @@ File: images/12Face/12Face_4s.jpg Graphic file (type bmp)
 File: images/12Face/12Face_5s.jpg Graphic file (type bmp)
 <images/12Face/12Face_5s.jpg>
 )
-[63] [64] (main.aux (introduction.aux) (background.aux) (variables.aux)
+[64] [65] (main.aux (introduction.aux) (background.aux) (variables.aux)
 (equipment.aux) (method.aux) (results.aux) (conclusion.aux) (evaluation.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2535,4 +2537,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  137i,19n,129p,1612b,5547s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (65 pages).
+Output written on main.pdf (66 pages).
