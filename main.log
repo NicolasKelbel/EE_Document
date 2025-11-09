@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 20:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 20:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1922,6 +1922,11 @@ Underfull \hbox (badness 3386) in paragraph at lines 32--32
 
 Underfull \hbox (badness 1158) in paragraph at lines 32--32
 []|\TU/TimesNewRoman(0)/m/n/12 Standardizes numerical uncertain-
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 54--54
+[]|\TU/TimesNewRoman(0)/m/n/12 Bluff bodies constructed and 3D
  []
 
 
