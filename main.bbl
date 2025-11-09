@@ -148,6 +148,39 @@
       \verb https://www.ansys.com/products/ansys-workbench
       \endverb
     \endentry
+    \entry{Awbi_1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00461093a2a61f98ad5611d49f241bf3}{%
+           family={Awbi},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{fullhash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{bibnamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authorbibnamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authornamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authorfullhash}{00461093a2a61f98ad5611d49f241bf3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Aeronautical Journal}
+      \field{number}{850}
+      \field{title}{An assessment of the universal Strouhal number concepts for two-dimensional bluff bodies}
+      \field{volume}{85}
+      \field{year}{1981}
+      \field{pages}{467\bibrangedash 469}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1017/S0001924000030359
+      \endverb
+    \endentry
     \entry{buresti1998}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d35aeb13e108338f184a485252df0ec1}{%
@@ -1196,68 +1229,6 @@
       \endverb
       \verb{url}
       \verb https://www.openfoam.com/
-      \endverb
-    \endentry
-    \entry{oran2002}{inbook}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8a1257315e81a92b6050d4726a3056ea}{%
-           family={Oran},
-           familyi={O\bibinitperiod},
-           given={Elaine\bibnamedelima S.},
-           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae6aa2b29082dd0a6e3768fd6656a5af}{%
-           family={Boris},
-           familyi={B\bibinitperiod},
-           given={Jay\bibnamedelima P.},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=7f936ba7a00efb9cbc751c65eb2fd482}{%
-           family={Meyers},
-           familyi={M\bibinitperiod},
-           given={Robert\bibnamedelima A.},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Academic Press}%
-      }
-      \strng{namehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{fullhash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{bibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authorbibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authornamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authorfullhash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{editorbibnamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \strng{editornamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \strng{editorfullhash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclopedia of Physical Science and Technology}
-      \field{edition}{3}
-      \field{isbn}{9780122274107}
-      \field{title}{Fluid Dynamics}
-      \field{urlday}{6}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{year}{2002}
-      \field{urldateera}{ce}
-      \field{pages}{31\bibrangedash 43}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1016/B0-12-227410-5/00248-9
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
     \entry{noauthor_prusa_nodate}{online}{}
@@ -2064,6 +2035,39 @@
       \verb https://www.ansys.com/products/ansys-workbench
       \endverb
     \endentry
+    \entry{Awbi_1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00461093a2a61f98ad5611d49f241bf3}{%
+           family={Awbi},
+           familyi={A\bibinitperiod},
+           given={H.\bibnamedelimi B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{fullhash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{bibnamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authorbibnamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authornamehash}{00461093a2a61f98ad5611d49f241bf3}
+      \strng{authorfullhash}{00461093a2a61f98ad5611d49f241bf3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Aeronautical Journal}
+      \field{number}{850}
+      \field{title}{An assessment of the universal Strouhal number concepts for two-dimensional bluff bodies}
+      \field{volume}{85}
+      \field{year}{1981}
+      \field{pages}{467\bibrangedash 469}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1017/S0001924000030359
+      \endverb
+    \endentry
     \entry{buresti1998}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d35aeb13e108338f184a485252df0ec1}{%
@@ -3112,68 +3116,6 @@
       \endverb
       \verb{url}
       \verb https://www.openfoam.com/
-      \endverb
-    \endentry
-    \entry{oran2002}{inbook}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8a1257315e81a92b6050d4726a3056ea}{%
-           family={Oran},
-           familyi={O\bibinitperiod},
-           given={Elaine\bibnamedelima S.},
-           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae6aa2b29082dd0a6e3768fd6656a5af}{%
-           family={Boris},
-           familyi={B\bibinitperiod},
-           given={Jay\bibnamedelima P.},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=7f936ba7a00efb9cbc751c65eb2fd482}{%
-           family={Meyers},
-           familyi={M\bibinitperiod},
-           given={Robert\bibnamedelima A.},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Academic Press}%
-      }
-      \strng{namehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{fullhash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{bibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authorbibnamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authornamehash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{authorfullhash}{3f97129417bcf1b5b5d8c895d2a745da}
-      \strng{editorbibnamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \strng{editornamehash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \strng{editorfullhash}{7f936ba7a00efb9cbc751c65eb2fd482}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclopedia of Physical Science and Technology}
-      \field{edition}{3}
-      \field{isbn}{9780122274107}
-      \field{title}{Fluid Dynamics}
-      \field{urlday}{6}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{year}{2002}
-      \field{urldateera}{ce}
-      \field{pages}{31\bibrangedash 43}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1016/B0-12-227410-5/00248-9
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/B0122274105002489
       \endverb
     \endentry
     \entry{noauthor_prusa_nodate}{online}{}

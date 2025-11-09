@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  8 NOV 2025 23:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.9.4)  9 NOV 2025 12:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1900,7 +1900,7 @@ File: images/vonKarmanStreet.png Graphic file (type bmp)
 \pgf@layerbox@foreground=\box115
 \pgf@layerboxsaved@foreground=\box116
 
-Overfull \hbox (0.5658pt too wide) in paragraph at lines 159--160
+Overfull \hbox (0.5658pt too wide) in paragraph at lines 157--158
  [] 
  []
 
@@ -1927,11 +1927,6 @@ Underfull \hbox (badness 1158) in paragraph at lines 22--22
 
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
 \TU/TimesNewRoman(0)/m/n/12 matic viscosities, altering the
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 43--43
-\TU/TimesNewRoman(0)/m/n/12 ber (“The Relationship Between
  []
 
 
@@ -2314,6 +2309,11 @@ File: images/overall.pdf Graphic file (type pdf)
 
 
 ]) [45]
+Overfull \hbox (5.57947pt too wide) in paragraph at lines 114--114
+[][]\TU/TimesNewRoman(0)/m/n/12 Awbi, H. B. (1981). An assessment of the univer
+sal strouhal number concepts for two-dimensional
+ []
+
 [46
 
 
@@ -2500,25 +2500,16 @@ File: images/12Face/12Face_5s.jpg Graphic file (type bmp)
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: AB2ADDEFFF189E952BCFF5DE62772B22;7756.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  69149 strings out of 409617
- 1673796 string characters out of 5773608
- 2801194 words of memory out of 5000000
+ 1673799 string characters out of 5773608
+ 2801214 words of memory out of 5000000
  90337 multiletter control sequences out of 15000+600000
  568312 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
