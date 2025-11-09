@@ -226,7 +226,7 @@ The \textit{All Triangles Method} was utilized to create the mesh. A global unit
 
 \subsubsection{The OpenFOAM Simulation}
 \label{sec:openFoam}
-The theoretical part of this EE was conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024} in Windows Subsystem for Linux (WSL) \parencite{noauthor_windows_nodate}. The solver pimpleFOAM was chosen as it facilitates robust handling of both laminar and turbulent flow, enabling the verification if the flow is truly laminar \parencite{noauthor_pimplefoam_nodate}. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
+The theoretical part of this EE was conducted using the open-source CFD software package OpenFOAM \parencite{noauthor_openfoam_2024} in Windows Subsystem for Linux (WSL) \parencite{noauthor_windows_nodate}. The solver pimpleFOAM was chosen as it facilitates robust handling of both laminar and turbulent flow, enabling the verification that the flow is truly laminar \parencite{noauthor_pimplefoam_nodate}. Utilizing reporting functions, one can extract the lift coefficient $C_{L}$, which shows the fluctuations in the lift force acting on the bluff body.
 
 \subsubsection{Simulation Settings}
 \label{sec:simulationSettings}
@@ -353,7 +353,7 @@ To adhere to the scope of this essay, the simulation setup was adapted from a ca
 			\hline
 		\end{tabularx}
 	}
-	\caption*{\textbf{Table 3 (continued):} Overview of the changes made to the simulation template.}
+	\caption*{\textbf{Table 4 (continued):} Overview of the changes made to the simulation template.}
 	\label{tab:simulation_changes2}
 	
 \end{table}
@@ -494,7 +494,7 @@ The flow velocity for the subsequent calculation of the Reynolds number was meas
 
 \label{sec:vortexSheddingFreq}
 
-The inverse relationship given by \Cref{eq:fAndT} will be used to determine the vortex shedding frequency. By measuring the time interval between the formation of two consecutive vertices on one side of the bluff body, one can find the time period and therefore the frequency of vortex shedding. To obtain an accurate vortex shedding frequency, the determination of the time period was completed after periodic vortex shedding was achieved, omitting the initial startup phase in which the flow developed. A Fast Fourier Transform approach was not chosen due to the lack of sufficient runtime during the trials on either investigation \parencites[10--11]{shi2025vortex}[12]{xu_experimental_2025}.
+The inverse relationship given by \Cref{eq:fAndT} was used to determine the vortex shedding frequency. By measuring the time interval between the formation of two consecutive vertices on one side of the bluff body, one can find the time period and therefore the frequency of vortex shedding. To obtain an accurate vortex shedding frequency, the determination of the time period was completed after periodic vortex shedding was achieved, omitting the initial startup phase in which the flow developed. A Fast Fourier Transform approach was not chosen due to the lack of sufficient runtime during the trials on either investigation \parencites[10--11]{shi2025vortex}[12]{xu_experimental_2025}.
 
 \subsubsection{Theoretical Investigation}
 \label{sec:theoreticalMethod}
